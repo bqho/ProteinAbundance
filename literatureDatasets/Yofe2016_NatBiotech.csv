@@ -1,0 +1,1760 @@
+ORF,Gene,SWAT GFP localization,mCherry localization,Seamless GFP localization,"C' GFP localization (Won-Ki H. et. al. 2003)",SWAT GFP intensity median (a.u.),Seamless GFP intensity median (a.u.),Library tybe
+YAL002W,VPS8,punctate,punctate,punctate,punctate,73.2,10.3,SWAT-GFP
+YAL005C,SSA1,cytosol,cytosol,cytosol,cytosol,203.0,257.1,SWAT-GFP
+YAL007C,ERP2,"ER,punctate","ER,vacuole,punctate",punctate,ER,118.3,43.0,SWAT-SP-GFP
+YAL008W,FUN14,ER,vacuole,ambigous,mitochondria,38.2,10.1,SWAT-GFP
+YAL009W,SPO7,ER,ER,ER,nucleus,40.1,10.7,SWAT-GFP
+YAL010C,MDM10,mitochondria,0,0,mitochondria,N/D,N/D,SWAT-GFP
+YAL014C,SYN8,punctate,"punctate,vacuole",below threshold,"nucleus,cytosol",91.6,13.5,SWAT-GFP
+YAL018C,LDS1,punctate,0,0,below threshold,N/D,N/D,SWAT-GFP
+YAL022C,FUN26,"punctate,vacuole membrane",vacuole membrane,"punctate,vacuole membrane",0,69.3,22.1,SWAT-GFP
+YAL023C,PMT2,ER,ER,below threshold,ER,101.0,10.6,SWAT-GFP
+YAL026C,DRS2,"ER,punctate",ER,punctate,"punctate,punctate",61.5,15.8,SWAT-GFP
+YAL028W,FRT2,"ambigous,ER",vacuole,below threshold,0,25.4,8.8,SWAT-GFP
+YAL030W,SNC1,"cell periphery,bud","cell periphery,bud",bud,0,102.7,17.7,SWAT-GFP
+YAL035W,FUN12,cytosol,cytosol,cytosol,cytosol,151.3,89.4,SWAT-GFP
+YAL040C,CLN3,below threshold,below threshold,below threshold,0,14.0,9.8,SWAT-GFP
+YAL042W,ERV46,ER,0,ER,below threshold,69.5,28.9,SWAT-GFP
+YAL048C,GEM1,mitochondria,0,0,0,N/D,N/D,SWAT-GFP
+YAL053W,FLC2,ER,vacuole,ambigous,"ambiguous,neck,cell periphery,bud,punctate,punctate,bud neck",46.2,14.3,SWAT-SP-GFP
+YAL058W,CNE1,ER,ER,ambigous,ER,62.8,17.1,SWAT-SP-GFP
+YAL063C,FLO9,cell periphery,below threshold,below threshold,0,0.0,11.9,SWAT-SP-GFP
+YAL064W-B,YAL064W-B,ER,ER,below threshold,below threshold,21.7,8.3,SWAT-GFP
+YAL065C,YAL065C,below threshold,below threshold,below threshold,below threshold,29.5,9.1,SWAT-GFP
+YAL067C,SEO1,cell periphery,"cell periphery,vacuole",below threshold,below threshold,45.6,9.0,SWAT-GFP
+YAR002C-A,ERP1,"punctate,vacuole membrane","punctate,vacuole",punctate,vacuole membrane,89.4,51.0,SWAT-SP-GFP
+YAR027W,UIP3,"punctate,vacuole membrane",vacuole membrane,"punctate,vacuole",ambiguous,85.6,10.4,SWAT-GFP
+YAR028W,YAR028W,"punctate,vacuole membrane",vacuole membrane,below threshold,ambiguous,71.6,9.5,SWAT-GFP
+YAR031W,PRM9,"ER,punctate","ER,punctate",below threshold,below threshold,37.7,10.9,SWAT-GFP
+YAR033W,MST28,ER,ER,below threshold,below threshold,74.7,8.5,SWAT-GFP
+YAR042W,SWH1,punctate,punctate,below threshold,below threshold,42.7,10.4,SWAT-GFP
+YAR050W,FLO1,cell periphery,below threshold,cell periphery,0,37.8,12.0,SWAT-SP-GFP
+YAR066W,YAR066W,ER,vacuole,below threshold,0,24.2,12.7,SWAT-SP-GFP
+YAR071W,PHO11,"cell periphery,ER","cell periphery,vacuole",below threshold,vacuole,47.8,13.2,SWAT-SP-GFP
+YBL001C,ECM15,cytosol,cytosol,cytosol,"nucleus,cytosol",278.3,43.8,SWAT-GFP
+YBL007C,SLA1,"punctate,bud neck","punctate,bud neck","punctate,bud neck","cytosol,punctate",115.9,28.5,SWAT-GFP
+YBL010C,YBL010C,punctate,punctate,punctate,punctate,37.3,13.3,SWAT-GFP
+YBL011W,SCT1,ER,ER,ER,ER,56.1,15.9,SWAT-GFP
+YBL017C,PEP1,"vacuole,punctate",vacuole,punctate,"punctate,punctate",59.5,24.0,SWAT-SP-GFP
+YBL020W,RFT1,"ER,punctate","ER,vacuole",punctate,0,54.8,15.5,SWAT-GFP
+YBL037W,APL3,"punctate,bud neck","punctate,bud neck","cell periphery,bud neck","bud neck,cell periphery",42.2,15.8,SWAT-GFP
+YBL039C,URA7,"ER,vacuole",vacuole,cytosol,cytosol,49.3,72.2,SWAT-SP-GFP
+YBL039W-B,YBL039W-B,punctate,"punctate,vacuole",punctate,0,40.5,9.9,SWAT-GFP
+YBL041W,PRE7,"cytosol,nucleus",cytosol,"cytosol,nucleus",0,106.5,11.3,SWAT-GFP
+YBL042C,FUI1,"cell periphery,vacuole","cell periphery,vacuole",cell periphery,"cell periphery,bud",N/D,N/D,SWAT-GFP
+YBL047C,EDE1,"punctate,bud neck","punctate,bud neck","punctate,bud neck",punctate,116.4,28.9,SWAT-GFP
+YBL050W,SEC17,"punctate,vacuole membrane",vacuole membrane,punctate,below threshold,44.1,0.0,SWAT-GFP
+YBL058W,SHP1,"cytosol,nucleus","cytosol,nucleus",below threshold,"nucleus,cytosol",99.5,12.2,SWAT-GFP
+YBL059W,YBL059W,mitochondria,mitochondria,"below threshold,mitochondria",mitochondria,28.3,9.8,SWAT-GFP
+YBL061C,SKT5,bud neck,bud neck,bud neck,"bud neck,nucleus,cytosol",40.0,21.4,SWAT-GFP
+YBL069W,AST1,punctate,punctate,punctate,"nucleus,cytosol",83.3,20.1,SWAT-GFP
+YBL078C,ATG8,"cytosol,punctate",cytosol,"cytosol,punctate",below threshold,73.2,17.4,SWAT-GFP
+YBL082C,ALG3,ER,ER,ER,"vacuole,cytosol",110.1,13.3,SWAT-GFP
+YBL089W,AVT5,punctate,punctate,below threshold,below threshold,31.6,10.8,SWAT-GFP
+YBL091C-A,SCS22,cytosol,cytosol,ambigous,0,75.2,13.6,SWAT-GFP
+YBL095W,MRX3,ER,vacuole,below threshold,mitochondria,22.3,13.6,SWAT-SP-GFP
+YBL100C,YBL100C,ER,0,0,0,N/D,N/D,SWAT-GFP
+YBL101C,ECM21,cytosol,cytosol,below threshold,cytosol,50.5,10.4,SWAT-GFP
+YBL102W,SFT2,punctate,"punctate,vacuole",punctate,punctate,104.3,24.2,SWAT-GFP
+YBL105C,PKC1,bud neck,bud neck,bud neck,"ambiguous,neck,bud,cytosol,bud neck",52.1,16.0,SWAT-GFP
+YBL106C,SRO77,"punctate,bud neck","punctate,bud neck",punctate,below threshold,51.8,13.3,SWAT-GFP
+YBL108C-A,PAU9,ER,vacuole,below threshold,below threshold,27.2,11.8,SWAT-SP-GFP
+YBR002C,RER2,"ER,punctate","ER,punctate","ER,punctate",ER,25.2,16.0,SWAT-GFP
+YBR004C,GPI18,ER,ER,ER,0,50.1,14.2,SWAT-GFP
+YBR005W,RCR1,ER,vacuole,below threshold,cytosol,37.9,12.6,SWAT-GFP
+YBR008C,FLR1,cell periphery,"cell periphery,vacuole",below threshold,"cell periphery,vacuole",60.2,10.7,SWAT-GFP
+YBR013C,YBR013C,ER,"ER,vacuole",below threshold,below threshold,83.1,11.7,SWAT-SP-GFP
+YBR015C,MNN2,ER,vacuole,punctate,punctate,37.1,44.0,SWAT-SP-GFP
+YBR021W,FUR4,"cell periphery,vacuole","cell periphery,vacuole",below threshold,below threshold,25.0,12.2,SWAT-GFP
+YBR023C,CHS3,ER,ER,punctate,punctate,46.6,14.9,SWAT-GFP
+YBR029C,CDS1,ER,ER,ER,0,76.4,10.8,SWAT-GFP
+YBR036C,CSG2,ER,"ER,vacuole",vacuole,"ER,vacuole",58.2,15.1,SWAT-GFP
+YBR038W,CHS2,"cell periphery,vacuole membrane",vacuole,punctate,below threshold,38.6,13.3,SWAT-GFP
+YBR040W,FIG1,vacuole,vacuole,below threshold,below threshold,31.6,8.7,SWAT-GFP
+YBR041W,FAT1,"cell periphery,vacuole membrane,punctate","cell periphery,vacuole membrane,punctate",punctate,punctate,61.2,19.8,SWAT-GFP
+YBR042C,CST26,ER,0,0,punctate,N/D,N/D,SWAT-GFP
+YBR043C,QDR3,cell periphery,"cell periphery,vacuole",cell periphery,cell periphery,50.8,N/D,SWAT-GFP
+YBR054W,YRO2,ER,ER,"cell periphery,ER","cell periphery,bud",119.6,16.5,SWAT-GFP
+YBR056W,YBR056W,cytosol,cytosol,cytosol,cytosol,178.6,24.8,SWAT-GFP
+YBR058C-A,TSC3,ER,ER,ER,ER,67.5,30.6,SWAT-GFP
+YBR059C,AKL1,"cell periphery,punctate,bud neck","cell periphery,punctate,bud neck","below threshold,cytosol","bud neck,cell periphery,cytosol",86.8,14.5,SWAT-GFP
+YBR067C,TIP1,cell periphery,"cytosol,cell periphery","cytosol,cell periphery",ER,49.9,114.0,SWAT-SP-GFP
+YBR068C,BAP2,ER,vacuole,ER,"cell periphery,vacuole",29.8,18.6,SWAT-GFP
+YBR069C,TAT1,"cell periphery,ER","cell periphery,ER,vacuole",ER,"cell periphery,bud",44.4,25.3,SWAT-GFP
+YBR070C,ALG14,punctate,punctate,punctate,cytosol,24.0,10.8,SWAT-GFP
+YBR074W,PFF1,"punctate,vacuole membrane","punctate,vacuole membrane",punctate,below threshold,83.1,16.1,SWAT-GFP
+YBR077C,SLM4,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,61.7,30.9,SWAT-GFP
+YBR078W,ECM33,ER,ambigous,"ambigous,ER",0,39.3,11.5,SWAT-SP-GFP
+YBR080C,SEC18,"cytosol,punctate","cytosol,punctate",punctate,"punctate,punctate",115.1,32.4,SWAT-GFP
+YBR086C,IST2,cell periphery,cell periphery,cell periphery,0,75.1,28.3,SWAT-GFP
+YBR090C,YBR090C,punctate,ambigous,below threshold,"nucleus,cytosol",18.7,9.3,SWAT-GFP
+YBR092C,PHO3,ER,"cytosol,ER",below threshold,vacuole,52.3,12.2,SWAT-SP-GFP
+YBR093C,PHO5,"cell periphery,ER","cell periphery,vacuole",below threshold,vacuole,59.1,12.8,SWAT-SP-GFP
+YBR096W,YBR096W,punctate,punctate,punctate,ER,125.0,34.0,SWAT-GFP
+YBR097W,VPS15,"punctate,vacuole membrane","punctate,vacuole membrane","vacuole membrane,punctate",punctate,26.7,11.2,SWAT-GFP
+YBR102C,EXO84,"bud neck,nucleus",0,0,"ambiguous,neck,cell periphery,bud,bud neck",N/D,N/D,SWAT-GFP
+YBR105C,VID24,cytosol,cytosol,cytosol,"nucleus,cytosol",25.2,10.9,SWAT-GFP
+YBR106W,PHO88,ER,ER,ER,ER,165.8,16.8,SWAT-GFP
+YBR109C,CMD1,"bud,bud neck","bud,bud neck","cell periphery,punctate,bud neck","neck,cell periphery,bud,bud neck",216.9,78.1,SWAT-GFP
+YBR110W,ALG1,punctate,punctate,punctate,ER,48.4,12.2,SWAT-GFP
+YBR126W-A,YBR126W-A,ER,ER,ER,0,71.1,34.5,SWAT-GFP
+YBR127C,VMA2,"vacuole membrane,punctate","vacuole membrane,punctate","vacuole membrane,punctate",vacuole membrane,389.4,116.6,SWAT-GFP
+YBR128C,ATG14,"ER,punctate","vacuole,punctate","ambigous,punctate",below threshold,19.2,10.5,SWAT-GFP
+YBR131W,CCZ1,"cytosol,punctate","cytosol,punctate",punctate,punctate,33.9,9.7,SWAT-GFP
+YBR132C,AGP2,ER,"ER,vacuole",below threshold,ER,35.2,10.7,SWAT-GFP
+YBR139W,YBR139W,vacuole,vacuole,vacuole,vacuole,71.0,21.9,SWAT-SP-GFP
+YBR147W,RTC2,below threshold,below threshold,below threshold,cytosol,14.1,9.1,SWAT-GFP
+YBR150C,TBS1,nucleus,nucleus,below threshold,"nucleus,cytosol",27.0,12.6,SWAT-GFP
+YBR159W,IFA38,punctate,punctate,punctate,ER,112.8,108.5,SWAT-GFP
+YBR160W,CDC28,nucleus,cytosol,below threshold,"nucleus,cytosol",97.0,8.2,SWAT-GFP
+YBR161W,CSH1,"punctate,vacuole","punctate,vacuole",below threshold,vacuole,8.5,10.1,SWAT-GFP
+YBR162C,TOS1,"cell periphery,ER","cell periphery,vacuole",cytosol,vacuole,94.2,82.9,SWAT-SP-GFP
+YBR162W-A,YSY6,ER,ER,ER,ER,124.4,21.5,SWAT-GFP
+YBR164C,ARL1,cytosol,cytosol,cytosol,"punctate,punctate",177.5,42.3,SWAT-GFP
+YBR168W,PEX32,punctate,0,punctate,punctate,18.8,12.2,SWAT-GFP
+YBR170C,NPL4,nucleus,0,nucleus,"nucleus,cytosol",98.7,24.8,SWAT-GFP
+YBR171W,SEC66,"cell periphery,ER,punctate","cell periphery,ER,punctate",ER,ER,53.9,27.3,SWAT-GFP
+YBR172C,SMY2,cytosol,cytosol,cytosol,cytosol,44.1,20.9,SWAT-GFP
+YBR179C,FZO1,mitochondria,0,0,mitochondria,N/D,N/D,SWAT-GFP
+YBR180W,DTR1,cell periphery,"cell periphery,vacuole",below threshold,0,70.4,9.4,SWAT-GFP
+YBR183W,YPC1,ER,ER,below threshold,below threshold,27.7,9.6,SWAT-GFP
+YBR187W,GDT1,punctate,vacuole,below threshold,vacuole,114.8,11.2,SWAT-SP-GFP
+YBR199W,KTR4,vacuole,vacuole,vacuole,vacuole,47.1,21.9,SWAT-GFP
+YBR201C-A,YBR201C-A,below threshold,below threshold,below threshold,0,12.7,9.0,SWAT-GFP
+YBR201W,DER1,below threshold,below threshold,below threshold,below threshold,12.2,9.6,SWAT-GFP
+YBR204C,LDH1,ER,ER,below threshold,cytosol,62.4,11.1,SWAT-GFP
+YBR205W,KTR3,"punctate,vacuole","punctate,vacuole","punctate,vacuole",vacuole,61.0,15.2,SWAT-GFP
+YBR207W,FTH1,ER,ER,ER,vacuole membrane,28.9,12.3,SWAT-GFP
+YBR210W,ERV15,ER,"ER,vacuole",below threshold,cytosol,29.4,10.0,SWAT-GFP
+YBR214W,SDS24,cytosol,0,cytosol,cytosol,85.2,8.4,SWAT-GFP
+YBR217W,ATG12,cytosol,cytosol,below threshold,below threshold,53.4,11.7,SWAT-GFP
+YBR219C,YBR219C,below threshold,below threshold,punctate,below threshold,15.8,13.7,SWAT-GFP
+YBR220C,YBR220C,punctate,vacuole,ambigous,below threshold,28.9,10.2,SWAT-GFP
+YBR222C,PCS60,punctate,punctate,punctate,cytosol,118.2,16.1,SWAT-GFP
+YBR229C,ROT2,ER,ER,ER,below threshold,123.2,23.6,SWAT-SP-GFP
+YBR230C,OM14,cytosol,0,0,mitochondria,N/D,N/D,SWAT-GFP
+YBR235W,VHC1,vacuole membrane,vacuole membrane,vacuole membrane,ambiguous,44.5,11.4,SWAT-GFP
+YBR241C,YBR241C,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,96.5,12.1,SWAT-GFP
+YBR243C,ALG7,ER,ER,ER,0,81.3,14.1,SWAT-GFP
+YBR254C,TRS20,punctate,punctate,punctate,punctate,55.3,15.9,SWAT-GFP
+YBR255C-A,YBR255C-A,below threshold,below threshold,below threshold,0,15.3,9.1,SWAT-GFP
+YBR255W,MTC4,punctate,punctate,below threshold,punctate,30.2,9.8,SWAT-GFP
+YBR264C,YPT10,vacuole membrane,vacuole membrane,"ambigous,vacuole membrane",cytosol,61.3,14.5,SWAT-GFP
+YBR265W,TSC10,"ER,punctate","ER,punctate",ER,ER,57.4,12.8,SWAT-GFP
+YBR273C,UBX7,"ER,punctate","ER,punctate",ER,ER,75.1,13.3,SWAT-GFP
+YBR283C,SSH1,ER,ER,ER,ER,138.5,23.9,SWAT-GFP
+YBR286W,APE3,"ER,vacuole",vacuole,cytosol,ambiguous,95.3,83.7,SWAT-SP-GFP
+YBR287W,YBR287W,ER,0,0,ER,N/D,N/D,SWAT-GFP
+YBR288C,APM3,punctate,punctate,punctate,"punctate,punctate",46.6,12.8,SWAT-GFP
+YBR290W,BSD2,"punctate,vacuole",vacuole,vacuole,"ER,vacuole",25.5,14.6,SWAT-GFP
+YBR293W,VBA2,ER,ER,below threshold,below threshold,24.3,9.1,SWAT-GFP
+YBR294W,SUL1,ER,0,0,below threshold,N/D,N/D,SWAT-GFP
+YBR296C,PHO89,ER,ER,below threshold,ER,30.5,8.6,SWAT-GFP
+YBR298C,MAL31,"cell periphery,ER","cell periphery,vacuole",below threshold,below threshold,67.7,9.5,SWAT-GFP
+YBR301W,PAU24,cytosol,below threshold,below threshold,below threshold,53.9,8.6,SWAT-GFP
+YBR302C,COS2,vacuole,vacuole,below threshold,vacuole,40.6,8.6,SWAT-GFP
+YCL001W,RER1,punctate,vacuole,punctate,punctate,80.7,31.8,SWAT-GFP
+YCL002C,YCL002C,"cytosol,nucleus","cytosol,nucleus",below threshold,below threshold,21.1,10.1,SWAT-GFP
+YCL005W-A,VMA9,vacuole membrane,"cell periphery,vacuole",ambigous,0,27.4,8.6,SWAT-GFP
+YCL007C,YCL007C,punctate,0,0,0,N/D,N/D,SWAT-GFP
+YCL008C,STP22,"cytosol,punctate","cytosol,punctate","cytosol,punctate",0,34.6,15.7,SWAT-GFP
+YCL012C,YCL012C,"ambigous,ER",vacuole,ambigous,0,28.8,16.6,SWAT-SP-GFP
+YCL021W-A,YCL021W-A,vacuole,vacuole,below threshold,0,39.7,8.7,SWAT-GFP
+YCL025C,AGP1,ER,vacuole,ER,ER,46.2,27.1,SWAT-GFP
+YCL027W,FUS1,ER,ER,below threshold,vacuole,19.2,9.5,SWAT-GFP
+YCL029C,BIK1,punctate,punctate,punctate,"punctate,punctate",57.4,10.4,SWAT-GFP
+YCL034W,LSB5,cytosol,cytosol,cytosol,"nucleus,cytosol",86.2,24.0,SWAT-GFP
+YCL038C,ATG22,vacuole membrane,0,0,below threshold,N/D,N/D,SWAT-GFP
+YCL043C,PDI1,ER,ER,"ambigous,ER",vacuole,211.2,129.8,SWAT-SP-GFP
+YCL045C,EMC1,ER,ER,below threshold,ER,119.4,11.9,SWAT-SP-GFP
+YCL048W,SPS22,cytosol,cytosol,below threshold,0,21.1,12.1,SWAT-SP-GFP
+YCL048W-A,YCL048W-A,"cell periphery,vacuole","cell periphery,vacuole",below threshold,0,62.9,12.1,SWAT-SP-GFP
+YCL049C,YCL049C,ER,vacuole,"ambigous,mitochondria",below threshold,50.3,17.2,SWAT-SP-GFP
+YCL052C,PBN1,"ER,punctate","ER,punctate","punctate,bud neck",ER,43.8,12.8,SWAT-GFP
+YCL055W,KAR4,cytosol,cytosol,cytosol,"nucleus,cytosol",39.6,12.6,SWAT-GFP
+YCL056C,PEX34,punctate,punctate,punctate,punctate,41.1,14.1,SWAT-GFP
+YCL058C,FYV5,cytosol,cytosol,below threshold,below threshold,116.9,8.5,SWAT-GFP
+YCL063W,VAC17,"cytosol,punctate",vacuole,below threshold,cytosol,25.5,9.9,SWAT-GFP
+YCL069W,VBA3,ER,ER,below threshold,below threshold,19.7,8.6,SWAT-GFP
+YCL073C,GEX1,cell periphery,"cell periphery,vacuole",ER,below threshold,35.3,N/D,SWAT-GFP
+YCR002C,CDC10,bud neck,bud neck,"cell periphery,bud neck","bud neck,cell periphery",106.7,26.4,SWAT-GFP
+YCR004C,YCP4,cell periphery,cell periphery,"cell periphery,punctate","cytosol,punctate",237.8,51.6,SWAT-GFP
+YCR005C,CIT2,punctate,punctate,punctate,cytosol,15.2,20.2,SWAT-GFP
+YCR007C,YCR007C,"cell periphery,vacuole","cell periphery,vacuole",below threshold,below threshold,66.7,8.8,SWAT-GFP
+YCR009C,RVS161,"cytosol,punctate","cytosol,punctate",punctate,"cytosol,punctate",152.0,15.0,SWAT-GFP
+YCR010C,ADY2,"cell periphery,vacuole",0,0,below threshold,N/D,N/D,SWAT-GFP
+YCR011C,ADP1,vacuole,vacuole,vacuole,ER,58.0,17.8,SWAT-SP-GFP
+YCR017C,CWH43,ER,ER,below threshold,ER,99.1,10.0,SWAT-GFP
+YCR021C,HSP30,ER,ER,below threshold,cell periphery,26.9,9.4,SWAT-GFP
+YCR023C,YCR023C,vacuole membrane,0,0,ambiguous,N/D,N/D,SWAT-GFP
+YCR024C-B,YCR024C-B,below threshold,below threshold,0,0,N/D,N/D,SWAT-GFP
+YCR026C,NPP1,punctate,punctate,punctate,below threshold,34.6,9.4,SWAT-GFP
+YCR027C,RHB1,cytosol,cytosol,below threshold,cytosol,60.0,15.1,SWAT-GFP
+YCR028C,FEN2,"cell periphery,vacuole","cell periphery,vacuole",below threshold,vacuole,36.6,10.6,SWAT-GFP
+YCR032W,BPH1,vacuole membrane,vacuole membrane,below threshold,0,48.5,10.2,SWAT-GFP
+YCR034W,ELO2,ER,0,0,ER,N/D,N/D,SWAT-GFP
+YCR037C,PHO87,cell periphery,0,cell periphery,ER,47.2,12.8,SWAT-GFP
+YCR043C,YCR043C,cytosol,cytosol,"ambigous,punctate",punctate,108.5,14.9,SWAT-GFP
+YCR045C,RRT12,ER,vacuole,below threshold,below threshold,38.7,11.7,SWAT-SP-GFP
+YCR048W,ARE1,ER,ER,"ambigous,ER",ER,64.8,15.3,SWAT-GFP
+YCR067C,SED4,"ER,punctate",0,0,ER,N/D,N/D,SWAT-GFP
+YCR068W,ATG15,ER,"ER,vacuole",ambigous,below threshold,42.9,10.8,SWAT-GFP
+YCR069W,CPR4,"ER,vacuole,punctate",vacuole,vacuole,vacuole,63.7,16.4,SWAT-SP-GFP
+YCR075C,ERS1,below threshold,below threshold,ambigous,below threshold,16.2,9.7,SWAT-GFP
+YCR089W,FIG2,cell periphery,cell periphery,below threshold,0,38.1,12.2,SWAT-SP-GFP
+YCR094W,CDC50,"ER,punctate","ER,vacuole",punctate,punctate,45.1,13.2,SWAT-GFP
+YCR098C,GIT1,"cell periphery,vacuole","cell periphery,vacuole",below threshold,below threshold,72.6,8.4,SWAT-GFP
+YCR101C,YCR101C,"ER,vacuole",vacuole,below threshold,below threshold,31.0,11.3,SWAT-SP-GFP
+YDL001W,RMD1,vacuole membrane,"ambigous,vacuole membrane",vacuole membrane,cytosol,44.1,14.2,SWAT-GFP
+YDL009C,YDL009C,cytosol,cytosol,below threshold,below threshold,102.8,11.6,SWAT-GFP
+YDL010W,GRX6,"ER,vacuole",vacuole,below threshold,vacuole,47.1,11.3,SWAT-SP-GFP
+YDL012C,YDL012C,"cell periphery,bud","cell periphery,bud,vacuole","cell periphery,bud neck",cell periphery,118.4,62.8,SWAT-GFP
+YDL015C,TSC13,"ER,punctate","ER,vacuole","ER,punctate",ER,111.9,39.6,SWAT-GFP
+YDL018C,ERP3,ER,ER,"below threshold,punctate",ER,101.6,12.2,SWAT-SP-GFP
+YDL019C,OSH2,"cell periphery,punctate","cell periphery,punctate",cell periphery,punctate,89.9,16.1,SWAT-GFP
+YDL022C-A,YDL022C-A,cytosol,cytosol,below threshold,0,15.7,12.2,SWAT-GFP
+YDL022W,GPD1,punctate,punctate,below threshold,punctate,31.3,15.8,SWAT-GFP
+YDL024C,DIA3,"cell periphery,ER","cell periphery,vacuole",below threshold,below threshold,33.8,11.5,SWAT-SP-GFP
+YDL027C,MRX9,"ER,punctate","ER,punctate",below threshold,mitochondria,15.0,9.2,SWAT-GFP
+YDL035C,GPR1,punctate,0,0,below threshold,N/D,N/D,SWAT-GFP
+YDL036C,PUS9,"ambigous,ER",vacuole,nucleus,"nucleus,cytosol",30.0,19.2,SWAT-SP-GFP
+YDL046W,NPC2,"vacuole,ER",vacuole,vacuole,vacuole,75.5,20.0,SWAT-SP-GFP
+YDL049C,KNH1,"ER,vacuole",vacuole,ambigous,0,39.3,12.5,SWAT-SP-GFP
+YDL052C,SLC1,ER,ER,ER,ER,67.1,31.5,SWAT-GFP
+YDL054C,MCH1,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,51.7,N/D,SWAT-GFP
+YDL058W,USO1,punctate,0,0,punctate,N/D,N/D,SWAT-GFP
+YDL065C,PEX19,"cytosol,punctate",cytosol,punctate,cytosol,65.6,14.8,SWAT-GFP
+YDL070W,BDF2,"cell periphery,ER,punctate","cell periphery,vacuole",nucleus,"nucleus,cytosol",43.2,28.5,SWAT-SP-GFP
+YDL072C,YET3,ER,ER,below threshold,ER,21.7,9.6,SWAT-GFP
+YDL077C,VAM6,vacuole membrane,vacuole membrane,vacuole,vacuole,56.5,11.7,SWAT-GFP
+YDL078C,MDH3,punctate,punctate,punctate,"nucleus,cytosol",228.8,59.0,SWAT-GFP
+YDL089W,NUR1,"punctate,nuclear periphery","punctate,nuclear periphery","punctate,nuclear periphery","ambiguous,nuclear periphery",43.7,10.8,SWAT-GFP
+YDL091C,UBX3,"ER,punctate","ER,punctate",punctate,punctate,72.7,14.9,SWAT-GFP
+YDL093W,PMT5,ER,"ER,vacuole","below threshold,ER",below threshold,52.1,10.9,SWAT-GFP
+YDL095W,PMT1,ER,ER,ER,ER,94.9,32.6,SWAT-GFP
+YDL099W,BUG1,punctate,punctate,punctate,"punctate,punctate",63.5,22.4,SWAT-GFP
+YDL100C,GET3,cytosol,cytosol,cytosol,ER,294.5,69.5,SWAT-GFP
+YDL113C,ATG20,punctate,punctate,punctate,punctate,55.2,11.2,SWAT-GFP
+YDL121C,YDL121C,"ER,punctate","ER,vacuole",punctate,ER,82.1,13.9,SWAT-GFP
+YDL122W,UBP1,ER,ER,ER,cytosol,44.3,17.8,SWAT-GFP
+YDL123W,SNA4,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,46.3,15.2,SWAT-GFP
+YDL126C,CDC48,"cytosol,nucleus","cytosol,nucleus","cytosol,nucleus","nucleus,cytosol",229.7,94.6,SWAT-GFP
+YDL128W,VCX1,vacuole membrane,vacuole membrane,vacuole membrane,ER,143.1,N/D,SWAT-GFP
+YDL130W,RPP1B,"ER,vacuole",vacuole,below threshold,cytosol,32.9,10.7,SWAT-SP-GFP
+YDL133W,SRF1,"cell periphery,vacuole","cell periphery,vacuole","below threshold,cell periphery",0,26.4,10.1,SWAT-GFP
+YDL135C,RDI1,cytosol,cytosol,below threshold,"nucleus,cytosol",141.0,8.9,SWAT-GFP
+YDL137W,ARF2,cytosol,cytosol,cytosol,"punctate,punctate",276.7,12.4,SWAT-GFP
+YDL138W,RGT2,cell periphery,"cell periphery,vacuole",below threshold,below threshold,23.8,9.8,SWAT-GFP
+YDL142C,CRD1,mitochondria,ER,below threshold,mitochondria,14.5,8.8,SWAT-GFP
+YDL144C,YDL144C,ER,vacuole,mitochondria,"nucleus,cytosol",38.3,20.4,SWAT-SP-GFP
+YDL145C,COP1,punctate,punctate,punctate,"punctate,punctate",139.2,42.5,SWAT-GFP
+YDL146W,LDB17,"punctate,bud neck","punctate,bud neck",below threshold,"ambiguous,neck,cell periphery,bud,cytosol,bud neck",46.1,10.8,SWAT-GFP
+YDL149W,ATG9,punctate,punctate,below threshold,0,32.9,11.6,SWAT-GFP
+YDL161W,ENT1,"punctate,bud neck","punctate,bud neck","punctate,bud neck",punctate,83.6,22.1,SWAT-GFP
+YDL180W,YDL180W,vacuole membrane,vacuole membrane,vacuole,vacuole,45.8,13.2,SWAT-GFP
+YDL185W,VMA1,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,273.0,129.0,SWAT-GFP
+YDL192W,ARF1,cytosol,cytosol,cytosol,0,311.2,199.1,SWAT-GFP
+YDL193W,NUS1,punctate,punctate,"ER,punctate",ER,94.9,28.1,SWAT-GFP
+YDL194W,SNF3,cell periphery,"cell periphery,vacuole",below threshold,below threshold,21.9,10.2,SWAT-GFP
+YDL195W,SEC31,punctate,0,cytosol,ER to punctate,139.7,16.9,SWAT-GFP
+YDL199C,YDL199C,vacuole membrane,vacuole membrane,below threshold,below threshold,37.7,12.2,SWAT-GFP
+YDL204W,RTN2,cell periphery,cell periphery,below threshold,ER,N/D,N/D,SWAT-GFP
+YDL206W,YDL206W,vacuole membrane,vacuole membrane,below threshold,below threshold,40.6,10.1,SWAT-GFP
+YDL210W,UGA4,vacuole membrane,vacuole membrane,ambigous,below threshold,52.2,10.0,SWAT-GFP
+YDL211C,YDL211C,cytosol,vacuole,below threshold,vacuole,24.4,9.3,SWAT-GFP
+YDL212W,SHR3,ER,ER,ER,ER,193.1,39.1,SWAT-GFP
+YDL222C,FMP45,"cell periphery,punctate","cell periphery,punctate","cell periphery,punctate",punctate,65.1,13.5,SWAT-GFP
+YDL225W,SHS1,bud neck,bud neck,bud neck,"bud neck,cell periphery",74.2,22.5,SWAT-GFP
+YDL226C,GCS1,"cytosol,punctate","cytosol,punctate","cytosol,punctate",cytosol,133.4,34.7,SWAT-GFP
+YDL231C,BRE4,"cell periphery,ER","cell periphery,vacuole",below threshold,below threshold,27.9,9.1,SWAT-GFP
+YDL232W,OST4,"ambigous,mitochondria",mitochondria,mitochondria,ER,143.8,48.1,SWAT-GFP
+YDL234C,GYP7,"cytosol,punctate","cytosol,punctate","cytosol,punctate",cytosol,53.3,15.5,SWAT-GFP
+YDL241W,YDL241W,ER,ER,below threshold,0,26.0,11.7,SWAT-GFP
+YDL245C,HXT15,cell periphery,"cell periphery,vacuole",below threshold,0,81.5,N/D,SWAT-GFP
+YDL247W,MPH2,"cell periphery,punctate","cell periphery,vacuole",below threshold,below threshold,33.4,N/D,SWAT-GFP
+YDL248W,COS7,vacuole,vacuole,below threshold,ambiguous,26.5,8.3,SWAT-GFP
+YDR003W,RCR2,vacuole membrane,vacuole membrane,"cytosol,vacuole","vacuole,cytosol",41.3,13.2,SWAT-GFP
+YDR011W,SNQ2,cell periphery,"cell periphery,vacuole",cell periphery,cell periphery,48.3,12.0,SWAT-GFP
+YDR018C,YDR018C,ER,"ER,vacuole",below threshold,below threshold,32.2,10.4,SWAT-GFP
+YDR022C,ATG31,"cytosol,punctate","cytosol,punctate","below threshold,punctate",punctate,73.2,11.0,SWAT-GFP
+YDR027C,VPS54,punctate,punctate,punctate,"punctate,punctate",39.6,12.3,SWAT-GFP
+YDR033W,MRH1,ER,ER,ER,"cell periphery,bud",100.1,118.0,SWAT-GFP
+YDR034C-A,YDR034C-A,below threshold,0,below threshold,0,14.9,9.3,SWAT-GFP
+YDR034W-B,YDR034W-B,cell periphery,cell periphery,cell periphery,cell periphery,153.6,25.6,SWAT-GFP
+YDR038C,ENA5,cell periphery,cell periphery,below threshold,cell periphery,55.7,8.5,SWAT-GFP
+YDR039C,ENA2,cell periphery,0,below threshold,cell periphery,44.5,9.3,SWAT-GFP
+YDR040C,ENA1,"cell periphery,vacuole","cell periphery,vacuole",below threshold,cell periphery,45.1,9.1,SWAT-GFP
+YDR046C,BAP3,ER,"ER,vacuole",ER,vacuole,50.9,N/D,SWAT-GFP
+YDR049W,VMS1,cytosol,0,0,cytosol,N/D,N/D,SWAT-GFP
+YDR055W,PST1,"cell periphery,vacuole",cytosol,"cell periphery,vacuole",ER,26.5,20.5,SWAT-SP-GFP
+YDR056C,YDR056C,ER,ER,ER,ER,115.9,21.8,SWAT-SP-GFP
+YDR057W,YOS9,ER,ER,below threshold,below threshold,132.1,11.5,SWAT-SP-GFP
+YDR062W,LCB2,ER,ER,ER,ER,73.4,32.6,SWAT-GFP
+YDR069C,DOA4,punctate,"cytosol,punctate","cytosol,punctate","ambiguous,punctate",37.0,12.2,SWAT-GFP
+YDR072C,IPT1,punctate,vacuole,punctate,cytosol,25.5,13.0,SWAT-GFP
+YDR077W,SED1,cell periphery,"cell periphery,vacuole",cytosol,ER,53.2,334.3,SWAT-SP-GFP
+YDR080W,VPS41,vacuole membrane,vacuole membrane,vacuole membrane,"vacuole,vacuole membrane",45.5,11.9,SWAT-GFP
+YDR084C,TVP23,punctate,vacuole,punctate,"punctate,punctate,punctate",52.6,12.5,SWAT-GFP
+YDR086C,SSS1,ER,ER,ER,ER,166.6,74.4,SWAT-GFP
+YDR089W,YDR089W,vacuole membrane,0,0,cytosol,N/D,N/D,SWAT-GFP
+YDR090C,YDR090C,ER,0,0,cell periphery,N/D,N/D,SWAT-GFP
+YDR093W,DNF2,"cell periphery,ER,bud neck","cell periphery,ER,bud neck","cell periphery,bud neck","ambiguous,cell periphery,bud",37.1,14.2,SWAT-GFP
+YDR100W,TVP15,punctate,punctate,punctate,punctate,111.1,30.5,SWAT-GFP
+YDR105C,TMS1,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,31.4,9.1,SWAT-GFP
+YDR107C,TMN2,punctate,vacuole,punctate,below threshold,95.5,14.4,SWAT-SP-GFP
+YDR108W,TRS85,cytosol,cytosol,cytosol,cytosol,46.0,13.1,SWAT-GFP
+YDR114C,YDR114C,below threshold,0,0,below threshold,N/D,N/D,SWAT-GFP
+YDR119W,VBA4,vacuole membrane,0,vacuole membrane,vacuole membrane,82.1,N/D,SWAT-GFP
+YDR126W,SWF1,ER,ER,below threshold,below threshold,18.6,10.7,SWAT-GFP
+YDR135C,YCF1,"punctate,vacuole membrane","punctate,vacuole","punctate,vacuole membrane",vacuole membrane,35.4,15.7,SWAT-GFP
+YDR137W,RGP1,punctate,punctate,punctate,punctate,50.1,13.0,SWAT-GFP
+YDR141C,DOP1,"cytosol,punctate","cytosol,punctate",punctate,"punctate,punctate",57.9,15.0,SWAT-GFP
+YDR142C,PEX7,punctate,punctate,below threshold,below threshold,42.0,15.7,SWAT-GFP
+YDR144C,MKC7,vacuole,vacuole,below threshold,vacuole,24.9,12.8,SWAT-SP-GFP
+YDR153C,ENT5,punctate,"cytosol,punctate",punctate,punctate,64.2,35.3,SWAT-GFP
+YDR160W,SSY1,ER,"ER,vacuole",below threshold,below threshold,29.6,N/D,SWAT-GFP
+YDR164C,SEC1,"cell periphery,bud neck","cell periphery,bud neck",below threshold,"ambiguous,neck,bud,cytosol,bud neck",89.4,10.2,SWAT-GFP
+YDR166C,SEC5,"cell periphery,bud neck","cell periphery,bud neck","cell periphery,bud neck","ambiguous,neck,cell periphery,bud,bud neck",45.4,14.0,SWAT-GFP
+YDR170C,SEC7,punctate,punctate,punctate,punctate,143.8,37.5,SWAT-GFP
+YDR172W,SUP35,cytosol,cytosol,cytosol,cytosol,167.4,77.6,SWAT-GFP
+YDR177W,UBC1,cytosol,cytosol,cytosol,"nucleus,cytosol",145.3,44.5,SWAT-GFP
+YDR182W,CDC1,punctate,vacuole,punctate,ambiguous,54.2,16.9,SWAT-GFP
+YDR189W,SLY1,"cytosol,punctate","cytosol,punctate",punctate,"punctate,punctate",111.7,22.7,SWAT-GFP
+YDR196C,CAB5,cytosol,cytosol,below threshold,ER,40.3,10.9,SWAT-GFP
+YDR200C,VPS64,ER,ER,below threshold,cytosol,39.1,9.6,SWAT-GFP
+YDR205W,MSC2,ER,ER,ER,ER,32.0,14.5,SWAT-GFP
+YDR211W,GCD6,cytosol,cytosol,cytosol,cytosol,116.5,38.4,SWAT-GFP
+YDR216W,ADR1,cytosol,cytosol,cytosol,cytosol,47.3,15.6,SWAT-GFP
+YDR218C,SPR28,cytosol,"cytosol,punctate",below threshold,below threshold,61.0,0.0,SWAT-GFP
+YDR221W,GTB1,ER,vacuole,below threshold,ER,62.7,12.0,SWAT-SP-GFP
+YDR229W,IVY1,"punctate,vacuole membrane","punctate,vacuole membrane","punctate,vacuole membrane",vacuole membrane,50.5,19.0,SWAT-GFP
+YDR233C,RTN1,"cell periphery,ER,punctate","cell periphery,ER,punctate","cell periphery,ER,punctate","ER,cell periphery",146.3,61.2,SWAT-GFP
+YDR234W,LYS4,cytosol,0,0,mitochondria,N/D,N/D,SWAT-GFP
+YDR238C,SEC26,punctate,punctate,punctate,"punctate,punctate",116.8,44.2,SWAT-GFP
+YDR244W,PEX5,punctate,punctate,punctate,punctate,56.0,23.4,SWAT-GFP
+YDR245W,MNN10,"ER,punctate","ER,punctate",punctate,punctate,53.3,22.5,SWAT-GFP
+YDR246W,TRS23,punctate,punctate,punctate,punctate,50.2,16.7,SWAT-GFP
+YDR248C,YDR248C,"ER,vacuole",vacuole,below threshold,cytosol,75.3,16.7,SWAT-SP-GFP
+YDR255C,RMD5,nucleus,nucleus,below threshold,below threshold,45.4,8.3,SWAT-GFP
+YDR256C,CTA1,punctate,punctate,"punctate,bud neck",below threshold,64.1,12.1,SWAT-GFP
+YDR261C,EXG2,ER,vacuole,below threshold,ambiguous,43.8,12.5,SWAT-SP-GFP
+YDR262W,YDR262W,ER,vacuole,ambigous,vacuole,38.3,18.4,SWAT-SP-GFP
+YDR265W,PEX10,punctate,punctate,below threshold,punctate,31.7,12.7,SWAT-GFP
+YDR270W,CCC2,punctate,vacuole,punctate,punctate,21.5,11.8,SWAT-GFP
+YDR275W,BSC2,punctate,0,punctate,punctate,26.9,13.6,SWAT-GFP
+YDR276C,PMP3,cell periphery,cell periphery,cell periphery,ambiguous,145.1,111.3,SWAT-GFP
+YDR281C,PHM6,vacuole,vacuole,vacuole,vacuole,14.9,9.2,SWAT-GFP
+YDR284C,DPP1,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,87.3,23.3,SWAT-GFP
+YDR292C,SRP101,ER,ER,ER,0,77.2,29.4,SWAT-GFP
+YDR294C,DPL1,punctate,punctate,punctate,ER,33.0,12.3,SWAT-GFP
+YDR297W,SUR2,ER,0,0,ER,N/D,N/D,SWAT-GFP
+YDR302W,GPI11,ER,"ER,vacuole",ER,ER,64.6,19.0,SWAT-GFP
+YDR304C,CPR5,ER,ER,ER,vacuole,290.8,66.0,SWAT-SP-GFP
+YDR307W,PMT7,ER,0,ER,ER,51.9,13.6,SWAT-GFP
+YDR319C,YFT2,punctate,vacuole,punctate,ambiguous,34.0,10.6,SWAT-GFP
+YDR320C,SWA2,cytosol,cytosol,cytosol,ambiguous,88.2,17.7,SWAT-GFP
+YDR323C,PEP7,punctate,punctate,punctate,punctate,36.2,12.0,SWAT-GFP
+YDR326C,YSP2,"cell periphery,punctate","cell periphery,punctate","cell periphery,punctate",ambiguous,33.7,12.6,SWAT-GFP
+YDR329C,PEX3,punctate,punctate,punctate,punctate,36.1,16.0,SWAT-GFP
+YDR331W,GPI8,ER,ER,ER,ER,59.4,24.8,SWAT-SP-GFP
+YDR338C,YDR338C,vacuole membrane,0,vacuole,ambiguous,27.9,11.9,SWAT-GFP
+YDR342C,HXT7,cell periphery,"cell periphery,vacuole",below threshold,0,84.4,9.7,SWAT-GFP
+YDR343C,HXT6,cell periphery,"cell periphery,vacuole",below threshold,cell periphery,62.5,10.6,SWAT-GFP
+YDR345C,HXT3,cell periphery,"cell periphery,vacuole",cell periphery,"cell periphery,vacuole",74.2,114.8,SWAT-GFP
+YDR349C,YPS7,ER,vacuole,below threshold,"ER,cytosol",54.6,13.2,SWAT-SP-GFP
+YDR351W,SBE2,punctate,punctate,punctate,below threshold,28.6,12.2,SWAT-GFP
+YDR356W,SPC110,"punctate,nucleus","punctate,nucleus","punctate,nucleus",punctate,55.5,16.3,SWAT-GFP
+YDR358W,GGA1,"cytosol,punctate","cytosol,punctate","cytosol,punctate","cytosol,punctate",66.2,16.6,SWAT-GFP
+YDR366C,YDR366C,"ambigous,mitochondria",ambigous,below threshold,below threshold,11.0,9.3,SWAT-GFP
+YDR367W,KEI1,punctate,"cell periphery,vacuole",punctate,"punctate,punctate,punctate",90.9,21.6,SWAT-GFP
+YDR371W,CTS2,"below threshold,cytosol",below threshold,below threshold,cytosol,15.5,9.6,SWAT-GFP
+YDR372C,VPS74,punctate,0,0,"nucleus,cytosol",N/D,N/D,SWAT-GFP
+YDR373W,FRQ1,cytosol,"cytosol,punctate",0,punctate,94.6,0.0,SWAT-GFP
+YDR380W,ARO10,cytosol,cytosol,cytosol,cytosol,125.9,10.5,SWAT-GFP
+YDR382W,RPP2B,"punctate,vacuole",vacuole,punctate,cytosol,72.2,57.3,SWAT-SP-GFP
+YDR384C,ATO3,"cell periphery,punctate","cell periphery,vacuole","cell periphery,punctate","cell periphery,vacuole",49.6,30.5,SWAT-GFP
+YDR385W,EFT2,cytosol,cytosol,cytosol,0,379.4,580.7,SWAT-GFP
+YDR387C,YDR387C,vacuole membrane,vacuole membrane,below threshold,below threshold,67.4,12.3,SWAT-GFP
+YDR388W,RVS167,"cytosol,punctate","cytosol,punctate","cell periphery,punctate",punctate,179.9,36.8,SWAT-GFP
+YDR402C,DIT2,ER,vacuole,below threshold,below threshold,53.4,11.1,SWAT-SP-GFP
+YDR406W,PDR15,cell periphery,cell periphery,below threshold,cytosol,68.1,12.0,SWAT-GFP
+YDR407C,TRS120,punctate,"punctate,vacuole",punctate,punctate,46.4,11.1,SWAT-GFP
+YDR410C,STE14,"ER,punctate","ER,punctate",punctate,ER,53.6,13.8,SWAT-GFP
+YDR411C,DFM1,ER,ER,ER,ER,38.3,12.2,SWAT-GFP
+YDR415C,YDR415C,"ER,vacuole",vacuole,ambigous,below threshold,40.0,16.2,SWAT-SP-GFP
+YDR420W,HKR1,ER,"cell periphery,vacuole",ambigous,below threshold,37.9,17.1,SWAT-SP-GFP
+YDR424C,DYN2,"punctate,nuclear periphery","punctate,nuclear periphery",punctate,ER,58.6,16.2,SWAT-GFP
+YDR434W,GPI17,ER,ER,ER,ER,64.6,13.4,SWAT-GFP
+YDR437W,GPI19,ER,vacuole,"below threshold,ER",ER,15.5,10.5,SWAT-GFP
+YDR438W,THI74,vacuole,vacuole,vacuole,below threshold,23.8,8.5,SWAT-GFP
+YDR452W,PPN1,vacuole,vacuole,vacuole,vacuole,69.3,18.4,SWAT-GFP
+YDR456W,NHX1,ER,ER,"ER,punctate",punctate,46.4,11.0,SWAT-GFP
+YDR458C,HEH2,nuclear periphery,nuclear periphery,nuclear periphery,nuclear periphery,61.4,14.6,SWAT-GFP
+YDR459C,PFA5,cell periphery,"cell periphery,vacuole",below threshold,below threshold,44.3,8.8,SWAT-GFP
+YDR461W,MFA1,ER,ER,below threshold,"nucleus,cytosol",0.0,12.3,SWAT-GFP
+YDR468C,TLG1,punctate,punctate,punctate,0,85.8,24.6,SWAT-GFP
+YDR470C,UGO1,punctate,0,0,0,N/D,N/D,SWAT-GFP
+YDR472W,TRS31,"cytosol,punctate","cytosol,punctate",punctate,punctate,71.0,18.1,SWAT-GFP
+YDR476C,YDR476C,ER,"ER,punctate",0,ER,74.6,18.7,SWAT-GFP
+YDR479C,PEX29,ER,ER,ambigous,"ambiguous,cytosol,punctate",31.1,13.6,SWAT-GFP
+YDR481C,PHO8,vacuole membrane,vacuole membrane,vacuole membrane,vacuole,96.9,10.9,SWAT-GFP
+YDR483W,KRE2,vacuole membrane,vacuole membrane,vacuole,vacuole,89.1,15.9,SWAT-GFP
+YDR484W,VPS52,"cytosol,punctate","cytosol,punctate",punctate,punctate,55.7,17.1,SWAT-GFP
+YDR490C,PKH1,"cytosol,punctate",0,0,below threshold,N/D,N/D,SWAT-GFP
+YDR492W,IZH1,ER,vacuole,ER,ER,23.6,12.7,SWAT-GFP
+YDR495C,VPS3,punctate,punctate,punctate,punctate,30.6,12.5,SWAT-GFP
+YDR497C,ITR1,"cell periphery,vacuole","cell periphery,vacuole",cell periphery,"cell periphery,vacuole",28.2,44.8,SWAT-GFP
+YDR498C,SEC20,ER,ER,ER,ER,29.3,12.9,SWAT-GFP
+YDR503C,LPP1,"ambigous,punctate",vacuole,"ambigous,punctate",punctate,29.8,10.2,SWAT-GFP
+YDR504C,SPG3,ER,ER,below threshold,below threshold,23.3,10.9,SWAT-GFP
+YDR506C,GMC1,ER,vacuole,ambigous,below threshold,65.0,12.8,SWAT-SP-GFP
+YDR508C,GNP1,"cell periphery,ER,bud neck","cell periphery,ER,bud neck",ER,"ER,cell periphery",57.5,71.9,SWAT-GFP
+YDR513W,GRX2,"punctate,nucleus","punctate,nucleus",nucleus,nucleus,91.2,20.0,SWAT-GFP
+YDR517W,GRH1,cytosol,cytosol,cytosol,0,100.2,24.5,SWAT-GFP
+YDR518W,EUG1,ER,ER,ambigous,0,202.3,12.3,SWAT-SP-GFP
+YDR519W,FPR2,vacuole,vacuole,vacuole,ER,67.4,25.1,SWAT-SP-GFP
+YDR522C,SPS2,"ambigous,punctate","ambigous,punctate",below threshold,0,21.1,9.0,SWAT-GFP
+YDR524C,AGE1,punctate,ambigous,below threshold,cytosol,26.8,10.3,SWAT-GFP
+YDR524C-B,YDR524C-B,ER,ER,below threshold,0,50.2,11.7,SWAT-SP-GFP
+YDR525W-A,SNA2,vacuole membrane,vacuole membrane,vacuole membrane,"punctate,vacuole membrane,punctate",91.5,49.2,SWAT-GFP
+YDR534C,FIT1,cell periphery,"cell periphery,vacuole",below threshold,0,44.8,11.1,SWAT-SP-GFP
+YDR536W,STL1,"cell periphery,vacuole","cell periphery,vacuole",below threshold,0,28.8,N/D,SWAT-GFP
+YDR541C,YDR541C,ER,vacuole,below threshold,0,38.6,11.4,SWAT-SP-GFP
+YDR542W,PAU10,"ER,vacuole",vacuole,below threshold,0,53.8,11.8,SWAT-SP-GFP
+YEL001C,IRC22,ER,ER,ER,ER,248.7,86.2,SWAT-SP-GFP
+YEL013W,VAC8,"cytosol,vacuole membrane","cytosol,vacuole membrane",ambigous,vacuole membrane,110.5,57.3,SWAT-GFP
+YEL016C,NPP2,ER,ER,punctate,below threshold,23.8,9.4,SWAT-GFP
+YEL017C-A,PMP2,"cell periphery,vacuole membrane","cell periphery,vacuole","cell periphery,vacuole membrane","cell periphery,vacuole",199.2,214.0,SWAT-GFP
+YEL017W,GTT3,nuclear periphery,nuclear periphery,nuclear periphery,nuclear periphery,N/D,N/D,SWAT-GFP
+YEL020C,YEL020C,punctate,punctate,punctate,cytosol,65.6,12.4,SWAT-GFP
+YEL022W,GEA2,"cytosol,punctate","cytosol,punctate",punctate,"cytosol,punctate",89.5,17.2,SWAT-GFP
+YEL025C,YEL025C,nucleus,nucleus,below threshold,"nucleus,cytosol",48.4,12.6,SWAT-GFP
+YEL027W,VMA3,vacuole membrane,0,0,ER,N/D,N/D,SWAT-GFP
+YEL031W,SPF1,ER,ER,ER,ER,118.4,27.7,SWAT-GFP
+YEL033W,MTC7,below threshold,0,below threshold,cytosol,12.3,10.0,SWAT-GFP
+YEL036C,ANP1,punctate,punctate,"ambigous,punctate",punctate,55.2,14.2,SWAT-GFP
+YEL040W,UTR2,ER,vacuole,below threshold,ER,376.5,11.6,SWAT-SP-GFP
+YEL043W,YEL043W,"cell periphery,punctate","cell periphery,vacuole","ambigous,ER",ER,81.8,14.0,SWAT-SP-GFP
+YEL048C,TCA17,cytosol,cytosol,punctate,punctate,76.2,19.6,SWAT-GFP
+YEL051W,VMA8,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,44.5,9.1,SWAT-GFP
+YEL063C,CAN1,ER,0,"ambigous,ER","cell periphery,vacuole",N/D,N/D,SWAT-GFP
+YEL064C,AVT2,punctate,"vacuole,punctate","below threshold,punctate",0,28.6,10.1,SWAT-GFP
+YEL065W,SIT1,vacuole,vacuole,vacuole,vacuole,29.5,N/D,SWAT-GFP
+YEL068C,YEL068C,ER,vacuole,"ambigous,ER",0,88.6,13.2,SWAT-SP-GFP
+YEL069C,HXT13,ER,ER,ER,below threshold,70.6,N/D,SWAT-GFP
+YER001W,MNN1,punctate,"ER,punctate",punctate,vacuole,63.1,25.0,SWAT-GFP
+YER005W,YND1,ER,0,"ambigous,punctate","ambiguous,punctate,punctate",31.3,10.2,SWAT-GFP
+YER006W,NUG1,nucleus,nucleus,"nucleus,punctate","nucleolus,nucleus",42.7,14.9,SWAT-GFP
+YER008C,SEC3,bud neck,bud neck,bud neck,"neck,cell periphery,bud,bud neck",50.2,13.7,SWAT-GFP
+YER011W,TIR1,"cell periphery,vacuole","cell periphery,vacuole",ambigous,ER,56.2,13.8,SWAT-SP-GFP
+YER014W,HEM14,mitochondria,mitochondria,mitochondria,mitochondria,62.3,17.4,SWAT-GFP
+YER015W,FAA2,punctate,punctate,punctate,below threshold,90.6,14.5,SWAT-GFP
+YER019W,ISC1,"cell periphery,ER","cell periphery,ER",ambigous,0,56.2,9.5,SWAT-GFP
+YER020W,GPA2,cytosol,cytosol,cytosol,cell periphery,43.2,27.8,SWAT-GFP
+YER025W,GCD11,cytosol,cytosol,0,cytosol,133.3,N/D,SWAT-GFP
+YER031C,YPT31,punctate,punctate,punctate,"nucleus,cytosol",96.3,25.7,SWAT-GFP
+YER039C,HVG1,ER,ER,below threshold,below threshold,22.0,10.1,SWAT-GFP
+YER039C-A,YER039C-A,below threshold,cytosol,below threshold,below threshold,13.3,10.4,SWAT-GFP
+YER044C,ERG28,ER,ER,ER,ER,50.6,15.2,SWAT-GFP
+YER053C-A,YER053C-A,"cytosol,nucleus",below threshold,below threshold,ER,13.5,10.3,SWAT-GFP
+YER056C,FCY2,cell periphery,"cell periphery,vacuole",cell periphery,vacuole,74.2,59.1,SWAT-GFP
+YER060W,FCY21,"cell periphery,punctate",0,0,below threshold,N/D,N/D,SWAT-GFP
+YER060W-A,FCY22,"cell periphery,vacuole","cell periphery,vacuole",below threshold,0,38.9,8.9,SWAT-GFP
+YER061C,CEM1,"ambigous,ER",vacuole,below threshold,mitochondria,23.4,11.9,SWAT-SP-GFP
+YER072W,VTC1,vacuole membrane,vacuole membrane,vacuole membrane,ER,221.6,35.4,SWAT-GFP
+YER076C,YER076C,ER,ER,below threshold,below threshold,47.1,11.9,SWAT-SP-GFP
+YER083C,GET2,ER,"ambigous,ER",ER,ER,76.5,23.8,SWAT-GFP
+YER087C-B,SBH1,ER,ER,ER,ambiguous,185.9,35.3,SWAT-GFP
+YER093C,TSC11,cytosol,cytosol,cytosol,cytosol,27.0,10.2,SWAT-GFP
+YER093C-A,AIM11,"punctate,mitochondria","punctate,mitochondria",below threshold,below threshold,23.1,9.5,SWAT-GFP
+YER094C,PUP3,nucleus,nucleus,nucleus,0,167.5,112.3,SWAT-GFP
+YER100W,UBC6,ER,ER,ER,ER,89.8,19.1,SWAT-GFP
+YER118C,SHO1,"cell periphery,ER,bud neck","cell periphery,ER,bud neck","cell periphery,bud neck","bud neck,cell periphery,cytosol",75.9,15.1,SWAT-GFP
+YER119C,AVT6,vacuole membrane,vacuole membrane,vacuole,below threshold,71.6,10.7,SWAT-GFP
+YER120W,SCS2,ER,ER,ER,ER,214.3,50.7,SWAT-GFP
+YER122C,GLO3,punctate,punctate,punctate,"punctate,punctate",93.4,9.1,SWAT-GFP
+YER123W,YCK3,vacuole membrane,vacuole membrane,vacuole membrane,vacuole,51.9,24.0,SWAT-GFP
+YER125W,RSP5,punctate,punctate,punctate,nucleus,96.5,37.1,SWAT-GFP
+YER129W,SAK1,cytosol,cytosol,below threshold,cytosol,35.3,13.8,SWAT-GFP
+YER140W,EMP65,"cell periphery,ER,punctate","cell periphery,ER,punctate","cell periphery,ER,punctate",cytosol,24.9,9.1,SWAT-GFP
+YER145C,FTR1,ER,below threshold,below threshold,cell periphery,20.4,11.0,SWAT-GFP
+YER150W,SPI1,cell periphery,"cell periphery,vacuole",below threshold,vacuole,52.4,12.7,SWAT-SP-GFP
+YER151C,UBP3,cytosol,cytosol,cytosol,cytosol,60.9,18.0,SWAT-GFP
+YER157W,COG3,punctate,punctate,punctate,"punctate,punctate",50.3,14.5,SWAT-GFP
+YER166W,DNF1,"cell periphery,ER,bud neck","cell periphery,ER,bud neck","punctate,bud neck",punctate,57.2,15.8,SWAT-GFP
+YER184C,TOG1,nucleus,nucleus,below threshold,below threshold,67.7,12.4,SWAT-GFP
+YER185W,PUG1,ER,"cell periphery,vacuole",below threshold,below threshold,40.0,10.1,SWAT-GFP
+YFL004W,VTC2,vacuole membrane,vacuole membrane,vacuole membrane,ER,125.3,23.7,SWAT-GFP
+YFL005W,SEC4,"ER,punctate,bud neck","ER,punctate,bud neck",below threshold,0,182.4,11.6,SWAT-GFP
+YFL011W,HXT10,"cell periphery,vacuole","cell periphery,vacuole",ambigous,below threshold,46.4,8.8,SWAT-GFP
+YFL020C,PAU5,vacuole,vacuole,below threshold,below threshold,40.8,12.1,SWAT-SP-GFP
+YFL025C,BST1,ER,"ER,vacuole","ambigous,ER",ER,26.5,10.4,SWAT-GFP
+YFL026W,STE2,ambigous,0,0,vacuole,N/D,N/D,SWAT-GFP
+YFL030W,AGX1,cytosol,cytosol,below threshold,below threshold,84.7,15.0,SWAT-GFP
+YFL034W,YFL034W,punctate,"cytosol,punctate",punctate,punctate,55.4,14.9,SWAT-GFP
+YFL037W,TUB2,punctate,0,punctate,0,218.4,0.0,SWAT-GFP
+YFL038C,YPT1,punctate,punctate,punctate,0,208.6,9.4,SWAT-GFP
+YFL040W,YFL040W,vacuole,vacuole,below threshold,below threshold,23.5,9.2,SWAT-GFP
+YFL041W,FET5,ER,ER,ambigous,vacuole membrane,76.5,18.1,SWAT-SP-GFP
+YFL042C,LAM5,"ER,punctate","ER,punctate","ER,punctate",below threshold,44.6,11.4,SWAT-GFP
+YFL046W,FMP32,"punctate,mitochondria","punctate,mitochondria",below threshold,mitochondria,12.9,9.6,SWAT-GFP
+YFL048C,EMP47,punctate,"punctate,vacuole",punctate,vacuole membrane,158.7,42.8,SWAT-SP-GFP
+YFL050C,ALR2,"cell periphery,punctate","cell periphery,vacuole","cell periphery,punctate",below threshold,46.7,11.1,SWAT-GFP
+YFL051C,YFL051C,cell periphery,"cell periphery,vacuole",below threshold,below threshold,55.8,12.2,SWAT-SP-GFP
+YFL054C,YFL054C,"cell periphery,punctate","cell periphery,vacuole",below threshold,0,43.1,10.5,SWAT-GFP
+YFL055W,AGP3,ER,ER,below threshold,below threshold,35.3,N/D,SWAT-GFP
+YFL062W,COS4,vacuole,vacuole,below threshold,vacuole,40.1,10.7,SWAT-GFP
+YFL066C,YFL066C,"punctate,nucleus","punctate,nucleus",below threshold,cytosol,41.4,11.7,SWAT-GFP
+YFL067W,YFL067W,ambigous,vacuole,below threshold,below threshold,16.1,11.7,SWAT-SP-GFP
+YFL068W,YFL068W,"cytosol,punctate",cytosol,below threshold,below threshold,129.0,8.7,SWAT-GFP
+YFR006W,YFR006W,punctate,punctate,punctate,cytosol,128.2,12.7,SWAT-GFP
+YFR008W,FAR7,cytosol,cytosol,punctate,cytosol,47.6,10.8,SWAT-GFP
+YFR018C,YFR018C,ER,vacuole,"ambigous,ER",below threshold,74.4,16.3,SWAT-SP-GFP
+YFR020W,YFR020W,ER,"ER,vacuole",below threshold,below threshold,133.7,12.0,SWAT-SP-GFP
+YFR021W,ATG18,"cell periphery,vacuole membrane,punctate","cell periphery,vacuole membrane,punctate","cell periphery,vacuole membrane,punctate",cytosol,60.2,9.3,SWAT-GFP
+YFR022W,ROG3,cytosol,cytosol,below threshold,below threshold,45.2,9.3,SWAT-GFP
+YFR026C,ULI1,"ER,punctate","ER,punctate",below threshold,below threshold,211.8,11.8,SWAT-SP-GFP
+YFR032C-B,YFR032C-B,below threshold,below threshold,0,0,12.6,N/D,SWAT-GFP
+YFR035C,YFR035C,"ambigous,punctate","ambigous,punctate","ambigous,punctate",below threshold,19.7,12.5,SWAT-GFP
+YFR038W,IRC5,nucleus,nucleus,0,below threshold,N/D,N/D,SWAT-GFP
+YFR039C,OSW7,ER,ER,"ER,punctate",nuclear periphery,79.4,18.3,SWAT-SP-GFP
+YFR041C,ERJ5,ER,ER,ER,ER,69.0,19.4,SWAT-SP-GFP
+YFR042W,KEG1,ER,ER,below threshold,0,61.1,13.8,SWAT-GFP
+YFR048W,RMD8,ER,vacuole,"ambigous,ER",ambiguous,30.4,9.7,SWAT-GFP
+YFR050C,PRE4,nucleus,nucleus,"cytosol,nucleus",0,119.8,74.2,SWAT-GFP
+YFR051C,RET2,punctate,0,0,"punctate,punctate",N/D,N/D,SWAT-GFP
+YGL001C,ERG26,ER,ER,ER,ER,129.1,29.8,SWAT-GFP
+YGL002W,ERP6,ER,vacuole,"ambigous,ER",below threshold,34.4,15.6,SWAT-SP-GFP
+YGL005C,COG7,cytosol,cytosol,punctate,punctate,73.6,20.8,SWAT-GFP
+YGL006W,PMC1,vacuole membrane,vacuole membrane,below threshold,vacuole membrane,74.0,9.3,SWAT-GFP
+YGL008C,PMA1,cytosol,cytosol,cytosol,0,154.3,29.5,SWAT-GFP
+YGL010W,MPO1,ER,ER,below threshold,0,26.5,10.4,SWAT-GFP
+YGL012W,ERG4,ER,ER,ER,ER,132.6,29.3,SWAT-GFP
+YGL020C,GET1,ER,ER,ER,ER,44.8,30.0,SWAT-SP-GFP
+YGL022W,STT3,ER,ER,0,ER,77.3,N/D,SWAT-GFP
+YGL027C,CWH41,vacuole,vacuole,below threshold,below threshold,31.1,13.1,SWAT-SP-GFP
+YGL028C,SCW11,"ambigous,cell periphery","cell periphery,vacuole",below threshold,ambiguous,25.6,13.6,SWAT-SP-GFP
+YGL032C,AGA2,ER,"ER,vacuole","below threshold,vacuole",vacuole,78.2,14.3,SWAT-SP-GFP
+YGL037C,PNC1,punctate,punctate,punctate,punctate,146.4,67.6,SWAT-GFP
+YGL038C,OCH1,punctate,"punctate,vacuole",punctate,punctate,24.0,17.5,SWAT-GFP
+YGL041C-B,YGL041C-B,ER,ER,below threshold,0,37.0,10.3,SWAT-GFP
+YGL045W,RIM8,cytosol,cytosol,below threshold,below threshold,27.9,10.0,SWAT-GFP
+YGL047W,ALG13,cytosol,cytosol,ER,ER,71.7,14.3,SWAT-GFP
+YGL051W,MST27,ER,ER,below threshold,below threshold,59.6,9.3,SWAT-GFP
+YGL053W,PRM8,ER,0,0,ambiguous,N/D,N/D,SWAT-GFP
+YGL054C,ERV14,"cell periphery,ER,punctate","cell periphery,ER,punctate","ER,vacuole","ER,vacuole",63.8,33.2,SWAT-GFP
+YGL055W,OLE1,ER,ER,ER,ER,74.0,60.0,SWAT-GFP
+YGL065C,ALG2,ER,ER,ER,ER,N/D,N/D,SWAT-GFP
+YGL067W,NPY1,"cytosol,punctate","cytosol,punctate","cytosol,punctate","nucleus,cytosol",84.6,15.9,SWAT-GFP
+YGL075C,MPS2,"ER,punctate","ER,punctate",punctate,punctate,28.7,12.0,SWAT-GFP
+YGL077C,HNM1,"cell periphery,ER","cell periphery,vacuole","cell periphery,ER","cell periphery,bud",65.2,37.7,SWAT-GFP
+YGL082W,YGL082W,cell periphery,cell periphery,cell periphery,"nucleus,cytosol",80.8,20.3,SWAT-GFP
+YGL083W,SCY1,cytosol,cytosol,punctate,punctate,67.4,13.2,SWAT-GFP
+YGL084C,GUP1,ER,ER,ER,ER,55.0,15.7,SWAT-GFP
+YGL089C,MF(ALPHA)2,vacuole,vacuole,below threshold,below threshold,25.6,15.4,SWAT-SP-GFP
+YGL095C,VPS45,punctate,"cytosol,punctate",punctate,"punctate,punctate",84.6,20.6,SWAT-GFP
+YGL098W,USE1,ER,ER,ER,punctate,41.1,11.6,SWAT-GFP
+YGL099W,LSG1,cytosol,cytosol,cytosol,cytosol,122.3,20.7,SWAT-GFP
+YGL104C,VPS73,"vacuole membrane,punctate","vacuole membrane,punctate",below threshold,below threshold,71.7,10.3,SWAT-GFP
+YGL108C,YGL108C,cytosol,cytosol,cytosol,cell periphery,51.9,16.2,SWAT-GFP
+YGL114W,YGL114W,ER,vacuole membrane,ambigous,below threshold,41.6,N/D,SWAT-GFP
+YGL115W,SNF4,cytosol,cytosol,cytosol,cytosol,102.2,35.9,SWAT-GFP
+YGL126W,SCS3,ER,ER,ER,ER,41.6,15.3,SWAT-GFP
+YGL137W,SEC27,punctate,punctate,below threshold,"punctate,punctate",94.5,9.5,SWAT-GFP
+YGL138C,YGL138C,ER,vacuole,below threshold,below threshold,54.2,13.0,SWAT-SP-GFP
+YGL139W,FLC3,below threshold,below threshold,below threshold,cell periphery,13.5,12.3,SWAT-SP-GFP
+YGL140C,YGL140C,ER,ER,ER,cytosol,49.5,14.1,SWAT-GFP
+YGL142C,GPI10,ER,0,0,below threshold,N/D,N/D,SWAT-GFP
+YGL145W,TIP20,cytosol,cytosol,ambigous,ER,77.0,14.3,SWAT-GFP
+YGL146C,RRT6,below threshold,below threshold,below threshold,below threshold,13.2,10.9,SWAT-GFP
+YGL153W,PEX14,punctate,punctate,punctate,punctate,66.5,15.5,SWAT-GFP
+YGL160W,AIM14,ER,ER,below threshold,cytosol,30.0,10.0,SWAT-GFP
+YGL161C,YIP5,punctate,vacuole,punctate,cytosol,56.7,26.7,SWAT-GFP
+YGL167C,PMR1,punctate,punctate,punctate,ER,108.9,20.4,SWAT-GFP
+YGL168W,HUR1,below threshold,below threshold,below threshold,below threshold,10.3,8.5,SWAT-GFP
+YGL169W,SUA5,cytosol,cytosol,below threshold,0,62.6,15.2,SWAT-GFP
+YGL180W,ATG1,cytosol,cytosol,below threshold,punctate,50.8,11.0,SWAT-GFP
+YGL181W,GTS1,"punctate,bud neck","cytosol,bud","punctate,bud neck",0,72.8,20.1,SWAT-GFP
+YGL184C,STR3,punctate,punctate,punctate,"nucleus,cytosol",64.4,17.1,SWAT-GFP
+YGL186C,TPN1,vacuole,vacuole,vacuole,ER,N/D,N/D,SWAT-GFP
+YGL194C-A,YGL194C-A,ER,"ER,punctate",punctate,0,87.5,12.5,SWAT-GFP
+YGL198W,YIP4,punctate,punctate,punctate,below threshold,61.8,24.2,SWAT-GFP
+YGL200C,EMP24,"ER,punctate",vacuole,punctate,punctate,116.7,50.4,SWAT-SP-GFP
+YGL203C,KEX1,vacuole,vacuole,below threshold,punctate,40.2,13.6,SWAT-SP-GFP
+YGL204C,YGL204C,ER,ER,below threshold,below threshold,23.5,9.0,SWAT-GFP
+YGL205W,POX1,punctate,punctate,punctate,below threshold,30.2,13.3,SWAT-GFP
+YGL206C,CHC1,punctate,punctate,punctate,punctate,157.9,53.6,SWAT-GFP
+YGL210W,YPT32,"punctate,bud neck","punctate,bud neck","punctate,bud neck","nucleus,cytosol",85.8,16.2,SWAT-GFP
+YGL212W,VAM7,vacuole membrane,vacuole membrane,vacuole membrane,"vacuole,cytosol",53.6,11.1,SWAT-GFP
+YGL219C,MDM34,punctate,0,0,"mitochondria,punctate",N/D,N/D,SWAT-GFP
+YGL223C,COG1,cytosol,0,0,punctate,N/D,N/D,SWAT-GFP
+YGL225W,VRG4,punctate,vacuole,punctate,"punctate,punctate,punctate",159.5,35.2,SWAT-GFP
+YGL226C-A,OST5,cytosol,0,0,ER,N/D,N/D,SWAT-GFP
+YGL228W,SHE10,ER,ER,ER,0,119.2,47.4,SWAT-SP-GFP
+YGL230C,YGL230C,ER,ER,below threshold,below threshold,68.9,10.5,SWAT-GFP
+YGL231C,EMC4,ER,ER,ER,ER,68.0,29.9,SWAT-GFP
+YGL233W,SEC15,bud neck,bud neck,bud neck,"bud neck,cell periphery,cytosol",67.3,14.8,SWAT-GFP
+YGL236C,MTO1,ER,vacuole,below threshold,0,21.4,12.9,SWAT-SP-GFP
+YGL247W,BRR6,"cell periphery,ER,punctate","cell periphery,ER,punctate",punctate,nuclear periphery,30.1,11.2,SWAT-GFP
+YGL255W,ZRT1,"cell periphery,ER","cell periphery,ER",ER,ER,46.1,31.7,SWAT-GFP
+YGL257C,MNT2,"cell periphery,vacuole membrane","cell periphery,vacuole membrane",below threshold,below threshold,39.3,10.3,SWAT-GFP
+YGL258W,VEL1,"cell periphery,ER","cell periphery,ER",below threshold,below threshold,121.7,11.7,SWAT-SP-GFP
+YGL259W,YPS5,punctate,vacuole,below threshold,below threshold,42.0,14.2,SWAT-SP-GFP
+YGL263W,COS12,vacuole,vacuole,below threshold,below threshold,38.6,10.7,SWAT-GFP
+YGR004W,PEX31,"cell periphery,ER,punctate","cell periphery,ER,punctate",ambigous,cytosol,49.6,18.3,SWAT-GFP
+YGR009C,SEC9,"cytosol,bud neck","cytosol,bud neck",bud neck,0,62.8,20.9,SWAT-GFP
+YGR014W,MSB2,punctate,"vacuole,punctate",punctate,vacuole,132.6,35.4,SWAT-SP-GFP
+YGR016W,YGR016W,ER,ER,"ER,punctate",0,44.9,12.9,SWAT-GFP
+YGR020C,VMA7,vacuole membrane,vacuole membrane,vacuole membrane,"ambiguous,vacuole membrane",94.1,16.7,SWAT-GFP
+YGR023W,MTL1,ambigous,vacuole,below threshold,cytosol,17.3,12.3,SWAT-SP-GFP
+YGR026W,YGR026W,"cell periphery,ER","cell periphery,ER",cell periphery,cell periphery,98.3,21.8,SWAT-GFP
+YGR031C-A,NAG1,"cell periphery,punctate","cell periphery,punctate",below threshold,0,18.3,8.5,SWAT-GFP
+YGR032W,GSC2,"cell periphery,bud neck","cell periphery,vacuole,bud neck","cell periphery,bud neck",below threshold,89.9,16.2,SWAT-GFP
+YGR036C,CAX4,ER,"ER,vacuole",cell periphery,ER,22.2,18.8,SWAT-GFP
+YGR037C,ACB1,cytosol,cytosol,cytosol,"nucleus,cytosol",226.8,97.4,SWAT-GFP
+YGR038W,ORM1,ER,ER,ER,ER,N/D,N/D,SWAT-GFP
+YGR041W,BUD9,bud neck,"vacuole,bud neck",bud neck,"ambiguous,neck,bud,bud neck",17.7,10.3,SWAT-GFP
+YGR048W,UFD1,"cytosol,nucleus","cytosol,nucleus","cytosol,nucleus","nucleus,cytosol",64.6,17.5,SWAT-GFP
+YGR049W,SCM4,mitochondria,0,0,mitochondria,N/D,N/D,SWAT-GFP
+YGR055W,MUP1,"cell periphery,vacuole","cell periphery,vacuole",0,vacuole,29.4,N/D,SWAT-GFP
+YGR057C,LST7,cytosol,"cytosol,punctate",below threshold,below threshold,29.7,9.8,SWAT-GFP
+YGR058W,PEF1,"punctate,nucleus","punctate,nucleus",nucleus,"nucleus,cytosol",56.1,15.0,SWAT-GFP
+YGR059W,SPR3,cytosol,"cytosol,punctate",below threshold,below threshold,43.6,10.8,SWAT-GFP
+YGR060W,ERG25,"ER,bud neck",0,0,"ER,vacuole",N/D,N/D,SWAT-GFP
+YGR065C,VHT1,cell periphery,"cell periphery,vacuole",cell periphery,"cell periphery,bud",28.4,12.8,SWAT-GFP
+YGR068C,ART5,cytosol,cytosol,below threshold,cytosol,33.8,10.3,SWAT-GFP
+YGR077C,PEX8,punctate,punctate,punctate,below threshold,42.8,14.5,SWAT-GFP
+YGR083C,GCD2,cytosol,cytosol,cytosol,cytosol,86.7,29.8,SWAT-GFP
+YGR086C,PIL1,"cell periphery,punctate","cell periphery,punctate","cell periphery,punctate",punctate,217.6,105.4,SWAT-GFP
+YGR089W,NNF2,ER,ER,below threshold,ER,24.8,9.2,SWAT-GFP
+YGR105W,VMA21,ER,ER,ER,vacuole,208.8,37.4,SWAT-GFP
+YGR106C,VOA1,vacuole membrane,vacuole,"below threshold,vacuole membrane",vacuole membrane,145.5,12.3,SWAT-SP-GFP
+YGR120C,COG2,cytosol,"cytosol,punctate",punctate,"punctate,punctate",49.5,15.5,SWAT-GFP
+YGR121C,MEP1,ER,ER,ER,cell periphery,30.0,N/D,SWAT-GFP
+YGR125W,YGR125W,vacuole membrane,vacuole,vacuole,vacuole,44.0,15.7,SWAT-GFP
+YGR131W,FHN1,"cell periphery,punctate","cell periphery,punctate",below threshold,below threshold,44.8,9.5,SWAT-GFP
+YGR133W,PEX4,punctate,punctate,punctate,punctate,37.9,12.6,SWAT-GFP
+YGR134W,CAF130,cytosol,"cytosol,punctate",cytosol,cytosol,34.5,11.8,SWAT-GFP
+YGR138C,TPO2,cell periphery,"cell periphery,vacuole",cell periphery,cell periphery,73.2,N/D,SWAT-GFP
+YGR141W,VPS62,ER,ER,below threshold,below threshold,17.2,10.1,SWAT-GFP
+YGR143W,SKN1,cell periphery,0,0,below threshold,N/D,N/D,SWAT-GFP
+YGR144W,THI4,cytosol,0,0,below threshold,N/D,N/D,SWAT-GFP
+YGR147C,NAT2,mitochondria,mitochondria,below threshold,mitochondria,27.0,13.8,SWAT-GFP
+YGR149W,YGR149W,"cell periphery,ER,punctate","cell periphery,ER,punctate",below threshold,cytosol,44.1,11.8,SWAT-GFP
+YGR152C,RSR1,"cell periphery,ER","cell periphery,ER","ambigous,cell periphery","nucleus,cytosol",96.2,32.3,SWAT-GFP
+YGR154C,GTO1,punctate,punctate,punctate,cytosol,68.5,12.4,SWAT-GFP
+YGR157W,CHO2,"cell periphery,ER","cell periphery,ER",ER,ER,87.8,29.0,SWAT-GFP
+YGR163W,GTR2,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,54.7,13.8,SWAT-GFP
+YGR166W,TRS65,punctate,punctate,below threshold,punctate,38.6,11.4,SWAT-GFP
+YGR167W,CLC1,punctate,punctate,punctate,punctate,153.5,23.1,SWAT-GFP
+YGR168C,YGR168C,punctate,punctate,below threshold,below threshold,28.5,11.4,SWAT-GFP
+YGR172C,YIP1,"ER,punctate",ER,"ER,punctate",0,92.4,23.0,SWAT-GFP
+YGR175C,ERG1,"ER,punctate","ER,punctate",ER,ER,100.7,56.3,SWAT-GFP
+YGR177C,ATF2,ER,ER,ER,ER,93.7,16.9,SWAT-GFP
+YGR189C,CRH1,cell periphery,"cell periphery,vacuole",cytosol,cytosol,30.9,32.9,SWAT-SP-GFP
+YGR191W,HIP1,"cell periphery,ER","cell periphery,vacuole",ER,0,28.5,21.4,SWAT-GFP
+YGR192C,TDH3,"cytosol,nucleus","cytosol,nucleus",punctate,"nucleus,cytosol",418.5,10.4,SWAT-GFP
+YGR197C,SNG1,"cell periphery,vacuole","cell periphery,vacuole","below threshold,ER",below threshold,56.3,10.6,SWAT-GFP
+YGR198W,YPP1,"cytosol,nucleus","cytosol,nucleus",punctate,punctate,51.3,13.4,SWAT-GFP
+YGR199W,PMT6,ER,ER,ER,below threshold,48.4,14.1,SWAT-GFP
+YGR202C,PCT1,nuclear periphery,0,0,nuclear periphery,N/D,N/D,SWAT-GFP
+YGR206W,MVB12,cytosol,cytosol,punctate,punctate,85.4,12.3,SWAT-GFP
+YGR213C,RTA1,ER,ER,below threshold,below threshold,39.2,9.1,SWAT-GFP
+YGR216C,GPI1,"ambigous,ER","ambigous,ER",ER,below threshold,17.6,11.1,SWAT-GFP
+YGR217W,CCH1,ER,0,0,cytosol,N/D,N/D,SWAT-GFP
+YGR221C,TOS2,bud,bud,bud neck,below threshold,53.1,13.4,SWAT-GFP
+YGR223C,HSV2,"punctate,vacuole membrane","punctate,vacuole membrane",punctate,below threshold,44.7,11.8,SWAT-GFP
+YGR224W,AZR1,cell periphery,"cell periphery,vacuole",below threshold,below threshold,59.2,10.5,SWAT-GFP
+YGR227W,DIE2,"cell periphery,ER","cell periphery,ER",below threshold,below threshold,32.2,10.4,SWAT-GFP
+YGR233C,PHO81,"cytosol,nucleus","cytosol,nucleus","cytosol,nucleus","nucleus,cytosol",42.7,25.1,SWAT-GFP
+YGR236C,SPG1,"ER,punctate","ER,punctate",punctate,below threshold,26.2,9.3,SWAT-GFP
+YGR239C,PEX21,"cytosol,nucleus",0,0,punctate,N/D,N/D,SWAT-GFP
+YGR241C,YAP1802,"cytosol,bud neck","cytosol,bud neck","cytosol,bud neck","ambiguous,neck,cell periphery,bud,bud neck",48.8,16.2,SWAT-GFP
+YGR247W,CPD1,punctate,punctate,punctate,punctate,56.9,13.4,SWAT-GFP
+YGR254W,ENO1,cytosol,cytosol,cytosol,cytosol,297.0,298.7,SWAT-GFP
+YGR260W,TNA1,"cell periphery,vacuole","cell periphery,vacuole",cell periphery,ER,47.7,14.7,SWAT-GFP
+YGR261C,APL6,"cytosol,punctate","cytosol,punctate",punctate,"punctate,punctate,punctate",69.1,19.1,SWAT-GFP
+YGR263C,SAY1,"cell periphery,ER,punctate","cell periphery,ER,punctate",below threshold,ER,84.3,12.2,SWAT-GFP
+YGR270W,YTA7,nucleus,nucleus,nucleus,nucleus,74.0,21.6,SWAT-GFP
+YGR279C,SCW4,vacuole,vacuole,ambigous,vacuole,35.7,169.5,SWAT-SP-GFP
+YGR281W,YOR1,cell periphery,"cell periphery,vacuole",cell periphery,cell periphery,49.4,16.8,SWAT-GFP
+YGR282C,BGL2,"ER,vacuole",vacuole,vacuole,vacuole,114.6,64.6,SWAT-SP-GFP
+YGR284C,ERV29,"ER,punctate","ER,punctate",punctate,ER,157.6,30.5,SWAT-GFP
+YGR289C,MAL11,"cell periphery,vacuole",vacuole membrane,below threshold,below threshold,46.1,8.9,SWAT-GFP
+YGR294W,PAU12,"ER,vacuole",below threshold,ambigous,below threshold,36.6,11.4,SWAT-SP-GFP
+YGR295C,COS6,vacuole,vacuole,below threshold,vacuole,30.0,8.5,SWAT-GFP
+YHL002W,HSE1,punctate,"cytosol,punctate",punctate,punctate,59.7,16.6,SWAT-GFP
+YHL003C,LAG1,"ER,punctate",ER,ER,ER,86.8,26.9,SWAT-GFP
+YHL008C,YHL008C,punctate,punctate,below threshold,vacuole,33.8,10.6,SWAT-GFP
+YHL016C,DUR3,"cell periphery,ER","cell periphery,ER",below threshold,cytosol,31.3,9.7,SWAT-GFP
+YHL017W,YHL017W,punctate,vacuole,ambigous,punctate,55.6,15.8,SWAT-SP-GFP
+YHL019C,APM2,nucleus,nucleus,below threshold,"ambiguous,punctate",35.6,8.7,SWAT-GFP
+YHL020C,OPI1,nuclear periphery,"nuclear periphery,punctate",nuclear periphery,nuclear periphery,34.3,17.5,SWAT-GFP
+YHL026C,YHL026C,cell periphery,"cell periphery,vacuole",below threshold,ambiguous,57.3,9.0,SWAT-GFP
+YHL028W,WSC4,ER,vacuole,below threshold,vacuole,32.5,12.6,SWAT-SP-GFP
+YHL030W,ECM29,nucleus,nucleus,below threshold,0,89.9,10.3,SWAT-GFP
+YHL031C,GOS1,punctate,punctate,punctate,0,79.2,16.6,SWAT-GFP
+YHL035C,VMR1,below threshold,below threshold,below threshold,below threshold,12.9,8.3,SWAT-GFP
+YHL036W,MUP3,vacuole,vacuole,below threshold,vacuole,13.9,10.2,SWAT-GFP
+YHL040C,ARN1,"cell periphery,vacuole","cell periphery,vacuole",below threshold,"vacuole,punctate",53.9,N/D,SWAT-GFP
+YHL042W,YHL042W,vacuole,vacuole,below threshold,below threshold,56.5,11.9,SWAT-SP-GFP
+YHL043W,ECM34,cytosol,cytosol,cytosol,below threshold,24.7,8.7,SWAT-GFP
+YHL044W,YHL044W,"ambigous,punctate","cell periphery,vacuole",below threshold,below threshold,19.0,11.7,SWAT-GFP
+YHL046C,PAU13,ER,vacuole,below threshold,below threshold,62.1,11.7,SWAT-SP-GFP
+YHL047C,ARN2,vacuole,vacuole,below threshold,below threshold,40.3,9.0,SWAT-GFP
+YHL048W,COS8,vacuole,vacuole,below threshold,ER,25.1,9.0,SWAT-GFP
+YHR001W,OSH7,cytosol,cytosol,cell periphery,nucleus,139.4,19.4,SWAT-GFP
+YHR004C,NEM1,punctate,punctate,punctate,punctate,28.1,13.1,SWAT-GFP
+YHR005C,GPA1,cytosol,cytosol,below threshold,0,186.8,10.2,SWAT-GFP
+YHR007C,ERG11,ER,ER,ER,ER,96.9,17.4,SWAT-GFP
+YHR007C-A,YHR007C-A,nucleus,0,0,0,N/D,N/D,SWAT-GFP
+YHR016C,YSC84,"cytosol,punctate","cytosol,punctate","cytosol,punctate",below threshold,56.7,15.4,SWAT-GFP
+YHR021W-A,ECM12,below threshold,below threshold,below threshold,below threshold,11.3,9.0,SWAT-GFP
+YHR027C,RPN1,nucleus,nucleus,nucleus,0,158.2,80.2,SWAT-GFP
+YHR028C,DAP2,vacuole membrane,vacuole membrane,vacuole membrane,below threshold,75.3,20.4,SWAT-GFP
+YHR030C,SLT2,"cytosol,nucleus","cytosol,nucleus","cytosol,nucleus","nucleus,cytosol",62.5,17.2,SWAT-GFP
+YHR032W,ERC1,ambigous,vacuole,ambigous,0,19.8,10.9,SWAT-GFP
+YHR036W,BRL1,ER,ER,ER,ER,34.1,11.4,SWAT-GFP
+YHR039C,MSC7,ER,0,0,ER,N/D,N/D,SWAT-GFP
+YHR039C-A,VMA10,vacuole membrane,vacuole membrane,below threshold,vacuole membrane,167.5,9.2,SWAT-GFP
+YHR045W,YHR045W,ER,vacuole,ER,ER,53.8,19.5,SWAT-SP-GFP
+YHR048W,YHK8,cell periphery,"cell periphery,vacuole",below threshold,below threshold,30.9,10.8,SWAT-GFP
+YHR050W,SMF2,punctate,"punctate,vacuole",punctate,cytosol,36.9,10.3,SWAT-GFP
+YHR053C,CUP1-1,cytosol,cytosol,below threshold,cytosol,171.8,12.1,SWAT-GFP
+YHR055C,CUP1-2,cytosol,cytosol,below threshold,"nucleus,cytosol",170.4,11.3,SWAT-GFP
+YHR057C,CPR2,"ER,vacuole",vacuole,vacuole,ambiguous,65.0,17.4,SWAT-SP-GFP
+YHR060W,VMA22,nucleus,nucleus,ambigous,ER,77.2,10.5,SWAT-GFP
+YHR063C,PAN5,ER,vacuole,cytosol,cytosol,85.5,25.3,SWAT-SP-GFP
+YHR072W,ERG7,punctate,punctate,punctate,punctate,128.4,14.7,SWAT-GFP
+YHR073W,OSH3,cytosol,cytosol,punctate,ambiguous,50.4,15.7,SWAT-GFP
+YHR079C,IRE1,ER,ER,below threshold,ER,50.3,11.9,SWAT-SP-GFP
+YHR083W,SAM35,"cytosol,punctate",0,0,0,N/D,N/D,SWAT-GFP
+YHR086W-A,YHR086W-A,ER,vacuole,below threshold,0,34.0,11.8,SWAT-SP-GFP
+YHR092C,HXT4,cell periphery,"cell periphery,vacuole",below threshold,0,58.1,N/D,SWAT-GFP
+YHR094C,HXT1,cell periphery,"cell periphery,vacuole",ambigous,0,46.5,10.5,SWAT-GFP
+YHR096C,HXT5,cell periphery,cell periphery,cell periphery,cell periphery,81.2,N/D,SWAT-GFP
+YHR098C,SFB3,"cell periphery,ER,punctate","cell periphery,vacuole","cell periphery,ER,punctate",ER to punctate,81.0,12.3,SWAT-SP-GFP
+YHR101C,BIG1,ER,ER,"ambigous,ER",ER,66.4,16.7,SWAT-SP-GFP
+YHR107C,CDC12,bud neck,bud neck,bud neck,"bud neck,cell periphery",103.5,31.6,SWAT-GFP
+YHR108W,GGA2,punctate,punctate,punctate,punctate,12.1,21.1,SWAT-GFP
+YHR110W,ERP5,ER,"ER,vacuole",ambigous,ER,23.4,13.4,SWAT-SP-GFP
+YHR114W,BZZ1,"punctate,bud neck","punctate,bud neck",below threshold,punctate,88.6,9.5,SWAT-GFP
+YHR123W,EPT1,"ER,punctate","ER,punctate","ER,punctate","punctate,punctate",43.6,17.0,SWAT-GFP
+YHR126C,ANS1,vacuole,vacuole,below threshold,0,25.6,11.6,SWAT-SP-GFP
+YHR131C,YHR131C,cytosol,cytosol,cytosol,cytosol,20.9,9.1,SWAT-GFP
+YHR132C,ECM14,"ER,punctate,vacuole",vacuole,vacuole,vacuole,77.6,29.2,SWAT-SP-GFP
+YHR133C,NSG1,ER,ER,nuclear periphery,nuclear periphery,126.4,26.7,SWAT-GFP
+YHR135C,YCK1,cell periphery,cell periphery,below threshold,"nucleus,cytosol",61.8,12.9,SWAT-GFP
+YHR139C,SPS100,ER,vacuole,below threshold,below threshold,62.5,11.7,SWAT-SP-GFP
+YHR142W,CHS7,ER,vacuole,"ER,punctate","ambiguous,neck,vacuole,bud,cytosol,bud neck",24.9,14.5,SWAT-GFP
+YHR143W,DSE2,vacuole,vacuole,bud neck,0,23.8,17.7,SWAT-SP-GFP
+YHR149C,SKG6,ER,0,0,"neck,cell periphery,bud,cytosol,bud neck",N/D,N/D,SWAT-GFP
+YHR150W,PEX28,cytosol,"cytosol,punctate",punctate,below threshold,27.7,12.6,SWAT-GFP
+YHR151C,MTC6,"ER,vacuole",vacuole,below threshold,cytosol,35.9,11.3,SWAT-SP-GFP
+YHR154W,RTT107,"cell periphery,ER,punctate","cell periphery,vacuole",ambigous,nucleus,46.4,13.1,SWAT-SP-GFP
+YHR155W,YSP1,cytosol,cytosol,below threshold,mitochondria,34.3,10.7,SWAT-GFP
+YHR160C,PEX18,punctate,punctate,below threshold,below threshold,55.8,12.8,SWAT-GFP
+YHR161C,YAP1801,"punctate,bud neck","punctate,bud neck",bud neck,"ambiguous,neck,cell periphery,bud,bud neck",63.3,13.9,SWAT-GFP
+YHR171W,ATG7,cytosol,cytosol,below threshold,below threshold,46.6,10.4,SWAT-GFP
+YHR173C,YHR173C,vacuole,vacuole,below threshold,below threshold,19.7,11.5,SWAT-SP-GFP
+YHR174W,ENO2,cytosol,cytosol,cytosol,0,389.4,1767.3,SWAT-GFP
+YHR175W,CTR2,ER,"ER,punctate","ambigous,ER",ER,72.8,9.1,SWAT-GFP
+YHR175W-A,YHR175W-A,below threshold,below threshold,below threshold,0,10.7,9.6,SWAT-GFP
+YHR176W,FMO1,cytosol,cytosol,below threshold,below threshold,53.4,11.2,SWAT-GFP
+YHR181W,SVP26,"ER,punctate",0,0,ER,N/D,N/D,SWAT-GFP
+YHR186C,KOG1,"punctate,vacuole membrane","punctate,vacuole membrane",vacuole,vacuole membrane,65.6,14.3,SWAT-GFP
+YHR188C,GPI16,ER,ER,ER,0,74.5,28.0,SWAT-SP-GFP
+YHR190W,ERG9,ER,ER,ER,ER,193.2,50.3,SWAT-GFP
+YHR192W,LNP1,ER,ER,ER,cytosol,95.1,17.6,SWAT-GFP
+YHR195W,NVJ1,"punctate,nuclear periphery","punctate,nuclear periphery","punctate,nuclear periphery","nucleus,punctate",44.4,13.4,SWAT-GFP
+YHR202W,YHR202W,vacuole,vacuole,below threshold,vacuole,38.0,12.5,SWAT-SP-GFP
+YHR204W,MNL1,ER,ER,below threshold,cytosol,115.8,12.8,SWAT-SP-GFP
+YHR211W,FLO5,"cell periphery,punctate","cell periphery,vacuole",below threshold,0,64.4,11.0,SWAT-SP-GFP
+YHR212W-A,YHR212W-A,ER,ER,ER,0,77.4,17.9,SWAT-SP-GFP
+YHR213W-A,YHR213W-A,below threshold,below threshold,punctate,0,14.1,8.9,SWAT-GFP
+YHR214C-D,YHR214C-D,nucleus,ER,below threshold,0,47.6,9.1,SWAT-GFP
+YHR214C-E,YHR214C-E,below threshold,below threshold,below threshold,0,11.2,9.5,SWAT-GFP
+YIL004C,BET1,punctate,"punctate,vacuole","ambigous,punctate",ambiguous,27.8,9.5,SWAT-GFP
+YIL005W,EPS1,punctate,"punctate,vacuole","below threshold,punctate",vacuole,104.8,11.5,SWAT-SP-GFP
+YIL009C-A,EST3,cytosol,cytosol,below threshold,below threshold,45.1,9.1,SWAT-GFP
+YIL011W,TIR3,"cell periphery,vacuole","cell periphery,vacuole",below threshold,0,39.7,11.3,SWAT-SP-GFP
+YIL013C,PDR11,cell periphery,cell periphery,below threshold,below threshold,68.2,10.5,SWAT-GFP
+YIL014W,MNT3,"ER,vacuole",vacuole,below threshold,below threshold,47.5,12.0,SWAT-SP-GFP
+YIL015W,BAR1,cell periphery,"cell periphery,vacuole",below threshold,vacuole,23.0,12.0,SWAT-SP-GFP
+YIL016W,SNL1,punctate,punctate,"cell periphery,punctate",ER,N/D,N/D,SWAT-GFP
+YIL023C,YKE4,ER,ER,below threshold,below threshold,39.0,8.7,SWAT-GFP
+YIL027C,EMC5,ER,ER,ER,ER,63.2,28.8,SWAT-SP-GFP
+YIL029C,YIL029C,below threshold,below threshold,below threshold,below threshold,10.2,9.0,SWAT-GFP
+YIL030C,SSM4,ER,ER,below threshold,ER,54.9,N/D,SWAT-GFP
+YIL037C,PRM2,"punctate,bud neck",vacuole,below threshold,vacuole,30.4,8.6,SWAT-GFP
+YIL039W,TED1,ER,ER,ER,ER,90.6,16.4,SWAT-GFP
+YIL040W,APQ12,ER,ER,ER,ER,34.8,13.6,SWAT-GFP
+YIL041W,GVP36,cytosol,cytosol,"cytosol,punctate",cytosol,224.3,51.0,SWAT-GFP
+YIL043C,CBR1,nucleus,nucleus,"cytosol,nucleus",ER,145.5,37.2,SWAT-GFP
+YIL044C,AGE2,"cytosol,punctate","cytosol,punctate",punctate,punctate,96.6,18.6,SWAT-GFP
+YIL046W-A,YIL046W-A,below threshold,below threshold,below threshold,0,14.4,8.0,SWAT-GFP
+YIL047C,SYG1,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,65.3,11.9,SWAT-GFP
+YIL048W,NEO1,punctate,punctate,punctate,punctate,51.6,13.2,SWAT-GFP
+YIL049W,DFG10,ER,ER,below threshold,cytosol,14.5,11.1,SWAT-GFP
+YIL065C,FIS1,mitochondria,0,0,ambiguous,N/D,N/D,SWAT-GFP
+YIL067C,YIL067C,punctate,punctate,"below threshold,punctate",vacuole,53.8,12.1,SWAT-GFP
+YIL068C,SEC6,bud neck,bud neck,bud neck,"ambiguous,neck,cell periphery,bud,bud neck",48.5,10.1,SWAT-GFP
+YIL076W,SEC28,punctate,punctate,punctate,"punctate,punctate",128.8,43.8,SWAT-GFP
+YIL085C,KTR7,"ER,punctate",0,0,0,N/D,N/D,SWAT-GFP
+YIL088C,AVT7,vacuole,vacuole,vacuole,ER,44.0,13.9,SWAT-GFP
+YIL089W,YIL089W,"punctate,vacuole","punctate,vacuole",below threshold,below threshold,37.1,9.1,SWAT-GFP
+YIL090W,ICE2,ER,ER,ER,ER,46.8,10.0,SWAT-GFP
+YIL095W,PRK1,punctate,punctate,"punctate,bud neck",punctate,43.1,12.7,SWAT-GFP
+YIL099W,SGA1,"ER,vacuole",vacuole,below threshold,below threshold,76.5,11.9,SWAT-SP-GFP
+YIL102C-A,YIL102C-A,ER,ER,"ambigous,ER",0,39.4,11.9,SWAT-GFP
+YIL105C,SLM1,"cell periphery,punctate",0,0,punctate,N/D,N/D,SWAT-GFP
+YIL109C,SEC24,"punctate,vacuole membrane","punctate,vacuole membrane",punctate,ER to punctate,186.5,34.4,SWAT-GFP
+YIL114C,POR2,mitochondria,0,0,mitochondria,N/D,N/D,SWAT-GFP
+YIL117C,PRM5,below threshold,below threshold,below threshold,vacuole,13.0,11.4,SWAT-GFP
+YIL120W,QDR1,"cell periphery,ER","cell periphery,vacuole",below threshold,below threshold,47.2,9.4,SWAT-GFP
+YIL121W,QDR2,cell periphery,"cell periphery,vacuole","below threshold,cell periphery",cell periphery,47.0,N/D,SWAT-GFP
+YIL123W,SIM1,ER,vacuole,ER,vacuole,101.9,27.3,SWAT-SP-GFP
+YIL124W,AYR1,"ER,punctate","ER,punctate",ambigous,ER,149.0,13.9,SWAT-GFP
+YIL134C-A,YIL134C-A,below threshold,below threshold,below threshold,0,11.7,12.3,SWAT-GFP
+YIL134W,FLX1,mitochondria,mitochondria,below threshold,below threshold,23.5,9.7,SWAT-GFP
+YIL140W,AXL2,vacuole,vacuole,ambigous,"ambiguous,neck,cell periphery,vacuole,bud,bud neck",38.8,15.4,SWAT-SP-GFP
+YIL147C,SLN1,cell periphery,cell periphery,cell periphery,cell periphery,38.5,10.9,SWAT-GFP
+YIL156W-B,YIL156W-B,"ER,vacuole",vacuole,below threshold,0,49.2,12.6,SWAT-SP-GFP
+YIL158W,AIM20,punctate,0,0,vacuole,N/D,N/D,SWAT-GFP
+YIL160C,POT1,punctate,0,0,ambiguous,N/D,N/D,SWAT-GFP
+YIL162W,SUC2,"cell periphery,vacuole","cell periphery,vacuole",ambigous,below threshold,38.8,17.7,SWAT-SP-GFP
+YIL166C,YIL166C,"cell periphery,vacuole","cell periphery,vacuole",below threshold,below threshold,39.2,9.1,SWAT-GFP
+YIL169C,YIL169C,cell periphery,"cell periphery,vacuole","below threshold,cell periphery",below threshold,29.9,12.9,SWAT-SP-GFP
+YIL173W,VTH1,"vacuole,punctate",vacuole,below threshold,punctate,50.0,11.5,SWAT-SP-GFP
+YIR004W,DJP1,"cell periphery,ER,bud","cell periphery,ER,bud",ER,ER,81.1,28.4,SWAT-GFP
+YIR006C,PAN1,"punctate,bud neck","punctate,bud neck","punctate,bud neck",punctate,112.9,28.8,SWAT-GFP
+YIR007W,EGH1,vacuole membrane,vacuole membrane,below threshold,cytosol,57.0,9.7,SWAT-GFP
+YIR014W,YIR014W,ER,ER,below threshold,vacuole,36.8,10.1,SWAT-GFP
+YIR019C,FLO11,vacuole,vacuole,below threshold,0,29.2,11.4,SWAT-SP-GFP
+YIR020C,YIR020C,"ER,punctate",0,0,below threshold,N/D,N/D,SWAT-GFP
+YIR022W,SEC11,ER,vacuole,below threshold,ER,55.3,12.2,SWAT-SP-GFP
+YIR028W,DAL4,vacuole,vacuole,below threshold,below threshold,35.3,9.1,SWAT-GFP
+YIR031C,DAL7,cytosol,cytosol,below threshold,0,132.2,8.8,SWAT-GFP
+YIR032C,DAL3,cytosol,0,0,below threshold,N/D,N/D,SWAT-GFP
+YIR033W,MGA2,ER,ER,"ambigous,ER",below threshold,44.1,14.4,SWAT-GFP
+YIR034C,LYS1,punctate,punctate,punctate,"nucleus,cytosol",86.7,162.0,SWAT-GFP
+YIR037W,HYR1,cytosol,cytosol,cytosol,cytosol,358.4,40.3,SWAT-GFP
+YIR038C,GTT1,"cell periphery,ER","cell periphery,ER","cell periphery,ER",cytosol,339.7,23.0,SWAT-GFP
+YIR039C,YPS6,ER,vacuole,below threshold,0,75.2,11.7,SWAT-SP-GFP
+YIR041W,PAU15,vacuole,vacuole,below threshold,below threshold,44.7,11.0,SWAT-SP-GFP
+YJL001W,PRE3,0,0,below threshold,0,96.3,8.6,SWAT-GFP
+YJL002C,OST1,ER,ER,ER,ER,136.2,59.5,SWAT-SP-GFP
+YJL005W,CYR1,cytosol,cytosol,cytosol,cytosol,35.3,12.5,SWAT-GFP
+YJL012C,VTC4,"cell periphery,vacuole membrane","cell periphery,vacuole",vacuole membrane,below threshold,112.2,30.9,SWAT-GFP
+YJL019W,MPS3,"punctate,nuclear periphery","cell periphery,punctate,nuclear periphery",punctate,0,55.3,12.5,SWAT-GFP
+YJL024C,APS3,punctate,punctate,punctate,"punctate,punctate",35.4,17.2,SWAT-GFP
+YJL028W,YJL028W,punctate,below threshold,below threshold,below threshold,17.2,9.0,SWAT-GFP
+YJL029C,VPS53,"cytosol,punctate","cytosol,punctate",punctate,"punctate,punctate",42.5,14.5,SWAT-GFP
+YJL031C,BET4,cytosol,cytosol,0,0,78.9,N/D,SWAT-GFP
+YJL036W,SNX4,"cytosol,punctate","cytosol,punctate",punctate,punctate,51.2,19.3,SWAT-GFP
+YJL037W,IRC18,"ER,punctate,vacuole",vacuole,punctate,below threshold,152.5,60.7,SWAT-SP-GFP
+YJL038C,LOH1,cytosol,cytosol,below threshold,below threshold,51.5,8.5,SWAT-GFP
+YJL039C,NUP192,nucleus,nucleus,"nuclear periphery,punctate",0,75.4,27.8,SWAT-GFP
+YJL044C,GYP6,"cytosol,punctate","cytosol,punctate",punctate,punctate,81.1,13.0,SWAT-GFP
+YJL051W,IRC8,"cell periphery,vacuole","cell periphery,vacuole",below threshold,cytosol,16.3,9.4,SWAT-GFP
+YJL052C-A,YJL052C-A,ambigous,vacuole,below threshold,below threshold,19.6,12.0,SWAT-SP-GFP
+YJL052W,TDH1,cytosol,cytosol,"cytosol,nucleus","nucleus,cytosol",272.9,530.6,SWAT-GFP
+YJL058C,BIT61,cell periphery,"cell periphery,punctate",below threshold,cytosol,40.8,9.5,SWAT-GFP
+YJL059W,YHC3,punctate,"punctate,vacuole",ambigous,below threshold,46.4,13.4,SWAT-GFP
+YJL062W,LAS21,ER,ER,ER,ER,63.4,17.0,SWAT-SP-GFP
+YJL073W,JEM1,ER,ER,ambigous,below threshold,70.5,13.2,SWAT-SP-GFP
+YJL077C,ICS3,below threshold,below threshold,below threshold,mitochondria,12.2,9.7,SWAT-GFP
+YJL078C,PRY3,cell periphery,"cell periphery,vacuole","ambigous,cell periphery",ER,27.1,14.7,SWAT-SP-GFP
+YJL079C,PRY1,ER,vacuole,cytosol,vacuole,36.5,38.9,SWAT-SP-GFP
+YJL080C,SCP160,vacuole membrane,vacuole membrane,vacuole membrane,ER,244.7,50.8,SWAT-GFP
+YJL084C,ALY2,cytosol,cytosol,cytosol,cytosol,31.9,10.2,SWAT-GFP
+YJL085W,EXO70,bud neck,bud neck,bud neck,"neck,cell periphery,bud,bud neck",55.3,13.0,SWAT-GFP
+YJL091C,GWT1,ER,ER,below threshold,0,18.5,14.0,SWAT-GFP
+YJL093C,TOK1,cell periphery,cell periphery,ambigous,below threshold,41.7,8.9,SWAT-GFP
+YJL094C,KHA1,ER,ER,below threshold,below threshold,19.7,10.1,SWAT-GFP
+YJL095W,BCK1,bud neck,bud neck,below threshold,cytosol,46.5,12.9,SWAT-GFP
+YJL097W,PHS1,ER,ER,ER,"ER,vacuole",147.4,35.2,SWAT-GFP
+YJL099W,CHS6,"cytosol,punctate","cytosol,punctate",below threshold,punctate,48.0,10.7,SWAT-GFP
+YJL100W,LSB6,vacuole membrane,vacuole membrane,below threshold,below threshold,40.4,12.2,SWAT-GFP
+YJL102W,MEF2,cytosol,cytosol,below threshold,0,8.3,9.1,SWAT-GFP
+YJL108C,PRM10,ER,ER,below threshold,0,18.2,9.3,SWAT-GFP
+YJL112W,MDV1,mitochondria,0,0,mitochondria,N/D,N/D,SWAT-GFP
+YJL116C,NCA3,vacuole,vacuole,"ambigous,vacuole",below threshold,16.6,17.0,SWAT-SP-GFP
+YJL117W,PHO86,ER,ER,ER,ER,75.4,26.5,SWAT-GFP
+YJL123C,MTC1,punctate,punctate,punctate,"cytosol,punctate,punctate",89.6,37.7,SWAT-GFP
+YJL127C-B,YJL127C-B,"punctate,mitochondria",below threshold,"punctate,mitochondria",0,14.3,9.8,SWAT-GFP
+YJL129C,TRK1,"cell periphery,punctate","cell periphery,punctate",below threshold,below threshold,19.0,10.3,SWAT-GFP
+YJL132W,YJL132W,"ER,vacuole",vacuole,below threshold,below threshold,50.7,11.9,SWAT-SP-GFP
+YJL134W,LCB3,ER,ER,ER,ER,65.1,19.1,SWAT-GFP
+YJL139C,YUR1,ER,ER,below threshold,below threshold,23.6,9.0,SWAT-GFP
+YJL145W,SFH5,"cell periphery,vacuole membrane","cell periphery,vacuole membrane",punctate,cytosol,114.6,30.5,SWAT-GFP
+YJL158C,CIS3,"cell periphery,vacuole","cell periphery,vacuole",cytosol,vacuole,25.9,59.3,SWAT-SP-GFP
+YJL159W,HSP150,"cell periphery,vacuole",cytosol,cytosol,below threshold,24.8,22.7,SWAT-SP-GFP
+YJL160C,PIR5,"ER,vacuole",vacuole,below threshold,below threshold,23.7,11.5,SWAT-SP-GFP
+YJL163C,YJL163C,vacuole membrane,vacuole membrane,below threshold,below threshold,38.0,10.2,SWAT-GFP
+YJL170C,ASG7,vacuole membrane,vacuole,below threshold,below threshold,58.3,10.5,SWAT-GFP
+YJL171C,YJL171C,ER,"ER,vacuole",ER,ER,97.8,19.4,SWAT-SP-GFP
+YJL172W,CPS1,vacuole,vacuole,below threshold,0,104.0,8.7,SWAT-GFP
+YJL174W,KRE9,"ER,vacuole",vacuole,vacuole,below threshold,53.4,28.3,SWAT-SP-GFP
+YJL178C,ATG27,vacuole,vacuole,vacuole,punctate,82.9,24.5,SWAT-SP-GFP
+YJL183W,MNN11,"ER,punctate","ER,vacuole",punctate,punctate,64.6,30.1,SWAT-GFP
+YJL185C,ATG36,punctate,punctate,punctate,below threshold,29.8,11.9,SWAT-GFP
+YJL186W,MNN5,ER,vacuole,punctate,punctate,22.5,25.4,SWAT-SP-GFP
+YJL192C,SOP4,ER,ER,ER,ER,57.1,20.5,SWAT-SP-GFP
+YJL193W,YJL193W,punctate,vacuole,"below threshold,punctate",below threshold,28.7,11.3,SWAT-GFP
+YJL194W,CDC6,nucleus,below threshold,below threshold,"nucleus,cytosol",13.9,9.3,SWAT-GFP
+YJL196C,ELO1,ER,ER,ER,ER,70.5,14.1,SWAT-GFP
+YJL198W,PHO90,cell periphery,"cell periphery,vacuole",punctate,ER,42.8,N/D,SWAT-GFP
+YJL204C,RCY1,bud,bud,"punctate,bud neck",cytosol,50.1,16.9,SWAT-GFP
+YJL205C,NCE101,cytosol,cytosol,below threshold,0,20.9,10.8,SWAT-GFP
+YJL207C,LAA1,punctate,punctate,punctate,punctate,50.7,14.9,SWAT-GFP
+YJL210W,PEX2,punctate,0,0,punctate,N/D,N/D,SWAT-GFP
+YJL212C,OPT1,"cell periphery,punctate",0,0,ER,N/D,N/D,SWAT-GFP
+YJL214W,HXT8,cell periphery,"cell periphery,vacuole",below threshold,below threshold,58.0,9.1,SWAT-GFP
+YJL219W,HXT9,"cell periphery,vacuole","cell periphery,vacuole",below threshold,below threshold,71.6,8.3,SWAT-GFP
+YJL222W,VTH2,"ER,punctate,vacuole",vacuole,below threshold,ambiguous,49.4,12.7,SWAT-SP-GFP
+YJL223C,PAU1,vacuole,vacuole,below threshold,below threshold,35.3,11.1,SWAT-SP-GFP
+YJR001W,AVT1,vacuole membrane,vacuole membrane,vacuole membrane,below threshold,39.3,13.4,SWAT-GFP
+YJR004C,SAG1,"cell periphery,vacuole","cell periphery,vacuole","cell periphery,vacuole",0,57.6,20.9,SWAT-SP-GFP
+YJR005W,APL1,"punctate,bud neck,nucleus",0,bud neck,"bud neck,cell periphery",35.7,13.5,SWAT-GFP
+YJR009C,TDH2,"cytosol,nucleus",0,"cytosol,nucleus","nucleus,cytosol",215.9,363.9,SWAT-GFP
+YJR010C-A,SPC1,ER,ER,ER,ER,45.5,18.3,SWAT-GFP
+YJR013W,GPI14,ER,ER,ER,ER,51.9,11.4,SWAT-GFP
+YJR015W,YJR015W,ER,ER,below threshold,"ER,cytosol",56.9,11.3,SWAT-GFP
+YJR019C,TES1,punctate,punctate,punctate,mitochondria,41.8,16.0,SWAT-GFP
+YJR031C,GEA1,"punctate,bud","punctate,bud",punctate,punctate,57.1,15.5,SWAT-GFP
+YJR040W,GEF1,punctate,punctate,below threshold,below threshold,55.9,10.3,SWAT-GFP
+YJR044C,VPS55,"punctate,vacuole membrane","punctate,vacuole",punctate,punctate,63.8,19.4,SWAT-GFP
+YJR054W,KCH1,punctate,"cell periphery,vacuole",below threshold,vacuole,35.8,10.1,SWAT-GFP
+YJR058C,APS2,"punctate,bud neck,nucleus","punctate,bud neck,nucleus","punctate,bud neck","bud neck,cell periphery",34.3,14.6,SWAT-GFP
+YJR066W,TOR1,"punctate,vacuole membrane","punctate,vacuole membrane",below threshold,below threshold,51.1,9.6,SWAT-GFP
+YJR072C,NPA3,cytosol,cytosol,cytosol,cytosol,122.5,33.9,SWAT-GFP
+YJR073C,OPI3,"cell periphery,ER,punctate","cell periphery,ER,punctate","cell periphery,ER,punctate","ER,vacuole",54.5,8.8,SWAT-GFP
+YJR075W,HOC1,punctate,vacuole,punctate,punctate,0.0,31.7,SWAT-SP-GFP
+YJR076C,CDC11,bud neck,0,bud neck,"bud neck,cell periphery",106.0,19.5,SWAT-GFP
+YJR086W,STE18,cell periphery,"cell periphery,vacuole",cell periphery,"cytosol,punctate",53.0,31.8,SWAT-GFP
+YJR088C,EMC2,nucleus,nucleus,ER,ER,88.7,29.2,SWAT-GFP
+YJR102C,VPS25,cytosol,cytosol,ambigous,below threshold,110.4,11.7,SWAT-GFP
+YJR103W,URA8,"ER,vacuole",vacuole,cytosol,cytosol,67.1,19.3,SWAT-SP-GFP
+YJR106W,ECM27,ER,ER,"ambigous,vacuole",below threshold,21.3,10.4,SWAT-GFP
+YJR112W-A,YJR112W-A,"ER,punctate","ER,punctate",below threshold,0,36.9,11.0,SWAT-GFP
+YJR116W,TDA4,ER,ER,below threshold,cytosol,23.7,9.5,SWAT-GFP
+YJR117W,STE24,ER,ER,ER,0,40.4,15.6,SWAT-GFP
+YJR124C,YJR124C,vacuole membrane,vacuole membrane,vacuole membrane,0,69.4,13.6,SWAT-GFP
+YJR125C,ENT3,punctate,punctate,punctate,0,103.8,25.0,SWAT-GFP
+YJR126C,VPS70,ER,ER,below threshold,below threshold,32.3,9.1,SWAT-GFP
+YJR134C,SGM1,punctate,punctate,below threshold,"punctate,punctate",56.1,10.3,SWAT-GFP
+YJR137C,MET5,"cell periphery,punctate,vacuole","cell periphery,vacuole",cytosol,cytosol,64.8,39.0,SWAT-SP-GFP
+YJR143C,PMT4,ER,ER,ER,ER,124.9,21.8,SWAT-GFP
+YJR150C,DAN1,cell periphery,"cell periphery,vacuole",below threshold,0,50.1,11.9,SWAT-SP-GFP
+YJR151C,DAN4,cell periphery,"cell periphery,vacuole",below threshold,0,41.8,12.7,SWAT-SP-GFP
+YJR152W,DAL5,"cell periphery,vacuole","cell periphery,vacuole",below threshold,below threshold,59.8,10.5,SWAT-GFP
+YJR153W,PGU1,ER,cytosol,below threshold,0,71.8,11.5,SWAT-SP-GFP
+YJR158W,HXT16,cell periphery,"cell periphery,vacuole",below threshold,0,97.1,10.3,SWAT-GFP
+YJR160C,MPH3,"cell periphery,vacuole","cell periphery,vacuole",below threshold,0,37.7,N/D,SWAT-GFP
+YKL002W,DID4,punctate,"cytosol,punctate",punctate,punctate,68.7,11.4,SWAT-GFP
+YKL004W,AUR1,"ER,punctate","ER,punctate",punctate,punctate,79.7,27.5,SWAT-GFP
+YKL006C-A,SFT1,punctate,"vacuole,punctate",0,"nucleus,cytosol",66.2,N/D,SWAT-GFP
+YKL008C,LAC1,"punctate,nuclear periphery",nuclear periphery,nuclear periphery,ER,86.2,29.7,SWAT-GFP
+YKL015W,PUT3,nucleus,nucleus,nucleus,"nucleus,cytosol",48.9,11.0,SWAT-GFP
+YKL020C,SPT23,ER,ER,punctate,cytosol,27.5,13.0,SWAT-GFP
+YKL026C,GPX1,cytosol,cytosol,cytosol,cytosol,111.0,11.9,SWAT-GFP
+YKL034W,TUL1,"vacuole,punctate",vacuole,"vacuole,punctate",below threshold,43.3,39.7,SWAT-SP-GFP
+YKL037W,AIM26,below threshold,cytosol,below threshold,below threshold,11.2,10.6,SWAT-GFP
+YKL039W,PTM1,punctate,vacuole,punctate,below threshold,50.4,18.7,SWAT-SP-GFP
+YKL041W,VPS24,"cytosol,punctate",cytosol,"cytosol,punctate","punctate,punctate",89.4,9.7,SWAT-GFP
+YKL044W,YKL044W,"punctate,mitochondria","punctate,mitochondria","punctate,mitochondria",below threshold,16.5,12.5,SWAT-GFP
+YKL046C,DCW1,ER,ER,ER,"ER,ambiguous,bud",123.3,25.4,SWAT-SP-GFP
+YKL047W,ANR2,ER,ER,vacuole membrane,cytosol,55.9,19.1,SWAT-GFP
+YKL051W,SFK1,cell periphery,cell periphery,cell periphery,cell periphery,58.1,20.1,SWAT-GFP
+YKL063C,YKL063C,punctate,vacuole,punctate,punctate,59.7,21.1,SWAT-GFP
+YKL064W,MNR2,vacuole membrane,vacuole membrane,vacuole membrane,ambiguous,71.7,16.7,SWAT-GFP
+YKL065C,YET1,ER,ER,ER,ER,N/D,N/D,SWAT-GFP
+YKL065W-A,YKL065W-A,"ER,punctate","ER,vacuole",below threshold,0,57.5,12.9,SWAT-GFP
+YKL069W,YKL069W,cytosol,cytosol,below threshold,"nucleus,cytosol",130.2,26.3,SWAT-GFP
+YKL073W,LHS1,ER,ER,below threshold,vacuole,90.4,12.2,SWAT-SP-GFP
+YKL077W,YKL077W,"ER,punctate","ER,punctate",punctate,vacuole,166.0,39.0,SWAT-SP-GFP
+YKL080W,VMA5,vacuole membrane,vacuole membrane,vacuole membrane,"ambiguous,vacuole membrane",282.9,83.0,SWAT-GFP
+YKL094W,YJU3,"cell periphery,ER","cell periphery,ER","cell periphery,ER",ER,93.2,32.1,SWAT-GFP
+YKL096C-B,YKL096C-B,below threshold,below threshold,below threshold,0,10.2,9.4,SWAT-GFP
+YKL096W,CWP1,vacuole,vacuole,ER,ER,35.2,20.6,SWAT-SP-GFP
+YKL096W-A,CWP2,"cell periphery,vacuole",cytosol,cytosol,ER,64.3,893.5,SWAT-SP-GFP
+YKL105C,SEG2,"cell periphery,punctate","cell periphery,punctate",below threshold,cytosol,30.7,9.7,SWAT-GFP
+YKL119C,VPH2,ER,vacuole,ER,ER,49.3,16.1,SWAT-GFP
+YKL124W,SSH4,ER,ER,ambigous,0,36.3,11.5,SWAT-GFP
+YKL129C,MYO3,"cell periphery,punctate","cell periphery,punctate","cell periphery,punctate","cytosol,punctate",78.5,13.2,SWAT-GFP
+YKL130C,SHE2,cytosol,cytosol,bud neck,"nucleus,cytosol",105.9,24.9,SWAT-GFP
+YKL133C,YKL133C,mitochondria,mitochondria,below threshold,0,31.9,9.2,SWAT-GFP
+YKL135C,APL2,"cytosol,punctate","cytosol,punctate",punctate,punctate,78.2,23.9,SWAT-GFP
+YKL140W,TGL1,punctate,punctate,punctate,punctate,77.9,21.8,SWAT-GFP
+YKL146W,AVT3,vacuole membrane,vacuole membrane,vacuole,ER,60.9,13.9,SWAT-GFP
+YKL157W,APE2,nucleus,nucleus,vacuole,"cytosol,mitochondria",76.1,14.6,SWAT-GFP
+YKL163W,PIR3,ER,"cell periphery,vacuole",below threshold,cytosol,49.3,11.9,SWAT-SP-GFP
+YKL164C,PIR1,ER,"cell periphery,vacuole",below threshold,"nucleus,cytosol",44.7,12.2,SWAT-SP-GFP
+YKL165C,MCD4,ER,ER,ER,vacuole,74.3,19.1,SWAT-GFP
+YKL173W,SNU114,nucleus,nucleus,nucleus,nucleus,56.4,16.0,SWAT-GFP
+YKL174C,TPO5,ER,ER,"below threshold,ER",0,54.5,N/D,SWAT-GFP
+YKL175W,ZRT3,ER,ER,ER,vacuole,35.6,17.9,SWAT-GFP
+YKL176C,LST4,cytosol,cytosol,below threshold,0,33.3,14.1,SWAT-GFP
+YKL178C,STE3,ER,ER,ER,0,25.7,22.3,SWAT-GFP
+YKL179C,COY1,punctate,punctate,punctate,punctate,54.3,18.9,SWAT-GFP
+YKL183C-A,YKL183C-A,below threshold,below threshold,punctate,0,9.6,8.7,SWAT-GFP
+YKL187C,FAT3,cell periphery,"cell periphery,vacuole",below threshold,ambiguous,63.4,9.9,SWAT-GFP
+YKL188C,PXA2,punctate,punctate,below threshold,below threshold,39.3,12.1,SWAT-GFP
+YKL196C,YKT6,cytosol,cytosol,cytosol,0,148.0,54.1,SWAT-GFP
+YKL197C,PEX1,cytosol,cytosol,punctate,punctate,87.2,14.1,SWAT-GFP
+YKL209C,STE6,vacuole,vacuole,vacuole,vacuole,23.0,9.1,SWAT-GFP
+YKL212W,SAC1,ER,ER,ER,"ER,vacuole",127.1,14.6,SWAT-GFP
+YKL217W,JEN1,"cell periphery,vacuole","cell periphery,vacuole",below threshold,below threshold,27.9,11.2,SWAT-GFP
+YKL219W,COS9,"ambigous,ER",vacuole,below threshold,below threshold,43.0,9.1,SWAT-GFP
+YKL220C,FRE2,vacuole,vacuole,below threshold,below threshold,36.9,12.0,SWAT-SP-GFP
+YKL221W,MCH2,cell periphery,0,0,below threshold,N/D,N/D,SWAT-GFP
+YKL224C,PAU16,vacuole,vacuole,below threshold,below threshold,37.9,12.0,SWAT-SP-GFP
+YKR001C,VPS1,"cytosol,punctate","cytosol,punctate",punctate,"cytosol,punctate,punctate",208.5,70.6,SWAT-GFP
+YKR005C,YKR005C,ER,vacuole,below threshold,below threshold,28.8,12.0,SWAT-SP-GFP
+YKR007W,MEH1,cytosol,cytosol,cytosol,vacuole membrane,36.4,20.7,SWAT-GFP
+YKR009C,FOX2,punctate,punctate,punctate,0,76.5,11.1,SWAT-GFP
+YKR013W,PRY2,ER,vacuole,ER,vacuole,30.1,26.3,SWAT-SP-GFP
+YKR014C,YPT52,"vacuole membrane,punctate","vacuole membrane,punctate","vacuole membrane,punctate","nucleus,cytosol",91.7,23.9,SWAT-GFP
+YKR020W,VPS51,"cytosol,punctate","cytosol,punctate",punctate,punctate,73.3,14.7,SWAT-GFP
+YKR021W,ALY1,cytosol,cytosol,cytosol,cytosol,44.2,9.3,SWAT-GFP
+YKR022C,NTR2,cytosol,0,below threshold,"ER,nucleus,cytosol",60.6,9.8,SWAT-GFP
+YKR026C,GCN3,cytosol,cytosol,cytosol,cytosol,92.9,26.2,SWAT-GFP
+YKR027W,BCH2,punctate,punctate,punctate,punctate,47.0,11.5,SWAT-GFP
+YKR030W,GMH1,punctate,"ER,punctate",punctate,below threshold,65.4,18.0,SWAT-GFP
+YKR036C,CAF4,mitochondria,mitochondria,mitochondria,mitochondria,40.7,13.3,SWAT-GFP
+YKR039W,GAP1,ER,ER,below threshold,vacuole,76.7,11.8,SWAT-GFP
+YKR044W,UIP5,"vacuole,punctate",vacuole,below threshold,cytosol,41.8,13.0,SWAT-SP-GFP
+YKR046C,PET10,punctate,punctate,punctate,punctate,180.3,17.9,SWAT-GFP
+YKR050W,TRK2,cell periphery,cell periphery,below threshold,below threshold,32.4,8.5,SWAT-GFP
+YKR051W,YKR051W,ER,ER,below threshold,0,16.3,9.3,SWAT-GFP
+YKR053C,YSR3,punctate,vacuole,punctate,below threshold,32.1,9.4,SWAT-GFP
+YKR055W,RHO4,"cell periphery,ER,bud neck","cell periphery,ER,bud neck",below threshold,"nucleus,cytosol",66.2,14.6,SWAT-GFP
+YKR058W,GLG1,"cell periphery,punctate",vacuole,below threshold,below threshold,60.2,11.9,SWAT-SP-GFP
+YKR061W,KTR2,ER,vacuole,below threshold,below threshold,69.8,11.9,SWAT-SP-GFP
+YKR067W,GPT2,ER,ER,ER,ER,42.9,18.0,SWAT-GFP
+YKR068C,BET3,"cytosol,punctate",cytosol,punctate,punctate,68.9,28.0,SWAT-GFP
+YKR069W,MET1,ER,nucleus,nucleus,below threshold,46.8,14.7,SWAT-SP-GFP
+YKR084C,HBS1,cytosol,cytosol,cytosol,cytosol,86.9,17.8,SWAT-GFP
+YKR088C,TVP38,punctate,punctate,punctate,"punctate,punctate,punctate,punctate",96.0,19.4,SWAT-GFP
+YKR089C,TGL4,punctate,punctate,punctate,punctate,45.6,14.6,SWAT-GFP
+YKR093W,PTR2,"cell periphery,vacuole","cell periphery,vacuole","below threshold,cell periphery","cell periphery,vacuole",74.4,11.5,SWAT-GFP
+YKR102W,FLO10,cell periphery,"cell periphery,vacuole",below threshold,0,61.4,10.8,SWAT-SP-GFP
+YKR103W,NFT1,below threshold,0,0,"nucleus,cytosol",N/D,N/D,SWAT-GFP
+YKR105C,VBA5,cell periphery,0,0,below threshold,N/D,N/D,SWAT-GFP
+YKR106W,GEX2,cell periphery,"cell periphery,vacuole",below threshold,below threshold,34.8,9.6,SWAT-GFP
+YLL001W,DNM1,"punctate,mitochondria","punctate,mitochondria","punctate,mitochondria","mitochondria,punctate",66.1,21.5,SWAT-GFP
+YLL005C,SPO75,below threshold,0,below threshold,below threshold,15.4,8.7,SWAT-GFP
+YLL006W,MMM1,"punctate,mitochondria",punctate,punctate,"mitochondria,punctate",42.0,12.0,SWAT-GFP
+YLL006W-A,YLL006W-A,"below threshold,punctate","below threshold,punctate","below threshold,punctate",0,13.0,10.8,SWAT-GFP
+YLL010C,PSR1,cytosol,cytosol,below threshold,cell periphery,41.3,13.8,SWAT-GFP
+YLL012W,YEH1,punctate,0,0,punctate,N/D,N/D,SWAT-GFP
+YLL014W,EMC6,ER,ER,ER,ER,95.2,25.5,SWAT-GFP
+YLL015W,BPT1,"ER,punctate","ER,punctate",vacuole membrane,vacuole membrane,21.4,12.7,SWAT-GFP
+YLL023C,POM33,ER,ER,ER,ER,121.2,23.0,SWAT-GFP
+YLL025W,PAU17,vacuole,vacuole,below threshold,below threshold,31.4,11.2,SWAT-SP-GFP
+YLL028W,TPO1,cell periphery,cell periphery,cell periphery,"ER,cell periphery,bud",56.3,21.3,SWAT-GFP
+YLL031C,GPI13,ER,ER,ER,ER,44.0,15.2,SWAT-GFP
+YLL038C,ENT4,cytosol,cytosol,cytosol,cytosol,37.7,12.9,SWAT-GFP
+YLL042C,ATG10,below threshold,below threshold,below threshold,below threshold,14.7,12.0,SWAT-GFP
+YLL043W,FPS1,"cell periphery,punctate,vacuole","cell periphery,vacuole",cell periphery,"cell periphery,vacuole",52.2,11.7,SWAT-GFP
+YLL048C,YBT1,ER,ER,vacuole membrane,vacuole membrane,41.2,N/D,SWAT-GFP
+YLL051C,FRE6,vacuole,vacuole,below threshold,vacuole,29.3,11.5,SWAT-SP-GFP
+YLL052C,AQY2,cytosol,ambigous,cytosol,ER,34.1,12.9,SWAT-GFP
+YLL055W,YCT1,cell periphery,cell periphery,below threshold,ER,59.2,0.0,SWAT-GFP
+YLL056C,YLL056C,ER,vacuole,below threshold,below threshold,80.9,11.1,SWAT-SP-GFP
+YLL061W,MMP1,"cell periphery,ER","cell periphery,vacuole",cell periphery,ER,60.8,N/D,SWAT-GFP
+YLR001C,YLR001C,vacuole,vacuole,below threshold,vacuole membrane,36.4,13.0,SWAT-SP-GFP
+YLR004C,THI73,cell periphery,"cell periphery,vacuole",below threshold,below threshold,80.9,N/D,SWAT-GFP
+YLR018C,POM34,nuclear periphery,nuclear periphery,nuclear periphery,nuclear periphery,40.6,18.0,SWAT-GFP
+YLR019W,PSR2,cytosol,cytosol,ambigous,below threshold,44.5,17.9,SWAT-GFP
+YLR020C,YEH2,cell periphery,"cell periphery,vacuole",punctate,cytosol,50.5,12.4,SWAT-GFP
+YLR023C,IZH3,"ambigous,ER","ambigous,ER","cell periphery,ER",ER,19.3,9.0,SWAT-GFP
+YLR025W,SNF7,punctate,punctate,punctate,punctate,124.3,37.4,SWAT-GFP
+YLR026C,SED5,punctate,punctate,punctate,0,66.2,13.4,SWAT-GFP
+YLR027C,AAT2,punctate,punctate,punctate,0,169.8,82.0,SWAT-GFP
+YLR034C,SMF3,vacuole membrane,vacuole membrane,0,ER,54.3,N/D,SWAT-GFP
+YLR037C,PAU23,"ER,vacuole",vacuole,below threshold,below threshold,35.8,10.9,SWAT-SP-GFP
+YLR039C,RIC1,cytosol,"cytosol,punctate",below threshold,punctate,39.9,9.6,SWAT-GFP
+YLR040C,AFB1,cell periphery,"cell periphery,vacuole",cell periphery,0,42.9,23.0,SWAT-SP-GFP
+YLR042C,YLR042C,"cell periphery,vacuole","cell periphery,vacuole",below threshold,ER,25.2,11.2,SWAT-SP-GFP
+YLR043C,TRX1,"cytosol,nucleus","cytosol,nucleus","cytosol,nucleus","nucleus,cytosol",330.4,88.1,SWAT-GFP
+YLR046C,YLR046C,vacuole,vacuole,vacuole,below threshold,35.8,10.3,SWAT-GFP
+YLR047C,FRE8,ER,ER,below threshold,below threshold,20.4,9.3,SWAT-GFP
+YLR050C,YLR050C,ER,ER,ER,ER,147.3,17.1,SWAT-GFP
+YLR056W,ERG3,ER,0,0,ER,29.6,N/D,SWAT-GFP
+YLR057W,MNL2,vacuole,0,below threshold,below threshold,17.0,10.1,SWAT-GFP
+YLR064W,PER33,ER,ER,cytosol,ER,118.1,43.6,SWAT-GFP
+YLR065C,ENV10,ER,ER,ER,ambiguous,96.3,25.9,SWAT-GFP
+YLR066W,SPC3,ER,ER,0,ER,72.0,N/D,SWAT-GFP
+YLR069C,MEF1,cytosol,cytosol,below threshold,0,62.0,9.4,SWAT-GFP
+YLR072W,LAM6,"punctate,mitochondria","punctate,mitochondria","punctate,mitochondria","mitochondria,punctate",63.8,11.6,SWAT-GFP
+YLR078C,BOS1,punctate,punctate,punctate,0,61.4,8.9,SWAT-GFP
+YLR080W,EMP46,"below threshold,ER","below threshold,vacuole","below threshold,ER",vacuole,17.9,9.1,SWAT-GFP
+YLR081W,GAL2,cell periphery,"cell periphery,vacuole",below threshold,below threshold,42.7,9.2,SWAT-GFP
+YLR083C,EMP70,punctate,"vacuole,punctate",punctate,vacuole,98.0,30.1,SWAT-SP-GFP
+YLR084C,RAX2,"ER,bud neck","ER,bud neck",ambigous,"bud neck,cell periphery",43.9,15.0,SWAT-SP-GFP
+YLR087C,CSF1,punctate,0,0,0,N/D,N/D,SWAT-GFP
+YLR088W,GAA1,ER,ER,ER,ER,71.6,17.0,SWAT-GFP
+YLR092W,SUL2,"ambigous,vacuole membrane",vacuole,ER,cytosol,24.2,9.6,SWAT-GFP
+YLR093C,NYV1,vacuole membrane,vacuole membrane,0,vacuole,24.7,N/D,SWAT-GFP
+YLR099W-A,MIM2,mitochondria,0,0,below threshold,N/D,N/D,SWAT-GFP
+YLR100W,ERG27,"ER,punctate","ER,punctate",punctate,punctate,163.4,29.8,SWAT-GFP
+YLR104W,LCL2,"ER,vacuole",vacuole,punctate,below threshold,100.2,28.0,SWAT-SP-GFP
+YLR109W,AHP1,cytosol,cytosol,below threshold,"nucleus,cytosol",288.4,491.5,SWAT-GFP
+YLR110C,CCW12,"cell periphery,vacuole","cell periphery,vacuole",cytosol,ER,73.3,2627.4,SWAT-SP-GFP
+YLR114C,AVL9,bud neck,bud neck,bud neck,cytosol,65.5,14.5,SWAT-GFP
+YLR119W,SRN2,nucleus,nucleus,below threshold,below threshold,33.9,10.0,SWAT-GFP
+YLR120C,YPS1,ER,cytosol,ambigous,ER,17.6,19.1,SWAT-SP-GFP
+YLR121C,YPS3,ambigous,vacuole,below threshold,mitochondria,23.3,11.7,SWAT-SP-GFP
+YLR130C,ZRT2,ER,ER,ER,ER,37.7,13.9,SWAT-GFP
+YLR138W,NHA1,ER,cytosol,ER,cell periphery,44.2,13.3,SWAT-GFP
+YLR145W,RMP1,nucleus,nucleus,nucleus,"nucleus,cytosol",28.5,12.3,SWAT-GFP
+YLR148W,PEP3,punctate,punctate,punctate,punctate,46.5,18.0,SWAT-GFP
+YLR151C,PCD1,cytosol,cytosol,below threshold,below threshold,41.7,N/D,SWAT-GFP
+YLR152C,YLR152C,ER,0,below threshold,0,16.2,8.5,SWAT-GFP
+YLR154C-G,YLR154C-G,below threshold,0,below threshold,0,11.6,12.7,SWAT-GFP
+YLR160C,ASP3-4,cell periphery,"cell periphery,vacuole",below threshold,below threshold,74.5,11.6,SWAT-SP-GFP
+YLR166C,SEC10,bud neck,bud neck,bud neck,"ambiguous,neck,cell periphery,bud,bud neck",71.2,14.1,SWAT-GFP
+YLR170C,APS1,punctate,cytosol,punctate,0,48.3,18.5,SWAT-GFP
+YLR173W,YLR173W,vacuole membrane,vacuole membrane,vacuole,below threshold,39.4,12.6,SWAT-GFP
+YLR191W,PEX13,punctate,punctate,punctate,punctate,43.5,16.2,SWAT-GFP
+YLR194C,YLR194C,"vacuole,bud neck","vacuole,bud neck",cell periphery,ER,23.2,23.0,SWAT-SP-GFP
+YLR206W,ENT2,punctate,punctate,"below threshold,punctate",punctate,83.0,22.2,SWAT-GFP
+YLR207W,HRD3,ER,ER,"ambigous,ER",below threshold,63.9,16.1,SWAT-SP-GFP
+YLR208W,SEC13,"cell periphery,punctate","cell periphery,punctate","cell periphery,punctate",ER to punctate,229.2,57.6,SWAT-GFP
+YLR212C,TUB4,punctate,"punctate,nucleus",punctate,punctate,61.6,18.0,SWAT-GFP
+YLR213C,CRR1,vacuole,vacuole,below threshold,below threshold,38.6,11.7,SWAT-SP-GFP
+YLR214W,FRE1,ER,vacuole,below threshold,cytosol,35.6,12.4,SWAT-SP-GFP
+YLR220W,CCC1,vacuole membrane,vacuole membrane,vacuole membrane,vacuole,78.9,24.0,SWAT-GFP
+YLR229C,CDC42,"cell periphery,vacuole membrane","cell periphery,vacuole membrane",0,0,189.6,N/D,SWAT-GFP
+YLR237W,THI7,"cell periphery,ER","cell periphery,vacuole",cell periphery,"cell periphery,vacuole",79.5,N/D,SWAT-GFP
+YLR238W,FAR10,"ER,punctate",0,0,0,N/D,N/D,SWAT-GFP
+YLR240W,VPS34,"cytosol,punctate","cytosol,punctate",punctate,punctate,48.4,15.6,SWAT-GFP
+YLR241W,CSC1,ER,ER,punctate,below threshold,23.1,8.8,SWAT-GFP
+YLR242C,ARV1,ER,ER,"below threshold,ER",below threshold,42.8,9.6,SWAT-GFP
+YLR243W,GPN3,ER,vacuole,below threshold,0,36.9,10.7,SWAT-SP-GFP
+YLR246W,ERF2,below threshold,"cell periphery,vacuole",ambigous,below threshold,17.6,11.8,SWAT-GFP
+YLR250W,SSP120,"punctate,vacuole",vacuole,punctate,"punctate,punctate,punctate",78.8,49.7,SWAT-SP-GFP
+YLR251W,SYM1,mitochondria,0,0,below threshold,N/D,N/D,SWAT-GFP
+YLR260W,LCB5,nucleus,"cytosol,nucleus",cytosol,ambiguous,46.4,13.5,SWAT-GFP
+YLR262C,YPT6,punctate,punctate,punctate,cytosol,74.0,23.1,SWAT-GFP
+YLR265C,NEJ1,nucleus,0,0,"nucleus,cytosol",N/D,N/D,SWAT-GFP
+YLR268W,SEC22,ER,ER,ER,punctate,121.0,19.8,SWAT-GFP
+YLR283W,YLR283W,ER,ER,below threshold,mitochondria,146.2,12.1,SWAT-SP-GFP
+YLR284C,ECI1,punctate,punctate,punctate,below threshold,93.9,14.8,SWAT-GFP
+YLR286C,CTS1,vacuole,cytosol,vacuole,vacuole,54.3,32.5,SWAT-SP-GFP
+YLR289W,GUF1,nucleus,nucleus,"ambigous,mitochondria",mitochondria,21.3,9.7,SWAT-GFP
+YLR291C,GCD7,cytosol,"cytosol,punctate",cytosol,"cytosol,punctate",102.9,36.7,SWAT-GFP
+YLR292C,SEC72,ER,"punctate,nucleus",ER,ER,97.4,21.4,SWAT-GFP
+YLR293C,GSP1,cytosol,cytosol,0,0,N/D,N/D,SWAT-GFP
+YLR297W,YLR297W,ambigous,vacuole,ambigous,vacuole,35.4,12.9,SWAT-GFP
+YLR299W,ECM38,below threshold,cytosol,below threshold,ambiguous,14.2,8.9,SWAT-GFP
+YLR300W,EXG1,"ER,vacuole",vacuole,vacuole,vacuole,43.3,25.4,SWAT-SP-GFP
+YLR301W,HRI1,cytosol,cytosol,cytosol,"nucleus,cytosol",237.4,49.9,SWAT-GFP
+YLR307W,CDA1,ER,punctate,ambigous,cytosol,63.4,12.1,SWAT-SP-GFP
+YLR308W,CDA2,below threshold,vacuole,below threshold,below threshold,12.2,11.1,SWAT-SP-GFP
+YLR309C,IMH1,punctate,punctate,below threshold,cytosol,68.0,0.0,SWAT-GFP
+YLR314C,CDC3,bud neck,bud neck,bud neck,below threshold,117.2,26.0,SWAT-GFP
+YLR324W,PEX30,"cell periphery,ER,bud","cell periphery,ER,bud",below threshold,punctate,62.2,15.7,SWAT-GFP
+YLR326W,YLR326W,cell periphery,cell periphery,below threshold,cytosol,62.9,15.3,SWAT-GFP
+YLR330W,CHS5,"cytosol,punctate","cytosol,punctate",punctate,punctate,101.0,23.5,SWAT-GFP
+YLR332W,MID2,vacuole,"cell periphery,vacuole",vacuole,cell periphery,23.0,16.6,SWAT-SP-GFP
+YLR337C,VRP1,punctate,0,"punctate,bud neck","punctate,punctate",74.2,17.8,SWAT-GFP
+YLR342W,FKS1,"cell periphery,bud","cell periphery,bud","cell periphery,bud neck",vacuole,120.1,61.3,SWAT-GFP
+YLR342W-A,YLR342W-A,below threshold,below threshold,below threshold,0,11.6,9.4,SWAT-GFP
+YLR343W,GAS2,vacuole,vacuole,below threshold,cytosol,68.3,11.6,SWAT-SP-GFP
+YLR350W,ORM2,ER,0,0,ER,N/D,N/D,SWAT-GFP
+YLR353W,BUD8,"cell periphery,bud neck",0,0,"ambiguous,neck,cell periphery,bud,bud neck",N/D,N/D,SWAT-GFP
+YLR356W,ATG33,mitochondria,mitochondria,mitochondria,mitochondria,35.4,11.2,SWAT-GFP
+YLR360W,VPS38,punctate,punctate,punctate,punctate,21.9,10.9,SWAT-GFP
+YLR361C,DCR2,vacuole,vacuole,below threshold,below threshold,30.9,10.6,SWAT-GFP
+YLR368W,MDM30,nucleus,nucleus,below threshold,below threshold,40.5,11.8,SWAT-GFP
+YLR371W,ROM2,"cell periphery,nucleus","cell periphery,nucleus",ambigous,"neck,bud,cytosol,bud neck",30.1,10.7,SWAT-GFP
+YLR372W,ELO3,ER,0,0,ER,N/D,N/D,SWAT-GFP
+YLR376C,PSY3,"cytosol,nucleus","cytosol,nucleus",below threshold,"nucleus,cytosol",42.4,9.7,SWAT-GFP
+YLR378C,SEC61,ER,"ER,vacuole",ER,ER,125.7,88.2,SWAT-GFP
+YLR380W,CSR1,cytosol,cytosol,ambigous,cytosol,132.3,23.4,SWAT-GFP
+YLR385C,SWC7,ER,vacuole,nucleus,nucleus,26.1,14.7,SWAT-SP-GFP
+YLR389C,STE23,"punctate,mitochondria","punctate,mitochondria","punctate,mitochondria",below threshold,90.6,14.8,SWAT-GFP
+YLR390W-A,CCW14,"cell periphery,vacuole",cytosol,cell periphery,ER,63.1,92.8,SWAT-SP-GFP
+YLR396C,VPS33,punctate,punctate,punctate,vacuole membrane,60.2,17.3,SWAT-GFP
+YLR403W,SFP1,nucleus,nucleus,nucleus,"nucleus,cytosol",58.1,26.3,SWAT-SP-GFP
+YLR406C-A,YLR406C-A,"ER,vacuole",vacuole,punctate,0,27.7,16.2,SWAT-SP-GFP
+YLR411W,CTR3,ER,ER,below threshold,below threshold,28.2,9.5,SWAT-GFP
+YLR413W,INA1,"cell periphery,ER,vacuole","cell periphery,vacuole","cell periphery,vacuole",cell periphery,65.4,41.5,SWAT-SP-GFP
+YLR414C,PUN1,"cell periphery,ER","cell periphery,vacuole","cell periphery,ER","ambiguous,cell periphery,bud,cytosol",56.2,24.2,SWAT-SP-GFP
+YLR417W,VPS36,punctate,punctate,below threshold,cytosol,30.1,10.9,SWAT-GFP
+YLR423C,ATG17,nucleus,nucleus,punctate,punctate,50.4,10.3,SWAT-GFP
+YLR426W,TDA5,ER,ER,below threshold,below threshold,16.1,8.6,SWAT-GFP
+YLR440C,SEC39,cytosol,0,0,ER,N/D,N/D,SWAT-GFP
+YLR443W,ECM7,vacuole,vacuole,below threshold,below threshold,N/D,N/D,SWAT-GFP
+YLR447C,VMA6,vacuole membrane,vacuole membrane,below threshold,vacuole membrane,303.6,9.1,SWAT-GFP
+YLR450W,HMG2,ER,ER,below threshold,nuclear periphery,73.7,10.8,SWAT-GFP
+YLR459W,GAB1,ER,cytosol,ER,ER,54.6,16.7,SWAT-GFP
+YLR461W,PAU4,"ER,vacuole",vacuole,below threshold,below threshold,43.4,11.4,SWAT-SP-GFP
+YML001W,YPT7,vacuole membrane,vacuole membrane,vacuole membrane,"nucleus,cytosol",136.3,33.1,SWAT-GFP
+YML006C,GIS4,cell periphery,cell periphery,ambigous,cytosol,38.8,16.9,SWAT-GFP
+YML008C,ERG6,punctate,punctate,punctate,punctate,165.0,109.3,SWAT-GFP
+YML012W,ERV25,"punctate,vacuole",vacuole,punctate,ER,67.5,49.6,SWAT-SP-GFP
+YML013W,UBX2,ER,ER,ER,ER,69.7,20.1,SWAT-GFP
+YML018C,YML018C,vacuole membrane,0,vacuole membrane,vacuole membrane,63.5,21.8,SWAT-GFP
+YML019W,OST6,ER,"ER,punctate","ambigous,punctate",below threshold,34.1,12.0,SWAT-GFP
+YML027W,YOX1,"ambigous,ER",vacuole,nucleus,"nucleus,cytosol",22.3,17.4,SWAT-SP-GFP
+YML028W,TSA1,cytosol,0,0,"cytosol,punctate",210.9,N/D,SWAT-GFP
+YML029W,USA1,ER,ER,below threshold,ambiguous,N/D,N/D,SWAT-GFP
+YML031W,NDC1,"punctate,nuclear periphery","cell periphery,ER",0,nuclear periphery,56.9,N/D,SWAT-GFP
+YML034W,SRC1,"nuclear periphery,punctate",nuclear periphery,nuclear periphery,nuclear periphery,44.2,13.2,SWAT-GFP
+YML037C,YML037C,punctate,punctate,punctate,punctate,30.3,10.7,SWAT-GFP
+YML042W,CAT2,punctate,punctate,punctate,0,73.8,10.8,SWAT-GFP
+YML047C,PRM6,vacuole,vacuole,below threshold,below threshold,20.3,8.8,SWAT-GFP
+YML048W,GSF2,ER,ER,ER,ER,156.4,30.0,SWAT-GFP
+YML052W,SUR7,"cell periphery,punctate","cell periphery,punctate","cell periphery,punctate",punctate,51.7,27.1,SWAT-GFP
+YML054C,CYB2,nucleus,nucleus,below threshold,below threshold,46.4,12.0,SWAT-GFP
+YML055W,SPC2,ER,ER,ER,ER,104.8,17.9,SWAT-GFP
+YML059C,NTE1,"ER,punctate","ER,punctate",below threshold,ER,55.1,13.0,SWAT-GFP
+YML064C,TEM1,punctate,"punctate,nucleus",punctate,"punctate,punctate",30.2,12.3,SWAT-GFP
+YML066C,SMA2,"vacuole,vacuole membrane","vacuole,vacuole membrane",vacuole,below threshold,27.0,9.3,SWAT-GFP
+YML067C,ERV41,punctate,cytosol,punctate,ER,61.9,15.3,SWAT-GFP
+YML071C,COG8,"cytosol,punctate","cytosol,punctate","cytosol,punctate",punctate,65.6,9.4,SWAT-GFP
+YML075C,HMG1,nuclear periphery,nuclear periphery,nuclear periphery,nuclear periphery,74.7,26.7,SWAT-GFP
+YML077W,BET5,punctate,punctate,punctate,below threshold,39.9,17.0,SWAT-GFP
+YML081W,TDA9,nucleus,nucleus,nucleus,nucleus,36.7,11.0,SWAT-GFP
+YML085C,TUB1,punctate,0,below threshold,"cytosol,punctate,punctate,punctate",230.2,11.4,SWAT-GFP
+YML087C,AIM33,below threshold,below threshold,below threshold,below threshold,9.9,9.6,SWAT-GFP
+YML097C,VPS9,"cytosol,punctate","cytosol,punctate","cytosol,punctate",cytosol,55.1,16.8,SWAT-GFP
+YML101C,CUE4,nucleus,"ER,punctate",ER,ER,53.1,16.4,SWAT-GFP
+YML104C,MDM1,"cell periphery,vacuole","cell periphery,vacuole",below threshold,ambiguous,54.9,8.7,SWAT-GFP
+YML115C,VAN1,punctate,vacuole,punctate,"vacuole,punctate",67.7,21.0,SWAT-GFP
+YML116W,ATR1,cell periphery,cell periphery,cell periphery,"cell periphery,vacuole",37.6,18.2,SWAT-GFP
+YML120C,NDI1,mitochondria,0,0,mitochondria,N/D,N/D,SWAT-GFP
+YML121W,GTR1,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,71.5,19.6,SWAT-GFP
+YML123C,PHO84,ER,vacuole,"ER,vacuole",0,48.7,256.0,SWAT-GFP
+YML124C,TUB3,punctate,punctate,below threshold,"nucleus,cytosol,punctate",164.7,8.3,SWAT-GFP
+YML125C,PGA3,ER,ER,ER,ER,102.9,27.1,SWAT-GFP
+YML128C,MSC1,ER,ER,ER,ER,207.8,24.3,SWAT-SP-GFP
+YML130C,ERO1,ER,ER,"ambigous,ER",0,161.8,24.5,SWAT-SP-GFP
+YML131W,YML131W,cytosol,cytosol,cytosol,cytosol,184.9,18.7,SWAT-GFP
+YML132W,COS3,vacuole,vacuole,below threshold,vacuole,45.0,8.9,SWAT-GFP
+YMR006C,PLB2,"cell periphery,ER","cell periphery,vacuole",below threshold,0,45.5,12.8,SWAT-SP-GFP
+YMR008C,PLB1,"cell periphery,ER","cell periphery,vacuole",cell periphery,0,38.2,16.8,SWAT-SP-GFP
+YMR010W,YMR010W,ER,ER,ER,"punctate,punctate",81.2,19.2,SWAT-GFP
+YMR011W,HXT2,"cell periphery,vacuole","cell periphery,vacuole",cell periphery,"cell periphery,vacuole",67.4,28.8,SWAT-GFP
+YMR013C,SEC59,ER,ER,ER,0,31.7,11.2,SWAT-GFP
+YMR015C,ERG5,ER,ER,ER,ER,36.4,26.5,SWAT-GFP
+YMR017W,SPO20,"below threshold,punctate","below threshold,punctate",below threshold,0,12.7,9.3,SWAT-GFP
+YMR018W,YMR018W,punctate,punctate,punctate,below threshold,30.7,11.8,SWAT-GFP
+YMR019W,STB4,"ambigous,mitochondria",below threshold,"ambigous,mitochondria",nucleus,17.8,9.0,SWAT-GFP
+YMR020W,FMS1,ER,vacuole,below threshold,cytosol,63.6,12.7,SWAT-SP-GFP
+YMR022W,UBC7,ER,nucleus,ER,ER,65.5,19.1,SWAT-GFP
+YMR023C,MSS1,cytosol,cytosol,below threshold,"cytosol,mitochondria",44.5,12.7,SWAT-GFP
+YMR026C,PEX12,punctate,punctate,punctate,punctate,36.0,12.6,SWAT-GFP
+YMR029C,FAR8,cytosol,cytosol,below threshold,0,41.3,11.7,SWAT-GFP
+YMR030W-A,YMR030W-A,ambigous,cytosol,below threshold,0,13.1,8.9,SWAT-GFP
+YMR031C,EIS1,"cell periphery,punctate","cell periphery,punctate,nucleus","cell periphery,punctate",punctate,109.2,24.7,SWAT-GFP
+YMR034C,YMR034C,cell periphery,"cell periphery,vacuole",below threshold,below threshold,29.3,8.9,SWAT-GFP
+YMR040W,YET2,"ambigous,ER","ER,punctate",below threshold,below threshold,17.5,9.0,SWAT-GFP
+YMR042W,ARG80,nucleus,nucleus,"nucleus,punctate",nucleus,34.7,13.7,SWAT-GFP
+YMR052W,FAR3,"cell periphery,punctate","cell periphery,punctate","cell periphery,punctate",ER,167.6,76.3,SWAT-GFP
+YMR054W,STV1,punctate,0,0,"punctate,punctate",N/D,N/D,SWAT-GFP
+YMR055C,BUB2,punctate,punctate,punctate,punctate,25.6,10.4,SWAT-GFP
+YMR058W,FET3,"ER,vacuole",vacuole,"ER,vacuole","ER,cell periphery,bud",93.9,105.8,SWAT-SP-GFP
+YMR060C,SAM37,mitochondria,0,0,mitochondria,N/D,N/D,SWAT-GFP
+YMR063W,RIM9,punctate,"cell periphery,vacuole","ambigous,punctate",below threshold,N/D,N/D,SWAT-GFP
+YMR065W,KAR5,below threshold,below threshold,below threshold,below threshold,11.7,9.7,SWAT-GFP
+YMR068W,AVO2,"cytosol,nucleus","cytosol,nucleus",below threshold,below threshold,36.8,13.0,SWAT-GFP
+YMR071C,TVP18,punctate,"cell periphery,vacuole",punctate,punctate,81.8,35.8,SWAT-GFP
+YMR077C,VPS20,cytosol,cytosol,punctate,"punctate,vacuole membrane",0.0,0.0,SWAT-GFP
+YMR079W,SEC14,cytosol,cytosol,cytosol,"nucleus,cytosol",162.4,33.9,SWAT-GFP
+YMR086W,SEG1,"cell periphery,punctate","cell periphery,punctate",below threshold,cell periphery,61.8,10.3,SWAT-GFP
+YMR088C,VBA1,vacuole membrane,vacuole membrane,below threshold,below threshold,80.3,N/D,SWAT-GFP
+YMR097C,MTG1,nucleus,nucleus,below threshold,mitochondria,19.1,8.7,SWAT-GFP
+YMR101C,SRT1,punctate,punctate,below threshold,below threshold,29.8,12.3,SWAT-GFP
+YMR109W,MYO5,"cell periphery,punctate,bud","cell periphery,punctate,bud","punctate,bud neck",punctate,61.0,21.5,SWAT-GFP
+YMR110C,HFD1,ER,ER,ER,"punctate,punctate",78.4,21.9,SWAT-GFP
+YMR118C,SHH3,mitochondria,mitochondria,below threshold,below threshold,22.8,10.8,SWAT-GFP
+YMR119W,ASI1,nuclear periphery,nuclear periphery,below threshold,nuclear periphery,17.4,8.7,SWAT-GFP
+YMR123W,PKR1,ER,ER,below threshold,ER,109.1,10.0,SWAT-GFP
+YMR129W,POM152,"cell periphery,nuclear periphery","cell periphery,nuclear periphery",below threshold,nuclear periphery,51.7,9.7,SWAT-GFP
+YMR134W,ERG29,ER,ER,cell periphery,0,N/D,N/D,SWAT-GFP
+YMR147W,YMR147W,"cell periphery,punctate","cell periphery,punctate",punctate,below threshold,123.8,25.4,SWAT-SP-GFP
+YMR148W,OSW5,punctate,punctate,punctate,punctate,92.9,18.7,SWAT-GFP
+YMR149W,SWP1,ER,vacuole,ambigous,ER,63.5,15.2,SWAT-SP-GFP
+YMR152W,YIM1,ER,ER,ER,ER,87.4,21.5,SWAT-GFP
+YMR155W,YMR155W,vacuole,vacuole,below threshold,below threshold,36.6,9.1,SWAT-GFP
+YMR159C,ATG16,cytosol,cytosol,below threshold,cytosol,41.0,9.6,SWAT-GFP
+YMR161W,HLJ1,ER,ER,ER,ER,74.0,20.2,SWAT-GFP
+YMR162C,DNF3,ER,ER,punctate,cytosol,30.4,11.5,SWAT-GFP
+YMR163C,INP2,punctate,punctate,below threshold,"ambiguous,bud,punctate",21.2,13.3,SWAT-GFP
+YMR165C,PAH1,cytosol,cytosol,cytosol,cytosol,54.3,14.0,SWAT-GFP
+YMR171C,EAR1,ER,ER,ambigous,punctate,42.5,12.4,SWAT-SP-GFP
+YMR173W,DDR48,cytosol,cytosol,cytosol,cytosol,226.3,69.6,SWAT-GFP
+YMR183C,SSO2,cell periphery,cell periphery,cell periphery,"punctate,punctate",122.1,24.8,SWAT-GFP
+YMR187C,YMR187C,below threshold,0,below threshold,below threshold,15.4,11.9,SWAT-GFP
+YMR189W,GCV2,ER,vacuole,cytosol,mitochondria,94.6,116.5,SWAT-SP-GFP
+YMR192W,GYL1,"cytosol,bud neck",0,0,"ambiguous,neck,bud,cytosol,bud neck",N/D,N/D,SWAT-GFP
+YMR197C,VTI1,"vacuole membrane,punctate",vacuole membrane,ambigous,0,67.8,11.8,SWAT-GFP
+YMR198W,CIK1,nucleus,nucleus,punctate,punctate,23.8,11.0,SWAT-GFP
+YMR200W,ROT1,ER,ER,"ambigous,ER",ER,96.2,38.6,SWAT-SP-GFP
+YMR202W,ERG2,"ER,punctate","ER,punctate","ER,punctate",ambiguous,77.3,16.2,SWAT-GFP
+YMR204C,INP1,punctate,punctate,punctate,punctate,18.4,13.7,SWAT-GFP
+YMR208W,ERG12,cytosol,cytosol,cytosol,"nucleus,cytosol",0.0,28.9,SWAT-GFP
+YMR209C,YMR209C,ER,vacuole,below threshold,cytosol,36.0,12.1,SWAT-SP-GFP
+YMR212C,EFR3,cell periphery,cell periphery,"cell periphery,punctate",cell periphery,53.4,16.7,SWAT-GFP
+YMR214W,SCJ1,ER,vacuole,ER,ambiguous,97.8,48.8,SWAT-SP-GFP
+YMR215W,GAS3,vacuole,vacuole,vacuole,"ER,cytosol",48.4,29.6,SWAT-SP-GFP
+YMR221C,YMR221C,vacuole membrane,vacuole membrane,vacuole membrane,vacuole,91.7,15.8,SWAT-GFP
+YMR226C,YMR226C,ER,vacuole,cytosol,"nucleus,cytosol",101.4,33.7,SWAT-SP-GFP
+YMR231W,PEP5,punctate,punctate,punctate,punctate,41.2,14.9,SWAT-GFP
+YMR232W,FUS2,nucleus,nucleus,below threshold,cytosol,23.8,9.2,SWAT-GFP
+YMR237W,BCH1,punctate,"cytosol,punctate",punctate,punctate,136.8,27.9,SWAT-GFP
+YMR238W,DFG5,ER,ER,ambigous,ER,129.8,21.0,SWAT-SP-GFP
+YMR243C,ZRC1,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,141.5,43.6,SWAT-GFP
+YMR244W,YMR244W,"ER,vacuole",vacuole,below threshold,below threshold,46.2,12.0,SWAT-SP-GFP
+YMR246W,FAA4,punctate,punctate,punctate,punctate,84.5,37.2,SWAT-GFP
+YMR247W-A,YMR247W-A,"ER,vacuole",vacuole,ambigous,0,81.4,13.5,SWAT-SP-GFP
+YMR251W-A,HOR7,"cell periphery,vacuole","cell periphery,vacuole","ambigous,ER",ER,45.7,66.7,SWAT-SP-GFP
+YMR253C,YMR253C,punctate,punctate,punctate,"punctate,punctate",28.9,9.5,SWAT-GFP
+YMR256C,COX7,mitochondria,0,0,mitochondria,35.9,N/D,SWAT-GFP
+YMR258C,ROY1,ER,ER,below threshold,"nucleus,cytosol",39.2,9.1,SWAT-GFP
+YMR264W,CUE1,"ER,punctate","ER,punctate",below threshold,"ER,cytosol",73.8,10.3,SWAT-GFP
+YMR266W,RSN1,"cell periphery,ER","cell periphery,ER","ambigous,ER",cell periphery,46.3,N/D,SWAT-GFP
+YMR272C,SCS7,ER,ER,ER,ER,70.0,14.5,SWAT-GFP
+YMR272W-B,YMR272W-B,"ER,vacuole",vacuole,below threshold,0,51.8,13.9,SWAT-SP-GFP
+YMR274C,RCE1,ER,ER,below threshold,0,26.4,8.6,SWAT-GFP
+YMR279C,YMR279C,cell periphery,"cell periphery,vacuole",below threshold,below threshold,38.4,10.0,SWAT-GFP
+YMR281W,GPI12,ER,ER,ER,cytosol,64.1,12.4,SWAT-GFP
+YMR292W,GOT1,punctate,0,0,ER,N/D,N/D,SWAT-GFP
+YMR296C,LCB1,ER,ER,ER,ER,44.2,21.0,SWAT-GFP
+YMR297W,PRC1,ER,vacuole,punctate,vacuole,54.0,25.3,SWAT-SP-GFP
+YMR298W,LIP1,ER,ER,ER,0,180.7,28.4,SWAT-GFP
+YMR300C,ADE4,ER,0,0,cytosol,N/D,N/D,SWAT-GFP
+YMR304W,UBP15,ER,ER,"cytosol,punctate",cytosol,92.1,17.0,SWAT-GFP
+YMR305C,SCW10,"cell periphery,vacuole","ambigous,cell periphery","ambigous,cell periphery",vacuole,31.9,35.0,SWAT-SP-GFP
+YMR306W,FKS3,ER,vacuole,ER,below threshold,27.2,8.5,SWAT-GFP
+YMR307W,GAS1,ER,vacuole,below threshold,"ER,nuclear periphery,mitochondria",117.1,12.4,SWAT-SP-GFP
+YMR313C,TGL3,punctate,punctate,punctate,0,35.9,17.5,SWAT-GFP
+YMR316C-A,YMR316C-A,ER,ER,below threshold,below threshold,42.3,12.2,SWAT-SP-GFP
+YMR319C,FET4,"cell periphery,vacuole","cell periphery,vacuole","cell periphery,vacuole","cell periphery,vacuole",51.6,11.4,SWAT-GFP
+YNL006W,LST8,"cytosol,punctate","cytosol,punctate","cytosol,punctate",punctate,39.2,14.2,SWAT-GFP
+YNL008C,ASI3,nuclear periphery,nuclear periphery,below threshold,nuclear periphery,21.1,9.7,SWAT-GFP
+YNL009W,IDP3,punctate,punctate,punctate,cytosol,55.9,12.8,SWAT-GFP
+YNL012W,SPO1,"ambigous,vacuole",vacuole,below threshold,below threshold,20.7,11.8,SWAT-SP-GFP
+YNL015W,PBI2,cytosol,cytosol,cytosol,"nucleus,cytosol",338.2,56.3,SWAT-GFP
+YNL019C,YNL019C,vacuole,vacuole,below threshold,below threshold,34.9,12.2,SWAT-SP-GFP
+YNL020C,ARK1,punctate,punctate,"punctate,bud neck",punctate,48.3,15.0,SWAT-GFP
+YNL024C-A,KSH1,ER,cytosol,below threshold,0,43.3,14.8,SWAT-SP-GFP
+YNL026W,SAM50,mitochondria,0,0,0,N/D,N/D,SWAT-GFP
+YNL029C,KTR5,"ER,punctate","ER,vacuole",below threshold,below threshold,33.2,9.7,SWAT-GFP
+YNL032W,SIW14,cytosol,cytosol,cytosol,cytosol,50.6,15.6,SWAT-GFP
+YNL038W,GPI15,ER,vacuole,below threshold,0,23.3,10.5,SWAT-GFP
+YNL041C,COG6,punctate,"cytosol,punctate",punctate,punctate,47.1,13.1,SWAT-GFP
+YNL044W,YIP3,punctate,punctate,punctate,0,91.5,43.0,SWAT-GFP
+YNL046W,YNL046W,"punctate,nucleus","punctate,nucleus",below threshold,ER,45.7,13.6,SWAT-GFP
+YNL047C,SLM2,"cell periphery,punctate","cell periphery,punctate",below threshold,0,34.0,9.9,SWAT-GFP
+YNL048W,ALG11,punctate,0,0,ER,N/D,N/D,SWAT-GFP
+YNL049C,SFB2,punctate,punctate,"below threshold,punctate",ER to punctate,94.0,11.6,SWAT-GFP
+YNL051W,COG5,cytosol,cytosol,punctate,"punctate,punctate",47.3,14.1,SWAT-GFP
+YNL054W,VAC7,vacuole membrane,vacuole membrane,vacuole membrane,below threshold,46.8,12.0,SWAT-GFP
+YNL055C,POR1,"cytosol,punctate",0,0,"cytosol,mitochondria",N/D,N/D,SWAT-GFP
+YNL058C,YNL058C,ER,ER,"cytosol,punctate",0,64.6,13.3,SWAT-GFP
+YNL064C,YDJ1,cytosol,cytosol,0,0,184.3,N/D,SWAT-GFP
+YNL065W,AQR1,"cell periphery,vacuole","cell periphery,vacuole",cell periphery,"cell periphery,vacuole",20.1,13.5,SWAT-GFP
+YNL066W,SUN4,"ER,punctate",vacuole,cytosol,vacuole,42.9,22.1,SWAT-SP-GFP
+YNL070W,TOM7,mitochondria,0,0,mitochondria,N/D,N/D,SWAT-GFP
+YNL074C,MLF3,cytosol,cytosol,below threshold,cytosol,71.8,14.9,SWAT-GFP
+YNL080C,EOS1,ER,ER,below threshold,below threshold,37.2,11.2,SWAT-GFP
+YNL084C,END3,"cell periphery,punctate","cell periphery,punctate","cell periphery,punctate",punctate,82.4,29.6,SWAT-GFP
+YNL087W,TCB2,"cell periphery,ER","cell periphery,ER,punctate","cell periphery,punctate",cell periphery,N/D,N/D,SWAT-GFP
+YNL090W,RHO2,cell periphery,cell periphery,"below threshold,cell periphery","nucleus,cytosol",61.4,18.9,SWAT-GFP
+YNL093W,YPT53,punctate,0,0,below threshold,N/D,N/D,SWAT-GFP
+YNL095C,YNL095C,ER,ER,below threshold,ER,25.6,9.6,SWAT-GFP
+YNL098C,RAS2,cell periphery,cell periphery,cell periphery,"nucleus,cytosol",108.7,53.0,SWAT-GFP
+YNL111C,CYB5,ER,0,ER,ER,61.4,20.9,SWAT-GFP
+YNL115C,YNL115C,"vacuole membrane,punctate","vacuole membrane,punctate",vacuole membrane,vacuole,89.0,12.6,SWAT-GFP
+YNL117W,MLS1,"cytosol,punctate","cytosol,punctate",punctate,0,116.0,14.6,SWAT-GFP
+YNL125C,ESBP6,cell periphery,"cell periphery,vacuole",below threshold,ER,42.1,10.8,SWAT-GFP
+YNL127W,FAR11,cytosol,0,cytosol,cytosol,49.4,13.8,SWAT-GFP
+YNL129W,NRK1,"ER,vacuole",vacuole,cytosol,cytosol,50.8,18.7,SWAT-SP-GFP
+YNL130C,CPT1,ER,ER,ER,0,55.1,26.8,SWAT-GFP
+YNL131W,TOM22,mitochondria,0,0,ambiguous,N/D,N/D,SWAT-GFP
+YNL142W,MEP2,ER,vacuole,below threshold,cell periphery,38.4,9.7,SWAT-GFP
+YNL143C,YNL143C,below threshold,below threshold,below threshold,"nucleus,cytosol",13.4,8.6,SWAT-GFP
+YNL144C,YNL144C,below threshold,below threshold,below threshold,below threshold,14.2,9.0,SWAT-GFP
+YNL145W,MFA2,ER,ER,below threshold,below threshold,98.7,13.6,SWAT-GFP
+YNL146W,YNL146W,ER,ER,"ambigous,ER",ER,N/D,N/D,SWAT-GFP
+YNL149C,PGA2,"ER,punctate","ER,punctate",0,ER,145.7,N/D,SWAT-GFP
+YNL154C,YCK2,cell periphery,cell periphery,cell periphery,"nucleus,cytosol",63.1,39.5,SWAT-GFP
+YNL156C,NSG2,ER,ER,ER,ER,73.7,16.3,SWAT-GFP
+YNL158W,PGA1,nuclear periphery,"ambigous,ER",0,nuclear periphery,26.1,N/D,SWAT-SP-GFP
+YNL159C,ASI2,"ER,punctate","ER,punctate","ER,punctate",below threshold,27.6,11.6,SWAT-GFP
+YNL160W,YGP1,"ambigous,ER",cytosol,cell periphery,below threshold,51.7,29.1,SWAT-SP-GFP
+YNL163C,RIA1,cytosol,cytosol,cytosol,cytosol,83.4,22.5,SWAT-GFP
+YNL176C,TDA7,"ambigous,ER",vacuole,below threshold,vacuole,37.0,11.0,SWAT-GFP
+YNL180C,RHO5,cell periphery,0,0,"nucleus,cytosol",N/D,N/D,SWAT-GFP
+YNL181W,YNL181W,"ER,punctate","ER,punctate","ER,punctate",ER,102.3,28.4,SWAT-GFP
+YNL183C,NPR1,cytosol,cytosol,cytosol,cytosol,44.5,15.1,SWAT-GFP
+YNL188W,KAR1,ER,ER,ER,0,98.3,114.2,SWAT-GFP
+YNL190W,YNL190W,ambigous,"cell periphery,vacuole","cytosol,punctate,nucleus","ER,cell periphery",25.0,98.7,SWAT-SP-GFP
+YNL192W,CHS1,"cell periphery,punctate","cell periphery,vacuole",0,below threshold,N/D,N/D,SWAT-GFP
+YNL194C,YNL194C,cell periphery,cell periphery,"cell periphery,punctate",cell periphery,49.9,12.3,SWAT-GFP
+YNL202W,SPS19,punctate,punctate,punctate,0,138.1,9.8,SWAT-GFP
+YNL214W,PEX17,punctate,punctate,below threshold,punctate,32.4,14.9,SWAT-GFP
+YNL217W,YNL217W,vacuole membrane,vacuole membrane,punctate,vacuole,47.6,11.2,SWAT-GFP
+YNL219C,ALG9,ER,ER,ER,ER,52.3,24.5,SWAT-SP-GFP
+YNL223W,ATG4,cytosol,0,0,"nucleus,cytosol",N/D,N/D,SWAT-GFP
+YNL227C,JJJ1,cytosol,cytosol,cytosol,cytosol,61.6,15.4,SWAT-GFP
+YNL231C,PDR16,cytosol,cytosol,cytosol,punctate,79.2,51.2,SWAT-GFP
+YNL234W,YNL234W,vacuole membrane,vacuole membrane,ambigous,cytosol,36.2,12.2,SWAT-GFP
+YNL237W,YTP1,punctate,"vacuole,punctate",below threshold,0,72.9,12.9,SWAT-SP-GFP
+YNL238W,KEX2,vacuole,vacuole,"ambigous,punctate","punctate,punctate",23.9,14.8,SWAT-SP-GFP
+YNL242W,ATG2,cytosol,cytosol,cytosol,ambiguous,42.5,13.7,SWAT-GFP
+YNL243W,SLA2,"punctate,bud neck","punctate,bud neck","punctate,bud neck",punctate,98.3,19.2,SWAT-GFP
+YNL257C,SIP3,ER,ER,ambigous,cytosol,28.2,11.7,SWAT-GFP
+YNL258C,DSL1,cytosol,cytosol,ER,ER,48.3,15.6,SWAT-GFP
+YNL263C,YIF1,punctate,vacuole,punctate,0,80.7,27.1,SWAT-GFP
+YNL264C,PDR17,cytosol,cytosol,cytosol,cytosol,136.4,22.6,SWAT-GFP
+YNL268W,LYP1,"cell periphery,ER",0,0,"cell periphery,vacuole",N/D,N/D,SWAT-GFP
+YNL270C,ALP1,ER,ER,below threshold,0,49.6,N/D,SWAT-GFP
+YNL272C,SEC2,bud neck,bud neck,bud neck,"ambiguous,neck,bud,cytosol,bud neck",45.8,15.6,SWAT-GFP
+YNL275W,BOR1,"cell periphery,ER",cell periphery,below threshold,ambiguous,34.4,11.2,SWAT-GFP
+YNL279W,PRM1,"vacuole,bud neck",vacuole,vacuole,vacuole,34.1,8.8,SWAT-GFP
+YNL280C,ERG24,ER,ER,ER,ER,81.8,19.7,SWAT-GFP
+YNL283C,WSC2,vacuole,vacuole,below threshold,cell periphery,22.0,12.6,SWAT-SP-GFP
+YNL287W,SEC21,punctate,punctate,punctate,"punctate,punctate",149.7,53.1,SWAT-GFP
+YNL291C,MID1,ER,vacuole,below threshold,below threshold,48.1,13.4,SWAT-SP-GFP
+YNL293W,MSB3,"cell periphery,bud neck","cell periphery,bud neck",below threshold,ambiguous,33.0,10.0,SWAT-GFP
+YNL294C,RIM21,ER,ER,below threshold,below threshold,29.2,10.4,SWAT-GFP
+YNL297C,MON2,"cytosol,punctate",0,0,"punctate,punctate",N/D,N/D,SWAT-GFP
+YNL300W,TOS6,"cell periphery,vacuole",cytosol,cytosol,ER,35.6,52.2,SWAT-SP-GFP
+YNL304W,YPT11,"ER,bud neck",ambigous,below threshold,cytosol,0.0,9.8,SWAT-GFP
+YNL305C,BXI1,vacuole membrane,vacuole,vacuole,vacuole,51.4,15.4,SWAT-GFP
+YNL318C,HXT14,"cell periphery,vacuole","cell periphery,vacuole",below threshold,0,49.7,9.1,SWAT-GFP
+YNL320W,YNL320W,"ER,vacuole",vacuole,mitochondria,below threshold,66.9,15.7,SWAT-SP-GFP
+YNL321W,VNX1,vacuole membrane,vacuole membrane,vacuole membrane,below threshold,56.7,12.2,SWAT-GFP
+YNL322C,KRE1,vacuole,vacuole,vacuole,ER,28.3,25.2,SWAT-SP-GFP
+YNL323W,LEM3,ER,vacuole,"ER,bud neck",ER,71.2,15.3,SWAT-GFP
+YNL326C,PFA3,vacuole,vacuole,vacuole,vacuole,39.0,11.6,SWAT-GFP
+YNL327W,EGT2,"ambigous,vacuole",vacuole,vacuole,ER,21.6,31.9,SWAT-SP-GFP
+YNL329C,PEX6,punctate,punctate,punctate,punctate,38.1,14.9,SWAT-GFP
+YNL336W,COS1,vacuole,vacuole,below threshold,vacuole,29.6,8.7,SWAT-GFP
+YNR002C,ATO2,vacuole,vacuole,"vacuole,punctate",below threshold,19.8,10.8,SWAT-GFP
+YNR006W,VPS27,"cytosol,punctate",0,0,punctate,N/D,N/D,SWAT-GFP
+YNR007C,ATG3,cytosol,cytosol,cytosol,cytosol,60.2,13.8,SWAT-GFP
+YNR008W,LRO1,ER,ER,below threshold,below threshold,48.1,15.7,SWAT-GFP
+YNR013C,PHO91,vacuole membrane,0,0,ER,N/D,N/D,SWAT-GFP
+YNR016C,ACC1,"cytosol,punctate","cytosol,punctate","cytosol,punctate","cytosol,punctate",179.7,75.1,SWAT-GFP
+YNR019W,ARE2,ER,ER,ER,ER,91.4,25.5,SWAT-GFP
+YNR021W,YNR021W,ER,ER,ER,ER,86.9,42.0,SWAT-GFP
+YNR026C,SEC12,ER,ER,ER,ER,63.3,18.7,SWAT-GFP
+YNR028W,CPR8,"vacuole membrane,punctate",vacuole,punctate,vacuole,96.6,55.7,SWAT-SP-GFP
+YNR030W,ALG12,ER,ER,ER,ER,90.2,14.9,SWAT-GFP
+YNR035C,ARC35,punctate,punctate,punctate,punctate,145.8,12.1,SWAT-GFP
+YNR039C,ZRG17,ER,ER,ER,ER,34.0,15.2,SWAT-GFP
+YNR044W,AGA1,cell periphery,"cell periphery,vacuole",below threshold,"ER,ambiguous",35.5,13.0,SWAT-SP-GFP
+YNR048W,YNR048W,ER,ER,ER,cytosol,38.6,14.6,SWAT-GFP
+YNR049C,MSO1,"cytosol,bud neck","cytosol,bud neck",bud neck,"ambiguous,neck,bud,cytosol,bud neck",58.3,14.0,SWAT-GFP
+YNR050C,LYS9,"cell periphery,ER","cell periphery,vacuole",below threshold,cytosol,57.1,11.6,SWAT-SP-GFP
+YNR051C,BRE5,cytosol,cytosol,cytosol,cytosol,76.4,31.0,SWAT-GFP
+YNR053C,NOG2,nucleus,nucleus,nucleus,nucleus,48.7,35.3,SWAT-GFP
+YNR055C,HOL1,"cell periphery,vacuole","cell periphery,vacuole",cell periphery,cell periphery,87.5,10.5,SWAT-GFP
+YNR056C,BIO5,ER,"ER,vacuole",below threshold,0,31.1,9.1,SWAT-GFP
+YNR059W,MNT4,ER,vacuole,below threshold,below threshold,73.3,11.1,SWAT-SP-GFP
+YNR060W,FRE4,ER,vacuole,below threshold,below threshold,29.1,11.5,SWAT-SP-GFP
+YNR061C,YNR061C,vacuole,0,0,vacuole,N/D,N/D,SWAT-GFP
+YNR062C,YNR062C,ER,ER,below threshold,below threshold,51.4,10.6,SWAT-GFP
+YNR065C,YNR065C,ER,ER,below threshold,below threshold,52.0,8.9,SWAT-GFP
+YNR066C,YNR066C,"ER,vacuole",vacuole,below threshold,below threshold,66.1,11.1,SWAT-SP-GFP
+YNR067C,DSE4,"bud neck,punctate",vacuole,"bud neck,punctate",vacuole,23.0,13.8,SWAT-SP-GFP
+YNR070W,PDR18,cytosol,below threshold,cytosol,below threshold,24.5,9.3,SWAT-GFP
+YNR072W,HXT17,"cell periphery,vacuole","cell periphery,vacuole",below threshold,below threshold,39.0,9.9,SWAT-GFP
+YNR075W,COS10,vacuole membrane,vacuole,below threshold,ER,34.3,9.1,SWAT-GFP
+YNR076W,PAU6,"ER,vacuole",vacuole,below threshold,below threshold,42.7,11.7,SWAT-SP-GFP
+YOL002C,IZH2,vacuole membrane,vacuole,"ER,vacuole",below threshold,65.5,14.9,SWAT-GFP
+YOL003C,PFA4,ER,ER,below threshold,below threshold,43.7,13.0,SWAT-GFP
+YOL007C,CSI2,vacuole,vacuole,vacuole,vacuole,33.1,15.2,SWAT-SP-GFP
+YOL009C,MDM12,"cytosol,punctate",0,0,mitochondria,N/D,N/D,SWAT-GFP
+YOL011W,PLB3,vacuole,vacuole,"below threshold,vacuole",vacuole,18.1,12.8,SWAT-SP-GFP
+YOL014W,YOL014W,"cytosol,nucleus",ambigous,below threshold,0,112.0,12.2,SWAT-GFP
+YOL018C,TLG2,punctate,"vacuole,punctate",punctate,0,49.6,13.1,SWAT-GFP
+YOL019W,YOL019W,"cell periphery,punctate","cell periphery,vacuole","cell periphery,punctate","cell periphery,vacuole",37.9,14.3,SWAT-GFP
+YOL020W,TAT2,ER,ER,ER,"cell periphery,vacuole",35.9,19.8,SWAT-GFP
+YOL023W,IFM1,"cell periphery,nucleus","cell periphery,nucleus",0,mitochondria,25.8,N/D,SWAT-GFP
+YOL026C,MIM1,mitochondria,0,0,0,N/D,N/D,SWAT-GFP
+YOL030W,GAS5,ER,ER,ER,"ER,nucleus",55.1,17.2,SWAT-SP-GFP
+YOL031C,SIL1,ER,ER,ambigous,cytosol,127.5,22.5,SWAT-SP-GFP
+YOL044W,PEX15,punctate,punctate,punctate,punctate,39.7,15.7,SWAT-GFP
+YOL047C,LDS2,punctate,punctate,"below threshold,punctate",punctate,27.2,9.7,SWAT-GFP
+YOL048C,RRT8,punctate,punctate,punctate,punctate,44.0,14.3,SWAT-GFP
+YOL052C-A,DDR2,vacuole,"cell periphery,vacuole","ambigous,vacuole","vacuole,cytosol",37.0,16.2,SWAT-SP-GFP
+YOL053W,AIM39,"cytosol,punctate","cytosol,punctate",below threshold,below threshold,27.5,8.6,SWAT-GFP
+YOL060C,MAM3,ER,ER,below threshold,vacuole membrane,31.0,11.2,SWAT-GFP
+YOL062C,APM4,cytosol,cytosol,bud neck,"bud neck,cell periphery",63.5,11.2,SWAT-GFP
+YOL065C,INP54,vacuole membrane,vacuole membrane,below threshold,cytosol,56.3,9.1,SWAT-GFP
+YOL073C,DSC2,ER,ER,below threshold,below threshold,44.8,9.9,SWAT-GFP
+YOL075C,YOL075C,"cell periphery,ER","cell periphery,vacuole",below threshold,below threshold,24.7,9.1,SWAT-GFP
+YOL078W,AVO1,cytosol,0,0,below threshold,N/D,N/D,SWAT-GFP
+YOL081W,IRA2,cytosol,"cytosol,punctate",cytosol,cytosol,26.5,9.9,SWAT-GFP
+YOL082W,ATG19,"cytosol,punctate","cytosol,punctate",punctate,punctate,90.6,11.1,SWAT-GFP
+YOL083W,ATG34,"cytosol,punctate","cytosol,punctate",below threshold,punctate,106.2,10.1,SWAT-GFP
+YOL084W,PHM7,ER,ER,vacuole,"cell periphery,vacuole",60.3,14.3,SWAT-GFP
+YOL088C,MPD2,ER,ER,ER,vacuole,127.8,34.2,SWAT-SP-GFP
+YOL092W,YPQ1,ER,ER,cell periphery,vacuole membrane,44.7,11.6,SWAT-GFP
+YOL100W,PKH2,punctate,punctate,below threshold,cytosol,33.4,10.3,SWAT-GFP
+YOL101C,IZH4,"punctate,vacuole",vacuole,below threshold,ER,27.6,11.6,SWAT-GFP
+YOL103W,ITR2,"cell periphery,vacuole","cell periphery,vacuole",ambigous,ambiguous,55.2,12.0,SWAT-GFP
+YOL105C,WSC3,vacuole,vacuole,below threshold,cell periphery,18.0,11.8,SWAT-SP-GFP
+YOL107W,YOL107W,punctate,punctate,punctate,"punctate,punctate",50.6,17.3,SWAT-GFP
+YOL110W,SHR5,ER,"ER,punctate",below threshold,below threshold,33.6,9.8,SWAT-GFP
+YOL119C,MCH4,cell periphery,"cell periphery,vacuole",below threshold,below threshold,54.0,N/D,SWAT-GFP
+YOL122C,SMF1,vacuole,vacuole,below threshold,below threshold,36.1,9.0,SWAT-GFP
+YOL126C,MDH2,punctate,punctate,punctate,punctate,86.6,9.2,SWAT-GFP
+YOL130W,ALR1,cell periphery,cell periphery,"below threshold,cell periphery",ambiguous,77.4,10.3,SWAT-GFP
+YOL132W,GAS4,vacuole,vacuole,below threshold,0,95.2,11.9,SWAT-SP-GFP
+YOL137W,BSC6,punctate,punctate,punctate,0,44.6,13.7,SWAT-GFP
+YOL138C,RTC1,"cytosol,punctate",cytosol,below threshold,vacuole,32.2,13.4,SWAT-GFP
+YOL147C,PEX11,punctate,punctate,punctate,punctate,116.9,27.3,SWAT-GFP
+YOL152W,FRE7,ER,cytosol,below threshold,below threshold,19.5,9.4,SWAT-GFP
+YOL154W,ZPS1,"cell periphery,ER","cell periphery,vacuole",ambigous,vacuole,77.0,18.1,SWAT-SP-GFP
+YOL155C,HPF1,cell periphery,"cell periphery,vacuole","below threshold,cell periphery",0,38.8,22.0,SWAT-SP-GFP
+YOL156W,HXT11,cell periphery,"cell periphery,vacuole",below threshold,0,89.0,N/D,SWAT-GFP
+YOL158C,ENB1,"cell periphery,vacuole","cell periphery,vacuole",below threshold,below threshold,65.3,8.5,SWAT-GFP
+YOL159C,YOL159C,"cell periphery,ER","cell periphery,vacuole",below threshold,below threshold,55.8,11.7,SWAT-SP-GFP
+YOL161C,PAU20,"punctate,vacuole",vacuole,ambigous,below threshold,55.0,14.5,SWAT-SP-GFP
+YOL162W,YOL162W,ER,ER,below threshold,below threshold,18.0,8.7,SWAT-GFP
+YOL163W,YOL163W,below threshold,below threshold,below threshold,below threshold,14.3,8.9,SWAT-GFP
+YOL164W-A,YOL164W-A,below threshold,below threshold,below threshold,0,13.0,12.5,SWAT-GFP
+YOR002W,ALG6,ER,ER,punctate,ER,78.0,11.8,SWAT-GFP
+YOR003W,YSP3,ER,ER,below threshold,below threshold,80.3,13.6,SWAT-SP-GFP
+YOR008C,SLG1,"ER,vacuole",vacuole,"ambigous,ER","ambiguous,neck,vacuole,bud,cytosol,bud neck",60.4,13.0,SWAT-SP-GFP
+YOR008C-A,YOR008C-A,ER,vacuole,below threshold,below threshold,27.1,11.4,SWAT-SP-GFP
+YOR009W,TIR4,"cell periphery,vacuole","cell periphery,vacuole","ambigous,vacuole",0,71.3,15.1,SWAT-SP-GFP
+YOR010C,TIR2,"cell periphery,vacuole","cell periphery,vacuole",below threshold,0,80.4,12.7,SWAT-SP-GFP
+YOR011W,AUS1,cell periphery,"cell periphery,vacuole",below threshold,below threshold,63.8,8.7,SWAT-GFP
+YOR016C,ERP4,"ER,punctate","ER,punctate,vacuole",punctate,ER,154.9,33.1,SWAT-SP-GFP
+YOR018W,ROD1,cytosol,cytosol,cytosol,cytosol,34.3,10.7,SWAT-GFP
+YOR030W,DFG16,below threshold,punctate,below threshold,below threshold,14.9,9.2,SWAT-GFP
+YOR032W-A,YOR032W-A,ER,below threshold,ER,0,15.6,9.0,SWAT-GFP
+YOR034C,AKR2,"punctate,vacuole",vacuole,"punctate,vacuole",cytosol,30.6,12.5,SWAT-GFP
+YOR034C-A,YOR034C-A,punctate,punctate,punctate,0,22.0,8.8,SWAT-GFP
+YOR036W,PEP12,"punctate,vacuole membrane",vacuole membrane,"punctate,vacuole",0,56.7,15.0,SWAT-GFP
+YOR043W,WHI2,cell periphery,cell periphery,cell periphery,cell periphery,38.5,21.2,SWAT-GFP
+YOR044W,IRC23,"below threshold,punctate",punctate,below threshold,ER,14.8,11.2,SWAT-GFP
+YOR045W,TOM6,mitochondria,0,0,mitochondria,N/D,N/D,SWAT-GFP
+YOR049C,RSB1,vacuole,vacuole,below threshold,cytosol,24.6,9.5,SWAT-GFP
+YOR059C,LPL1,"ER,punctate","ER,punctate","below threshold,punctate",ambiguous,36.9,15.1,SWAT-GFP
+YOR060C,SLD7,nucleus,nucleus,"nucleus,punctate","nucleus,punctate",18.9,10.3,SWAT-GFP
+YOR067C,ALG8,ER,ER,ER,below threshold,76.6,N/D,SWAT-GFP
+YOR068C,VAM10,nucleus,below threshold,below threshold,below threshold,32.1,12.3,SWAT-GFP
+YOR070C,GYP1,punctate,punctate,punctate,"cytosol,punctate",39.0,12.9,SWAT-GFP
+YOR075W,UFE1,ER,vacuole,"ER,punctate",ambiguous,27.6,14.3,SWAT-GFP
+YOR076C,SKI7,cytosol,cytosol,below threshold,ambiguous,44.3,10.7,SWAT-GFP
+YOR079C,ATX2,ER,ER,ER,below threshold,41.2,13.6,SWAT-GFP
+YOR081C,TGL5,punctate,punctate,punctate,punctate,43.7,16.5,SWAT-GFP
+YOR084W,LPX1,punctate,punctate,below threshold,ambiguous,91.5,9.0,SWAT-GFP
+YOR085W,OST3,ER,ER,ER,ambiguous,117.5,27.8,SWAT-SP-GFP
+YOR086C,TCB1,"cell periphery,ER","cell periphery,ER",cell periphery,cell periphery,102.1,25.2,SWAT-GFP
+YOR087W,YVC1,vacuole membrane,vacuole membrane,vacuole membrane,"ER,cytosol",109.2,16.1,SWAT-GFP
+YOR089C,VPS21,punctate,0,0,"nucleus,cytosol",N/D,N/D,SWAT-GFP
+YOR092W,ECM3,ER,ER,below threshold,ER,22.5,10.7,SWAT-GFP
+YOR093C,YOR093C,"cytosol,bud neck","cytosol,bud neck",below threshold,below threshold,29.2,12.4,SWAT-GFP
+YOR094W,ARF3,cytosol,cytosol,"cytosol,cell periphery",cell periphery,86.7,23.8,SWAT-GFP
+YOR099W,KTR1,"cell periphery,vacuole,vacuole membrane","vacuole,vacuole membrane","vacuole,vacuole membrane",vacuole,118.8,24.1,SWAT-GFP
+YOR101W,RAS1,cell periphery,cell periphery,cell periphery,"nucleus,cytosol",81.3,25.9,SWAT-GFP
+YOR103C,OST2,ER,ER,ER,0,108.6,34.1,SWAT-GFP
+YOR104W,PIN2,vacuole membrane,vacuole,"ambigous,vacuole membrane",cell periphery,33.0,13.0,SWAT-GFP
+YOR106W,VAM3,vacuole membrane,vacuole membrane,vacuole membrane,0,61.6,17.0,SWAT-GFP
+YOR115C,TRS33,"cytosol,punctate","cytosol,punctate",punctate,punctate,66.2,15.8,SWAT-GFP
+YOR133W,EFT1,cytosol,cytosol,cytosol,0,378.9,160.8,SWAT-GFP
+YOR149C,SMP3,ER,ER,ER,below threshold,43.8,10.2,SWAT-GFP
+YOR152C,ATG40,ER,vacuole,below threshold,cytosol,30.9,11.9,SWAT-SP-GFP
+YOR153W,PDR5,cell periphery,cell periphery,cell periphery,cell periphery,84.6,24.1,SWAT-GFP
+YOR154W,SLP1,"cell periphery,punctate","cell periphery,punctate",ambigous,cytosol,65.2,14.0,SWAT-SP-GFP
+YOR157C,PUP1,"cytosol,nucleus","cytosol,nucleus","cytosol,nucleus","nucleus,cytosol",101.5,61.7,SWAT-GFP
+YOR161C,PNS1,cell periphery,cell periphery,cell periphery,cell periphery,71.0,11.3,SWAT-GFP
+YOR161C-C,YOR161C-C,below threshold,below threshold,below threshold,0,15.1,9.1,SWAT-GFP
+YOR165W,SEY1,"cell periphery,ER,bud","cell periphery,ER,bud","cell periphery,ER,punctate",0,102.1,23.4,SWAT-GFP
+YOR171C,LCB4,cell periphery,cell periphery,ER,cytosol,70.7,20.9,SWAT-GFP
+YOR175C,ALE1,ER,ER,below threshold,ER,37.5,9.8,SWAT-GFP
+YOR178C,GAC1,cytosol,below threshold,below threshold,below threshold,27.1,9.1,SWAT-GFP
+YOR180C,DCI1,punctate,punctate,punctate,0,80.6,10.2,SWAT-GFP
+YOR183W,FYV12,below threshold,below threshold,below threshold,below threshold,14.1,12.0,SWAT-GFP
+YOR185C,GSP2,nucleus,nucleus,"cytosol,nucleus","nucleus,cytosol",303.0,20.4,SWAT-GFP
+YOR186W,YOR186W,ambigous,vacuole,below threshold,below threshold,31.0,10.3,SWAT-GFP
+YOR187W,TUF1,"ambigous,punctate",0,0,mitochondria,N/D,N/D,SWAT-GFP
+YOR190W,SPR1,vacuole,vacuole,below threshold,below threshold,57.6,11.4,SWAT-SP-GFP
+YOR192C,THI72,"cell periphery,vacuole","cell periphery,vacuole",below threshold,below threshold,60.4,8.6,SWAT-GFP
+YOR193W,PEX27,punctate,punctate,punctate,punctate,23.9,12.5,SWAT-GFP
+YOR211C,MGM1,punctate,0,below threshold,0,0.0,0.0,SWAT-GFP
+YOR214C,SPR2,vacuole,vacuole,below threshold,ER,39.5,12.3,SWAT-SP-GFP
+YOR216C,RUD3,punctate,punctate,punctate,"punctate,punctate",72.2,20.8,SWAT-GFP
+YOR219C,STE13,punctate,punctate,punctate,below threshold,47.2,11.4,SWAT-GFP
+YOR223W,DSC3,ER,0,0,below threshold,N/D,N/D,SWAT-GFP
+YOR228C,MCP1,mitochondria,0,0,mitochondria,N/D,N/D,SWAT-GFP
+YOR237W,HES1,"punctate,vacuole membrane,bud neck","punctate,vacuole membrane,bud neck",below threshold,below threshold,60.7,8.6,SWAT-GFP
+YOR241W,MET7,ER,ER,below threshold,cytosol,44.7,12.3,SWAT-GFP
+YOR242C,SSP2,nucleus,nucleus,below threshold,below threshold,27.2,11.9,SWAT-GFP
+YOR245C,DGA1,"ER,punctate","ER,punctate",ambigous,"ER,cytosol",59.4,16.4,SWAT-GFP
+YOR246C,ENV9,punctate,0,0,punctate,N/D,N/D,SWAT-GFP
+YOR247W,SRL1,cell periphery,"cell periphery,vacuole",cell periphery,"vacuole,cytosol",65.6,23.9,SWAT-SP-GFP
+YOR254C,SEC63,ER,ER,ER,ER,54.8,36.8,SWAT-GFP
+YOR260W,GCD1,cytosol,cytosol,cytosol,cytosol,81.0,18.2,SWAT-GFP
+YOR268C,YOR268C,nucleus,below threshold,below threshold,below threshold,32.8,10.7,SWAT-GFP
+YOR270C,VPH1,vacuole membrane,0,0,vacuole membrane,N/D,N/D,SWAT-GFP
+YOR271C,FSF1,mitochondria,mitochondria,mitochondria,mitochondria,159.4,37.8,SWAT-GFP
+YOR273C,TPO4,cell periphery,"cell periphery,vacuole",cell periphery,"cell periphery,bud",32.2,12.9,SWAT-GFP
+YOR288C,MPD1,ER,vacuole,ER,vacuole,86.9,22.3,SWAT-SP-GFP
+YOR291W,YPK9,vacuole membrane,0,0,ER,N/D,N/D,SWAT-GFP
+YOR292C,YOR292C,punctate,"vacuole,punctate",punctate,vacuole,42.1,12.0,SWAT-GFP
+YOR298W,MUM3,punctate,punctate,punctate,0,57.0,11.7,SWAT-GFP
+YOR299W,BUD7,punctate,0,0,punctate,N/D,N/D,SWAT-GFP
+YOR301W,RAX1,vacuole,vacuole,bud neck,below threshold,27.7,12.2,SWAT-GFP
+YOR307C,SLY41,punctate,punctate,punctate,ER,47.0,14.7,SWAT-GFP
+YOR311C,DGK1,ER,ER,ER,ER,72.4,24.2,SWAT-GFP
+YOR316C,COT1,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,66.5,15.8,SWAT-GFP
+YOR317W,FAA1,ER,ER,ER,ER,133.3,60.8,SWAT-GFP
+YOR321W,PMT3,"ER,punctate",vacuole,ER,ER,73.3,12.8,SWAT-GFP
+YOR322C,LDB19,"cytosol,punctate","cytosol,punctate","cytosol,punctate",0,41.2,18.1,SWAT-GFP
+YOR324C,FRT1,ER,ER,ambigous,ambiguous,19.1,11.0,SWAT-GFP
+YOR326W,MYO2,"punctate,bud",0,0,"ambiguous,neck,cell periphery,bud,cytosol,bud neck",N/D,N/D,SWAT-GFP
+YOR327C,SNC2,"cell periphery,punctate,bud","cell periphery,vacuole","cell periphery,punctate,bud",vacuole,109.3,29.5,SWAT-GFP
+YOR328W,PDR10,"cell periphery,vacuole","cell periphery,vacuole",below threshold,below threshold,48.5,9.4,SWAT-GFP
+YOR329C,SCD5,bud neck,bud,below threshold,cytosol,45.0,11.8,SWAT-GFP
+YOR332W,VMA4,vacuole membrane,vacuole membrane,below threshold,vacuole membrane,295.5,0.0,SWAT-GFP
+YOR336W,KRE5,ER,ER,cell periphery,vacuole,88.8,17.3,SWAT-SP-GFP
+YOR348C,PUT4,ER,vacuole,cell periphery,below threshold,28.2,9.2,SWAT-GFP
+YOR357C,SNX3,vacuole membrane,vacuole membrane,"vacuole membrane,punctate",vacuole membrane,87.6,21.3,SWAT-GFP
+YOR365C,YOR365C,ER,vacuole,below threshold,below threshold,51.8,11.8,SWAT-SP-GFP
+YOR370C,MRS6,"cytosol,nucleus","cytosol,nucleus","cytosol,nucleus","nucleus,cytosol",47.1,25.1,SWAT-GFP
+YOR377W,ATF1,ER,ER,below threshold,ER,64.8,14.8,SWAT-GFP
+YOR378W,AMF1,cell periphery,"cell periphery,vacuole",below threshold,below threshold,39.1,N/D,SWAT-GFP
+YOR381W,FRE3,vacuole,vacuole,below threshold,below threshold,25.1,12.1,SWAT-SP-GFP
+YOR382W,FIT2,"cell periphery,vacuole","cell periphery,vacuole",ER,0,55.0,23.3,SWAT-SP-GFP
+YOR383C,FIT3,"cell periphery,vacuole","cell periphery,vacuole",cytosol,0,65.0,25.0,SWAT-SP-GFP
+YOR384W,FRE5,punctate,punctate,below threshold,below threshold,28.2,12.1,SWAT-SP-GFP
+YOR387C,YOR387C,ER,vacuole,below threshold,below threshold,191.8,11.6,SWAT-SP-GFP
+YOR390W,FEX1,cell periphery,cell periphery,below threshold,below threshold,47.1,10.1,SWAT-GFP
+YOR394W,PAU21,cytosol,cytosol,"cytosol,punctate",below threshold,80.1,22.0,SWAT-GFP
+YPL004C,LSP1,"cell periphery,punctate","cell periphery,punctate","cell periphery,punctate",punctate,170.3,84.7,SWAT-GFP
+YPL006W,NCR1,ER,"ER,vacuole","ambigous,ER",vacuole membrane,83.6,16.3,SWAT-SP-GFP
+YPL010W,RET3,punctate,0,0,punctate,N/D,N/D,SWAT-GFP
+YPL019C,VTC3,vacuole membrane,vacuole membrane,vacuole membrane,vacuole,118.6,17.8,SWAT-GFP
+YPL032C,SVL3,"cell periphery,bud","cell periphery,bud","cell periphery,bud neck","ambiguous,neck,cell periphery,bud,cytosol,bud neck",69.9,14.9,SWAT-GFP
+YPL036W,PMA2,cell periphery,cell periphery,cell periphery,below threshold,126.5,11.6,SWAT-GFP
+YPL041C,MRX11,"punctate,mitochondria","punctate,mitochondria",below threshold,below threshold,26.3,10.4,SWAT-GFP
+YPL045W,VPS16,punctate,punctate,punctate,vacuole membrane,51.1,15.3,SWAT-GFP
+YPL050C,MNN9,"ER,punctate","ER,punctate",punctate,punctate,63.6,31.5,SWAT-GFP
+YPL051W,ARL3,cytosol,cytosol,cytosol,punctate,82.9,15.7,SWAT-GFP
+YPL053C,KTR6,"ER,vacuole",vacuole,vacuole,vacuole,65.3,21.3,SWAT-GFP
+YPL057C,SUR1,vacuole,vacuole,vacuole,vacuole,19.0,11.3,SWAT-GFP
+YPL058C,PDR12,cell periphery,cell periphery,cell periphery,cell periphery,71.5,12.9,SWAT-GFP
+YPL065W,VPS28,cytosol,"cytosol,punctate","below threshold,punctate",punctate,60.2,14.8,SWAT-GFP
+YPL070W,MUK1,cytosol,cytosol,"cytosol,punctate",cytosol,52.0,17.3,SWAT-GFP
+YPL076W,GPI2,ER,ER,ER,ER,22.2,10.7,SWAT-GFP
+YPL084W,BRO1,cytosol,cytosol,"ambigous,punctate","cytosol,punctate",89.4,10.2,SWAT-GFP
+YPL085W,SEC16,punctate,0,punctate,ER to punctate,96.3,19.1,SWAT-GFP
+YPL087W,YDC1,nucleus,ER,below threshold,vacuole,32.5,10.6,SWAT-GFP
+YPL092W,SSU1,"cell periphery,ER","cell periphery,ER",below threshold,below threshold,21.4,10.5,SWAT-GFP
+YPL094C,SEC62,ER,ER,ER,ER,93.0,31.8,SWAT-GFP
+YPL096C-A,ERI1,ER,ER,ambigous,0,59.6,10.1,SWAT-GFP
+YPL098C,MGR2,mitochondria,mitochondria,mitochondria,0,89.2,14.0,SWAT-GFP
+YPL099C,INA17,"punctate,mitochondria","punctate,mitochondria","punctate,mitochondria",below threshold,27.7,9.3,SWAT-GFP
+YPL100W,ATG21,"vacuole membrane,punctate","vacuole membrane,punctate","vacuole membrane,punctate","ambiguous,punctate",61.2,17.4,SWAT-GFP
+YPL112C,PEX25,punctate,"punctate,mitochondria",punctate,punctate,55.7,25.6,SWAT-GFP
+YPL117C,IDI1,cytosol,cytosol,cytosol,"nucleus,cytosol",141.7,80.5,SWAT-GFP
+YPL119C-A,YPL119C-A,below threshold,below threshold,below threshold,0,9.1,8.5,SWAT-GFP
+YPL120W,VPS30,cytosol,cytosol,punctate,vacuole,41.6,13.2,SWAT-GFP
+YPL123C,RNY1,"cytosol,punctate",cytosol,below threshold,below threshold,37.9,11.7,SWAT-GFP
+YPL130W,SPO19,"punctate,bud neck","punctate,vacuole",below threshold,0,54.7,12.7,SWAT-SP-GFP
+YPL137C,GIP3,cytosol,0,0,"ER,cytosol",N/D,N/D,SWAT-GFP
+YPL140C,MKK2,cytosol,"cytosol,punctate",below threshold,cytosol,52.5,10.8,SWAT-GFP
+YPL145C,KES1,cytosol,cytosol,cytosol,cytosol,164.6,80.7,SWAT-GFP
+YPL147W,PXA1,punctate,punctate,below threshold,below threshold,15.4,12.1,SWAT-GFP
+YPL149W,ATG5,"cytosol,nucleus","cytosol,nucleus",below threshold,cytosol,47.1,8.9,SWAT-GFP
+YPL154C,PEP4,ER,vacuole,"ER,vacuole",vacuole,166.6,55.5,SWAT-SP-GFP
+YPL156C,PRM4,vacuole,vacuole,vacuole,punctate,26.6,11.0,SWAT-GFP
+YPL162C,YPL162C,nucleus,below threshold,below threshold,vacuole membrane,18.6,10.5,SWAT-GFP
+YPL163C,SVS1,cell periphery,cytosol,cell periphery,vacuole,35.2,20.4,SWAT-SP-GFP
+YPL166W,ATG29,"cytosol,punctate","cytosol,punctate",below threshold,"nucleus,cytosol,punctate",56.9,13.1,SWAT-GFP
+YPL175W,SPT14,cytosol,cytosol,cytosol,ambiguous,47.2,19.0,SWAT-GFP
+YPL176C,TRE1,"punctate,vacuole",vacuole,punctate,below threshold,28.9,10.3,SWAT-GFP
+YPL180W,TCO89,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,44.5,14.0,SWAT-GFP
+YPL186C,UIP4,ER,ER,punctate,below threshold,71.5,10.7,SWAT-GFP
+YPL189W,GUP2,ER,ER,below threshold,below threshold,40.0,12.2,SWAT-SP-GFP
+YPL191C,YPL191C,"cell periphery,ER","cell periphery,ER,punctate",below threshold,cytosol,60.5,14.0,SWAT-GFP
+YPL192C,PRM3,nuclear periphery,nuclear periphery,below threshold,ER,104.0,8.8,SWAT-GFP
+YPL195W,APL5,punctate,punctate,punctate,punctate,46.1,18.9,SWAT-GFP
+YPL199C,YPL199C,cell periphery,cell periphery,below threshold,cytosol,93.4,20.2,SWAT-GFP
+YPL200W,CSM4,ambigous,vacuole,punctate,0,14.0,9.5,SWAT-GFP
+YPL204W,HRR25,"cytosol,bud neck","cytosol,bud neck","cytosol,bud neck","ambiguous,neck,nucleus,bud,cytosol,bud neck",55.3,40.3,SWAT-GFP
+YPL206C,PGC1,punctate,punctate,punctate,punctate,78.6,15.0,SWAT-GFP
+YPL217C,BMS1,nucleus,0,0,below threshold,58.0,N/D,SWAT-GFP
+YPL221W,FLC1,ER,vacuole,below threshold,"bud neck,cell periphery,vacuole",34.2,12.2,SWAT-SP-GFP
+YPL227C,ALG5,punctate,punctate,punctate,ER,53.9,17.7,SWAT-GFP
+YPL231W,FAS2,cytosol,cytosol,cytosol,cytosol,258.4,300.9,SWAT-GFP
+YPL232W,SSO1,cell periphery,cell periphery,cell periphery,punctate,132.5,46.7,SWAT-GFP
+YPL234C,VMA11,"cell periphery,vacuole membrane","cell periphery,vacuole membrane",cytosol,0,41.4,10.6,SWAT-GFP
+YPL236C,ENV7,"punctate,vacuole membrane","punctate,vacuole membrane","punctate,vacuole membrane",vacuole membrane,39.6,14.5,SWAT-GFP
+YPL244C,HUT1,ER,ER,ER,below threshold,65.0,12.2,SWAT-GFP
+YPL246C,RBD2,punctate,punctate,punctate,"punctate,punctate",106.3,15.6,SWAT-GFP
+YPL249C,GYP5,"cytosol,bud neck",cytosol,"punctate,bud neck","ambiguous,neck,cell periphery,bud,cytosol,bud neck",92.7,13.8,SWAT-GFP
+YPL259C,APM1,punctate,punctate,punctate,punctate,46.6,19.7,SWAT-GFP
+YPL264C,YPL264C,punctate,punctate,punctate,punctate,40.4,10.6,SWAT-GFP
+YPL265W,DIP5,"cell periphery,vacuole","cell periphery,vacuole",cell periphery,"cell periphery,vacuole",38.3,59.1,SWAT-GFP
+YPL274W,SAM3,ER,ER,below threshold,ER,60.3,11.6,SWAT-GFP
+YPL278C,YPL278C,ER,vacuole,below threshold,below threshold,135.7,12.2,SWAT-SP-GFP
+YPL279C,FEX2,cell periphery,cell periphery,below threshold,below threshold,39.7,8.9,SWAT-GFP
+YPL282C,PAU22,"ER,vacuole",vacuole,below threshold,below threshold,28.9,12.1,SWAT-SP-GFP
+YPR003C,YPR003C,vacuole membrane,vacuole,below threshold,ER,28.3,10.1,SWAT-GFP
+YPR010C-A,YPR010C-A,cytosol,cytosol,cytosol,0,43.2,13.8,SWAT-GFP
+YPR017C,DSS4,cytosol,cytosol,cytosol,"nucleus,cytosol",82.5,15.2,SWAT-GFP
+YPR026W,ATH1,punctate,vacuole,below threshold,below threshold,33.1,9.0,SWAT-GFP
+YPR027C,YPR027C,ER,vacuole,"ambigous,ER",below threshold,32.9,16.4,SWAT-SP-GFP
+YPR028W,YOP1,"cell periphery,ER,bud","cell periphery,ER,bud","cell periphery,ER,punctate",ER,95.5,36.3,SWAT-GFP
+YPR029C,APL4,"cytosol,punctate",punctate,punctate,punctate,75.8,22.8,SWAT-GFP
+YPR030W,CSR2,cytosol,cytosol,below threshold,below threshold,31.4,9.6,SWAT-GFP
+YPR032W,SRO7,cytosol,cytosol,"punctate,bud neck","cell periphery,bud,cytosol",82.3,14.0,SWAT-GFP
+YPR036W,VMA13,vacuole membrane,vacuole membrane,vacuole membrane,vacuole membrane,195.6,68.2,SWAT-GFP
+YPR037C,ERV2,"punctate,vacuole,vacuole membrane","vacuole,vacuole membrane",vacuole,vacuole,72.3,11.1,SWAT-GFP
+YPR049C,ATG11,punctate,punctate,punctate,punctate,41.6,13.7,SWAT-GFP
+YPR055W,SEC8,bud neck,cytosol,0,"ambiguous,neck,cell periphery,bud,cytosol,bud neck",62.7,N/D,SWAT-GFP
+YPR063C,YPR063C,ER,0,0,ER,N/D,N/D,SWAT-GFP
+YPR071W,YPR071W,"cell periphery,ER","cell periphery,ER",punctate,ER,52.0,12.6,SWAT-GFP
+YPR075C,OPY2,"ER,punctate","ER,vacuole,punctate",ER,vacuole,63.4,17.8,SWAT-GFP
+YPR079W,MRL1,vacuole membrane,0,0,punctate,N/D,N/D,SWAT-GFP
+YPR080W,TEF1,cytosol,cytosol,cytosol,0,357.2,382.3,SWAT-GFP
+YPR088C,SRP54,"ER,punctate","ER,punctate","ER,punctate",below threshold,118.1,36.3,SWAT-GFP
+YPR091C,NVJ2,"cell periphery,ER,punctate","cell periphery,ER,punctate","cell periphery,ER,punctate",ER,76.6,20.4,SWAT-GFP
+YPR095C,SYT1,cytosol,0,0,below threshold,N/D,N/D,SWAT-GFP
+YPR103W,PRE2,"cytosol,nucleus","cytosol,punctate,nucleus","cytosol,nucleus","nucleus,cytosol",140.7,73.3,SWAT-GFP
+YPR105C,COG4,"cytosol,punctate","cytosol,punctate",0,punctate,57.9,N/D,SWAT-GFP
+YPR109W,YPR109W,ER,ER,below threshold,below threshold,29.2,9.5,SWAT-GFP
+YPR113W,PIS1,ER,ER,ER,ER,126.2,40.0,SWAT-GFP
+YPR114W,YPR114W,ER,ER,"ambigous,ER",ER,31.8,9.9,SWAT-GFP
+YPR117W,YPR117W,punctate,punctate,below threshold,below threshold,16.1,9.6,SWAT-GFP
+YPR121W,THI22,ER,vacuole,ambigous,0,63.5,16.0,SWAT-SP-GFP
+YPR124W,CTR1,punctate,"vacuole,punctate",0,"cell periphery,bud",42.0,N/D,SWAT-GFP
+YPR128C,ANT1,punctate,"punctate,mitochondria",punctate,punctate,100.1,20.1,SWAT-GFP
+YPR133W-A,TOM5,mitochondria,0,0,0,N/D,N/D,SWAT-GFP
+YPR138C,MEP3,ER,"ER,vacuole",ER,cell periphery,24.2,N/D,SWAT-GFP
+YPR139C,LOA1,ER,ER,punctate,ambiguous,65.2,10.8,SWAT-GFP
+YPR140W,TAZ1,"punctate,mitochondria","punctate,mitochondria","punctate,mitochondria",mitochondria,57.5,15.0,SWAT-GFP
+YPR141C,KAR3,nucleus,nucleus,"nucleus,punctate","nucleus,punctate,punctate",39.1,13.4,SWAT-GFP
+YPR147C,YPR147C,punctate,punctate,"below threshold,punctate",cytosol,93.6,13.6,SWAT-GFP
+YPR149W,NCE102,"cell periphery,punctate",ER,"cell periphery,punctate",punctate,122.9,157.6,SWAT-GFP
+YPR153W,YPR153W,below threshold,below threshold,below threshold,cytosol,14.3,10.6,SWAT-GFP
+YPR156C,TPO3,cell periphery,cell periphery,cell periphery,cell periphery,66.5,16.7,SWAT-GFP
+YPR157W,TDA6,"cell periphery,vacuole","cell periphery,vacuole",below threshold,below threshold,56.3,12.2,SWAT-SP-GFP
+YPR159C-A,YPR159C-A,cytosol,cytosol,below threshold,0,38.7,10.6,SWAT-GFP
+YPR159W,KRE6,"punctate,bud neck","vacuole,bud neck","punctate,bud neck",vacuole,44.4,23.1,SWAT-GFP
+YPR165W,RHO1,"cell periphery,ER,bud","cell periphery,ER,bud",0,0,244.2,N/D,SWAT-GFP
+YPR170W-B,YPR170W-B,vacuole membrane,0,0,0,N/D,N/D,SWAT-GFP
+YPR173C,VPS4,punctate,punctate,below threshold,punctate,110.1,9.6,SWAT-GFP
+YPR176C,BET2,cytosol,"cytosol,punctate",cytosol,below threshold,82.6,20.3,SWAT-GFP
+YPR181C,SEC23,"ER,punctate","ER,punctate",0,below threshold,134.5,N/D,SWAT-GFP
+YPR183W,DPM1,"cell periphery,ER","cell periphery,ER","cell periphery,ER",ER,162.2,44.8,SWAT-GFP
+YPR185W,ATG13,cytosol,cytosol,cytosol,cytosol,46.0,10.5,SWAT-GFP
+YPR192W,AQY1,ER,ER,below threshold,below threshold,142.5,10.8,SWAT-GFP
+YPR194C,OPT2,"punctate,vacuole",vacuole,below threshold,below threshold,43.0,13.6,SWAT-GFP
+YPR198W,SGE1,ER,ER,below threshold,below threshold,29.5,9.2,SWAT-GFP
+YPR201W,ARR3,"punctate,vacuole",vacuole,vacuole,below threshold,30.9,9.2,SWAT-GFP
